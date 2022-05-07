@@ -1,0 +1,91 @@
+Creation Time: 2022_1_13-15-35-15
+15-35-15 | [INFO] SafeZoneCore - Started !
+15-35-15 | [INFO] TraderPlusCore - Started !
+15-35-15 | [INFO] TraderPlus file exist ! loading...
+15-35-15 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusGeneralConfig.json
+15-35-15 | [INFO] TraderPlus file exist ! loading...
+15-35-15 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusVehiclesConfig.json
+15-35-15 | [INFO] TraderPlus file exist ! loading...
+15-35-16 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+15-35-16 | [INFO] CheckForSpacesToRemove - Started
+15-35-16 | [INFO] CheckForSpacesToRemove - Ended
+15-35-16 | [INFO] TraderPlus file exist ! loading...
+15-35-16 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusIDsConfig.json
+15-35-16 | [INFO] TraderPlusServer - Started
+15-35-16 | [INFO] TraderPlusBankingCore - Started !
+15-35-16 | [ERROR] TraderPlusJsonLoader::LoadFromFile ERROR Parsing $profile:TraderPlus\TraderPlusConfig\TraderPlusBankingConfig.jsonJSON ERROR:
+The document is empty.
+15-35-16 | [INFO] TraderPlusBankingServer - Started
+15-35-16 | [INFO] CarLockCore - Started !
+15-35-16 | [INFO] CarLockServer - Started
+15-35-28 | [INFO] ID_count: 7
+15-35-28 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_0.json
+15-35-28 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_1.json
+15-35-28 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_2.json
+15-35-28 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_3.json
+15-35-28 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_4.json
+15-35-28 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_5.json
+15-35-28 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_6.json
+15-35-30 | [INFO] obj created: SurvivorM_Boris
+15-35-30 | [INFO] TraderPlayer created and added!: 
+15-35-30 | [INFO] obj created: SurvivorM_Boris
+15-35-30 | [INFO] TraderPlayer created and added!: 
+15-35-30 | [INFO] obj created: SurvivorM_Boris
+15-35-30 | [INFO] TraderPlayer created and added!: 
+15-35-30 | [INFO] obj created: SurvivorM_Boris
+15-35-30 | [INFO] TraderPlayer created and added!: 
+15-35-30 | [INFO] obj created: SurvivorM_Boris
+15-35-30 | [INFO] TraderPlayer created and added!: 
+15-35-30 | [INFO] obj created: SurvivorM_Boris
+15-35-30 | [INFO] TraderPlayer created and added!: 
+15-35-30 | [INFO] obj created: SurvivorM_Boris
+15-35-30 | [INFO] TraderPlayer created and added!: 
+16-10-4 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_171893815.json
+16-10-14 | [INFO] TraderID: 1 - Customer: IISnake - ClassName: Ammo_9x19 - Quantity: 25 - Multiplier: 25 - MaxStock: 1000 - Health: 0 - Price: 50 - Position: 229 - TradeMode:Buy
+16-10-14 | [INFO] Transaction Buy Succeeded:IISnake product:Ammo_9x19 quantity:625 health:0 price:50
+16-10-17 | [INFO] TraderID: 1 - Customer: IISnake - ClassName: Ammo_9x19 - Quantity: 1 - Multiplier: 1 - MaxStock: 1000 - Health: 0 - Price: 2 - Position: 229 - TradeMode:Buy
+16-10-17 | [INFO] Transaction Buy Succeeded:IISnake product:Ammo_9x19 quantity:1 health:0 price:2
+16-10-18 | [INFO] TraderID: 1 - Customer: IISnake - ClassName: Ammo_9x19 - Quantity: 1 - Multiplier: 1 - MaxStock: 1000 - Health: 0 - Price: 2 - Position: 229 - TradeMode:Buy
+16-10-18 | [INFO] Transaction Buy Succeeded:IISnake product:Ammo_9x19 quantity:1 health:0 price:2
+16-10-21 | [INFO] TraderID: 1 - Customer: IISnake - ClassName: Ammo_9x19 - Quantity: 25 - Multiplier: 25 - MaxStock: 1000 - Health: 0 - Price: 50 - Position: 229 - TradeMode:Buy
+16-10-21 | [INFO] Transaction Buy Succeeded:IISnake product:Ammo_9x19 quantity:625 health:0 price:50
+16-10-23 | [INFO] TraderID: 1 - Customer: IISnake - ClassName: Ammo_9x19 - Quantity: 25 - Multiplier: 25 - MaxStock: 1000 - Health: 0 - Price: 50 - Position: 229 - TradeMode:Buy
+16-10-23 | [INFO] Transaction Buy Succeeded:IISnake product:Ammo_9x19 quantity:625 health:0 price:50
+16-10-36 | [INFO] TraderID: 1 - Customer: IISnake - ClassName: Ammo_9x19 - Quantity: 23 - Multiplier: 23 - MaxStock: 1000 - Health: 0 - Price: 46 - Position: 229 - TradeMode:Buy
+16-10-36 | [INFO] Transaction Buy Succeeded:IISnake product:Ammo_9x19 quantity:529 health:0 price:46
+16-10-48 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_171893815.json
+16-10-56 | [INFO] TraderID: 2 - Customer: IISnake - ClassName: HeadlightH7_Box - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 10 - Position: 20 - TradeMode:Buy
+16-10-56 | [INFO] Transaction Buy Succeeded:IISnake product:HeadlightH7_Box quantity:0 health:0 price:10
+16-11-2 | [INFO] TraderID: 2 - Customer: IISnake - ClassName: CarBattery - Quantity: 50 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 400 - Position: 44 - TradeMode:Buy
+16-11-2 | [INFO] Transaction Buy Succeeded:IISnake product:CarBattery quantity:50 health:0 price:400
+16-19-1 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_171893815.json
+16-19-6 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_171893815.json
+16-19-13 | [INFO] TraderID: 3 - Customer: IISnake - ClassName: MilitaryBoots_Redpunk - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 300 - Position: 168 - TradeMode:Buy
+16-19-13 | [INFO] Transaction Buy Succeeded:IISnake product:MilitaryBoots_Redpunk quantity:0 health:0 price:300
+16-19-26 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_171893815.json
+16-19-49 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_171893815.json
+16-19-57 | [INFO] TraderID: 0 - Customer: IISnake - ClassName: TacticalBaconCan - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 20 - Position: 9 - TradeMode:Buy
+16-19-57 | [INFO] Transaction Buy Succeeded:IISnake product:TacticalBaconCan quantity:0 health:0 price:20
+16-24-40 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_171893815.json
+16-24-45 | [INFO] TraderID: 4 - Customer: IISnake - ClassName: Morphine - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 100 - Position: 14 - TradeMode:Buy
+16-24-45 | [INFO] Transaction Buy Succeeded:IISnake product:Morphine quantity:0 health:0 price:100
+16-26-13 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_171893815.json
+16-27-59 | [INFO] TraderID: 3 - Customer: IISnake - ClassName: MVS_Balaclava_Black - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 200 - Position: 233 - TradeMode:Buy
+16-27-59 | [INFO] Transaction Buy Succeeded:IISnake product:MVS_Balaclava_Black quantity:0 health:0 price:200
+16-28-6 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_171893815.json
+16-28-19 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_171893815.json
+16-28-57 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_171893815.json
+16-29-44 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_171893815.json
+16-30-40 | [INFO] TraderID: 1 - Customer: IISnake - ClassName: SNAFUSWM629 - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 600 - Position: 506 - TradeMode:Buy
+16-30-40 | [INFO] Transaction Buy Succeeded:IISnake product:SNAFUSWM629 quantity:0 health:0 price:600
+16-30-58 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_171893815.json
+16-31-31 | [INFO] TraderID: 1 - Customer: IISnake - ClassName: SNAFU_Ammo_44 - Quantity: 12 - Multiplier: 12 - MaxStock: 1000 - Health: 0 - Price: 72 - Position: 306 - TradeMode:Buy
+16-31-31 | [INFO] Transaction Buy Succeeded:IISnake product:SNAFU_Ammo_44 quantity:144 health:0 price:72
+16-32-30 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_171893815.json
+16-32-34 | [INFO] TraderID: 1 - Customer: IISnake - ClassName: M18SmokeGrenade_White - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: 361 - TradeMode:Sell
+16-32-34 | [INFO] Transaction Sell Succeeded:IISnake product:M18SmokeGrenade_White quantity:0 health:0 price:160
+16-37-57 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_171893815.json
+16-38-3 | [INFO] TraderID: 1 - Customer: IISnake - ClassName: SNAFUSWM629 - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 480 - Position: -1 - TradeMode:Sell
+16-38-3 | [INFO] Transaction Sell Succeeded:IISnake product:SNAFUSWM629 quantity:0 health:0 price:480
+16-38-5 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_171893815.json
+16-38-25 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_171893815.json

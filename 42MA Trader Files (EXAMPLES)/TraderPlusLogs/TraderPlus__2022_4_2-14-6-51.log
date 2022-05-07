@@ -1,0 +1,54 @@
+Creation Time: 2022_4_2-14-6-51
+14-6-51 | [INFO] SafeZoneCore - Started !
+14-6-51 | [INFO] TraderPlusCore - Started !
+14-6-51 | [INFO] TraderPlus file exist ! loading...
+14-6-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusGeneralConfig.json
+14-6-51 | [INFO] TraderPlus file exist ! loading...
+14-6-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusVehiclesConfig.json
+14-6-51 | [INFO] TraderPlus file exist ! loading...
+14-6-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+14-6-51 | [INFO] TraderPlus file exist ! loading...
+14-6-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusIDsConfig.json
+14-6-51 | [INFO] TraderPlus file exist ! loading...
+14-6-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusInsuranceConfig.json
+14-6-51 | [INFO] TraderPlus file exist ! loading...
+14-6-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+14-6-51 | [INFO] TraderPlusServer - Started
+14-6-51 | [INFO] TraderPlusBankingCore - Started !
+14-6-51 | [ERROR] TraderPlusJsonLoader::LoadFromFile ERROR Parsing $profile:TraderPlus\TraderPlusConfig\TraderPlusBankingConfig.jsonJSON ERROR:
+The document is empty.
+14-6-51 | [INFO] TraderPlusBankingServer - Started
+14-6-51 | [INFO] CarLockCore - Started !
+14-6-51 | [INFO] CarLockServer - Started
+14-7-10 | [INFO] ID_count: 5
+14-7-10 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Electronics.json
+14-7-10 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Gear.json
+14-7-10 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Survival.json
+14-7-10 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Weapons.json
+14-7-10 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Ammo.json
+14-7-10 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Money Exchange.json
+14-7-10 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Food.json
+14-7-10 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Medical.json
+14-7-10 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Money Exchange.json
+14-7-10 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Auto Parts.json
+14-7-10 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Money Exchange.json
+14-7-10 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Tools.json
+14-7-10 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Money Exchange.json
+14-7-10 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_4\That Good Good.json
+14-7-10 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Electronics.json
+14-7-10 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Money Exchange.json
+14-7-10 | [INFO] SetTradersSpawner: Started
+14-7-13 | [INFO] obj created: SurvivorM_Boris
+14-7-13 | [INFO] TraderPlayer created and added!: 
+14-7-13 | [INFO] obj created: SurvivorF_Helga
+14-7-13 | [INFO] TraderPlayer created and added!: 
+14-7-13 | [INFO] obj created: SurvivorM_Jose
+14-7-13 | [INFO] TraderPlayer created and added!: 
+14-7-13 | [INFO] obj created: SurvivorM_Taiki
+14-7-13 | [INFO] TraderPlayer created and added!: 
+14-7-13 | [INFO] obj created: SurvivorF_Eva
+14-7-13 | [INFO] TraderPlayer created and added!: 
+14-7-13 | [INFO] SetTradersSpawner: Ended
+14-7-13 | [INFO] SetObjectSpawner: Started
+14-7-13 | [INFO] SetObjectSpawner: Ended
+14-7-13 | [INFO] DefaultTraderStock - Started

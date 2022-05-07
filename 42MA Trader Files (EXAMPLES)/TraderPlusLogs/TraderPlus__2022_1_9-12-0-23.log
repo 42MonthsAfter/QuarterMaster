@@ -1,0 +1,159 @@
+Creation Time: 2022_1_9-12-0-23
+12-0-23 | [INFO] SafeZoneCore - Started !
+12-0-23 | [INFO] TraderPlusCore - Started !
+12-0-23 | [INFO] TraderPlus file exist ! loading...
+12-0-23 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusGeneralConfig.json
+12-0-23 | [INFO] TraderPlus file exist ! loading...
+12-0-23 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusVehiclesConfig.json
+12-0-23 | [INFO] TraderPlus file exist ! loading...
+12-0-24 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+12-0-24 | [INFO] CheckForSpacesToRemove - Started
+12-0-24 | [INFO] CheckForSpacesToRemove - Ended
+12-0-24 | [INFO] TraderPlus file exist ! loading...
+12-0-24 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusIDsConfig.json
+12-0-24 | [INFO] TraderPlusServer - Started
+12-0-24 | [INFO] TraderPlusBankingCore - Started !
+12-0-24 | [ERROR] TraderPlusJsonLoader::LoadFromFile ERROR Parsing $profile:TraderPlus\TraderPlusConfig\TraderPlusBankingConfig.jsonJSON ERROR:
+The document is empty.
+12-0-24 | [INFO] TraderPlusBankingServer - Started
+12-0-24 | [INFO] CarLockCore - Started !
+12-0-24 | [INFO] CarLockServer - Started
+12-0-36 | [INFO] ID_count: 7
+12-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_0.json
+12-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_1.json
+12-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_2.json
+12-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_3.json
+12-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_4.json
+12-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_5.json
+12-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_6.json
+12-0-38 | [INFO] obj created: SurvivorM_Boris
+12-0-38 | [INFO] TraderPlayer created and added!: 
+12-0-38 | [INFO] obj created: SurvivorM_Boris
+12-0-38 | [INFO] TraderPlayer created and added!: 
+12-0-38 | [INFO] obj created: SurvivorM_Boris
+12-0-38 | [INFO] TraderPlayer created and added!: 
+12-0-38 | [INFO] obj created: SurvivorM_Boris
+12-0-38 | [INFO] TraderPlayer created and added!: 
+12-0-38 | [INFO] obj created: SurvivorM_Boris
+12-0-38 | [INFO] TraderPlayer created and added!: 
+12-0-38 | [INFO] obj created: SurvivorM_Boris
+12-0-38 | [INFO] TraderPlayer created and added!: 
+12-0-38 | [INFO] obj created: SurvivorM_Boris
+12-0-38 | [INFO] TraderPlayer created and added!: 
+12-8-29 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_37362182.json
+12-8-37 | [INFO] TraderID: 1 - Customer: Trillspectre - ClassName: M18SmokeGrenade_Yellow - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: 140 - TradeMode:Sell
+12-8-37 | [INFO] Transaction Sell Succeeded:Trillspectre product:M18SmokeGrenade_Yellow quantity:0 health:0 price:160
+12-8-46 | [INFO] TraderID: 1 - Customer: Trillspectre - ClassName: Mag_UMP_25Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 360 - Position: 297 - TradeMode:Sell
+12-8-46 | [INFO] Transaction Sell Succeeded:Trillspectre product:Mag_UMP_25Rnd quantity:0 health:0 price:360
+12-8-55 | [INFO] TraderID: 1 - Customer: Trillspectre - ClassName: M4_MPHndgrd - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 240 - Position: 39 - TradeMode:Sell
+12-8-55 | [INFO] Transaction Sell Succeeded:Trillspectre product:M4_MPHndgrd quantity:0 health:0 price:240
+12-9-3 | [INFO] TraderID: 1 - Customer: Trillspectre - ClassName: zenitco_pt3_buttstock_mung - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 240 - Position: 229 - TradeMode:Sell
+12-9-3 | [INFO] Transaction Sell Succeeded:Trillspectre product:zenitco_pt3_buttstock_mung quantity:0 health:0 price:240
+12-9-16 | [INFO] TraderID: 1 - Customer: Trillspectre - ClassName: Gewehr43_mung - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 880 - Position: -1 - TradeMode:Sell
+12-9-16 | [INFO] Transaction Sell Succeeded:Trillspectre product:Gewehr43_mung quantity:0 health:0 price:880
+12-9-23 | [INFO] TraderID: 1 - Customer: Trillspectre - ClassName: Izh43Shotgun - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 640 - Position: 49 - TradeMode:Sell
+12-9-23 | [INFO] Transaction Sell Succeeded:Trillspectre product:Izh43Shotgun quantity:0 health:0 price:640
+12-9-28 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_171893815.json
+12-9-40 | [INFO] TraderID: 3 - Customer: IISnake - ClassName: M65Jacket_Black - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 200 - Position: 35 - TradeMode:Sell
+12-9-40 | [INFO] Transaction Sell Succeeded:IISnake product:M65Jacket_Black quantity:0 health:0 price:200
+12-9-42 | [INFO] TraderID: 3 - Customer: IISnake - ClassName: MassGorkaInvertFlecktarnTop - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 200 - Position: -1 - TradeMode:Sell
+12-9-42 | [INFO] Transaction Sell Succeeded:IISnake product:MassGorkaInvertFlecktarnTop quantity:0 health:0 price:200
+12-9-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_37362182.json
+12-10-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_171893815.json
+12-10-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_171893815.json
+12-11-2 | [INFO] TraderID: 1 - Customer: IISnake - ClassName: AK_Suppressor - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 640 - Position: 66 - TradeMode:Sell
+12-11-2 | [INFO] Transaction Sell Succeeded:IISnake product:AK_Suppressor quantity:0 health:0 price:640
+12-11-18 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_171893815.json
+12-11-18 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_37362182.json
+12-11-23 | [INFO] TraderID: 4 - Customer: Trillspectre - ClassName: TetracyclineAntibiotics - Quantity: 12 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 40 - Position: 17 - TradeMode:Buy
+12-11-23 | [INFO] Transaction Buy Succeeded:Trillspectre product:TetracyclineAntibiotics quantity:12 health:0 price:40
+12-11-26 | [INFO] TraderID: 1 - Customer: IISnake - ClassName: Ammo_762x39Tracer - Quantity: 6 - Multiplier: 6 - MaxStock: 1000 - Health: 0 - Price: 18 - Position: -1 - TradeMode:Sell
+12-11-26 | [INFO] Transaction Sell Succeeded:IISnake product:Ammo_762x39Tracer quantity:36 health:0 price:18
+12-13-57 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_37362182.json
+12-14-7 | [INFO] TraderID: 3 - Customer: Trillspectre - ClassName: rifleholster_TTsKO_mung - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 136 - Position: -1 - TradeMode:Sell
+12-14-7 | [INFO] Transaction Sell Succeeded:Trillspectre product:rifleholster_TTsKO_mung quantity:0 health:0 price:136
+12-14-13 | [INFO] TraderID: 3 - Customer: Trillspectre - ClassName: MVS_Combat_Vest_Heavy_Black - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 3200 - Position: -1 - TradeMode:Sell
+12-14-13 | [INFO] Transaction Sell Succeeded:Trillspectre product:MVS_Combat_Vest_Heavy_Black quantity:0 health:0 price:3200
+12-14-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_37362182.json
+12-15-15 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_37362182.json
+12-15-31 | [INFO] TraderID: 3 - Customer: Trillspectre - ClassName: MassBlackYellowMB - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 672 - Position: -1 - TradeMode:Sell
+12-15-31 | [INFO] Transaction Sell Succeeded:Trillspectre product:MassBlackYellowMB quantity:0 health:0 price:672
+12-16-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_37362182.json
+12-16-44 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_37362182.json
+12-16-50 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_37362182.json
+12-18-8 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_37362182.json
+12-18-18 | [INFO] TraderID: 3 - Customer: Trillspectre - ClassName: MassGhillieTopBoxWoodland - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 480 - Position: -1 - TradeMode:Sell
+12-18-18 | [INFO] Transaction Sell Succeeded:Trillspectre product:MassGhillieTopBoxWoodland quantity:0 health:0 price:480
+12-18-31 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_37362182.json
+12-18-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_37362182.json
+12-18-58 | [INFO] TraderID: 2 - Customer: Trillspectre - ClassName: DuctTape - Quantity: 100 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 200 - Position: 11 - TradeMode:Buy
+12-18-58 | [INFO] Transaction Buy Succeeded:Trillspectre product:DuctTape quantity:100 health:0 price:200
+12-19-9 | [INFO] TraderID: 2 - Customer: Trillspectre - ClassName: Msp_RifleSafe_Purple_Kit - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 1500 - Position: 35 - TradeMode:Buy
+12-19-9 | [INFO] Transaction Buy Succeeded:Trillspectre product:Msp_RifleSafe_Purple_Kit quantity:0 health:0 price:1500
+12-20-19 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_37362182.json
+12-20-49 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_37362182.json
+12-20-59 | [INFO] TraderID: 1 - Customer: Trillspectre - ClassName: Ammo_762x39 - Quantity: 6 - Multiplier: 6 - MaxStock: 1000 - Health: 0 - Price: 18 - Position: 165 - TradeMode:Sell
+12-20-59 | [INFO] Transaction Sell Succeeded:Trillspectre product:Ammo_762x39 quantity:36 health:0 price:18
+12-21-3 | [INFO] TraderID: 1 - Customer: Trillspectre - ClassName: Ammo_45ACP - Quantity: 22 - Multiplier: 22 - MaxStock: 1000 - Health: 0 - Price: 66 - Position: 136 - TradeMode:Sell
+12-21-3 | [INFO] Transaction Sell Succeeded:Trillspectre product:Ammo_45ACP quantity:484 health:0 price:66
+12-21-18 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_171893815.json
+12-21-28 | [INFO] TraderID: 3 - Customer: IISnake - ClassName: PoliceVest - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 120 - Position: 106 - TradeMode:Sell
+12-21-28 | [INFO] Transaction Sell Succeeded:IISnake product:PoliceVest quantity:0 health:0 price:120
+12-21-32 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_37362182.json
+12-21-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_171893815.json
+12-21-39 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_37362182.json
+12-21-48 | [INFO] TraderID: 1 - Customer: IISnake - ClassName: Ammo_9x19 - Quantity: 10 - Multiplier: 10 - MaxStock: 1000 - Health: 0 - Price: 10 - Position: 250 - TradeMode:Sell
+12-21-48 | [INFO] Transaction Sell Succeeded:IISnake product:Ammo_9x19 quantity:100 health:0 price:10
+12-21-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_171893815.json
+12-22-8 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_171893815.json
+12-22-15 | [INFO] TraderID: 1 - Customer: IISnake - ClassName: UniversalLight - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: 286 - TradeMode:Sell
+12-22-15 | [INFO] Transaction Sell Succeeded:IISnake product:UniversalLight quantity:0 health:0 price:160
+12-22-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_171893815.json
+12-23-10 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_37362182.json
+12-23-14 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_37362182.json
+12-23-17 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_171893815.json
+12-23-20 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_37362182.json
+12-23-28 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_171893815.json
+12-23-35 | [INFO] TraderID: 3 - Customer: IISnake - ClassName: MassGhillieSuitMossy - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 480 - Position: 124 - TradeMode:Sell
+12-23-35 | [INFO] Transaction Sell Succeeded:IISnake product:MassGhillieSuitMossy quantity:0 health:0 price:480
+12-23-37 | [INFO] TraderID: 3 - Customer: IISnake - ClassName: MassGhillieHoodMossy - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: 125 - TradeMode:Sell
+12-23-37 | [INFO] Transaction Sell Succeeded:IISnake product:MassGhillieHoodMossy quantity:0 health:0 price:160
+12-26-5 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_37362182.json
+12-26-23 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_171893815.json
+12-26-34 | [INFO] TraderID: 2 - Customer: IISnake - ClassName: LeatherSewingKit - Quantity: 100 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 200 - Position: 13 - TradeMode:Buy
+12-26-34 | [INFO] Transaction Buy Succeeded:IISnake product:LeatherSewingKit quantity:100 health:0 price:200
+12-26-45 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_171893815.json
+12-26-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_171893815.json
+12-27-6 | [INFO] TraderID: 3 - Customer: IISnake - ClassName: JungleBoots_Black - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 200 - Position: 21 - TradeMode:Buy
+12-27-6 | [INFO] Transaction Buy Succeeded:IISnake product:JungleBoots_Black quantity:0 health:0 price:200
+12-27-25 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_37362182.json
+12-27-29 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_37362182.json
+12-27-39 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_37362182.json
+12-27-46 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_37362182.json
+12-27-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_37362182.json
+12-28-1 | [INFO] TraderID: 2 - Customer: Trillspectre - ClassName: LeatherSewingKit - Quantity: 100 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 200 - Position: 13 - TradeMode:Buy
+12-28-1 | [INFO] Transaction Buy Succeeded:Trillspectre product:LeatherSewingKit quantity:100 health:0 price:200
+12-28-5 | [INFO] TraderID: 2 - Customer: Trillspectre - ClassName: SewingKit - Quantity: 100 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 80 - Position: 14 - TradeMode:Sell
+12-28-5 | [INFO] Transaction Sell Succeeded:Trillspectre product:SewingKit quantity:100 health:0 price:80
+12-28-24 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_171893815.json
+12-28-34 | [INFO] TraderID: 3 - Customer: IISnake - ClassName: MassGhillieSuitWoodland - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 480 - Position: -1 - TradeMode:Sell
+12-28-34 | [INFO] Transaction Sell Succeeded:IISnake product:MassGhillieSuitWoodland quantity:0 health:0 price:480
+12-28-37 | [INFO] TraderID: 3 - Customer: IISnake - ClassName: MassGhillieHood_Woodland - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: -1 - TradeMode:Sell
+12-28-37 | [INFO] Transaction Sell Succeeded:IISnake product:MassGhillieHood_Woodland quantity:0 health:0 price:160
+12-31-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_37362182.json
+12-32-14 | [INFO] TraderID: 1 - Customer: Trillspectre - ClassName: MassB52 - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 1200 - Position: 310 - TradeMode:Sell
+12-32-14 | [INFO] Transaction Sell Succeeded:Trillspectre product:MassB52 quantity:0 health:0 price:1200
+12-32-20 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_37362182.json
+12-32-32 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_37362182.json
+12-32-41 | [INFO] TraderID: 4 - Customer: Trillspectre - ClassName: AMS_POX - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 150 - Position: 7 - TradeMode:Buy
+12-32-41 | [INFO] Transaction Buy Succeeded:Trillspectre product:AMS_POX quantity:0 health:0 price:150
+12-32-44 | [INFO] TraderID: 4 - Customer: Trillspectre - ClassName: AMS_Splint - Quantity: 100 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 100 - Position: 12 - TradeMode:Buy
+12-32-44 | [INFO] Transaction Buy Succeeded:Trillspectre product:AMS_Splint quantity:100 health:0 price:100
+12-33-19 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_37362182.json
+12-33-32 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_37362182.json
+12-34-23 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_37362182.json
+12-34-32 | [INFO] TraderID: 2 - Customer: Trillspectre - ClassName: Flashlight - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 64 - Position: 27 - TradeMode:Sell
+12-34-32 | [INFO] Transaction Sell Succeeded:Trillspectre product:Flashlight quantity:0 health:0 price:64
+12-34-58 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_37362182.json
+12-35-11 | [INFO] TraderID: 3 - Customer: Trillspectre - ClassName: MassNBCbootsYellow - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 100 - Position: 24 - TradeMode:Buy
+12-35-11 | [INFO] Transaction Buy Succeeded:Trillspectre product:MassNBCbootsYellow quantity:0 health:0 price:100

@@ -1,0 +1,101 @@
+Creation Time: 2022_1_17-18-0-23
+18-0-23 | [INFO] SafeZoneCore - Started !
+18-0-23 | [INFO] TraderPlusCore - Started !
+18-0-23 | [INFO] TraderPlus file exist ! loading...
+18-0-23 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusGeneralConfig.json
+18-0-23 | [INFO] TraderPlus file exist ! loading...
+18-0-23 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusVehiclesConfig.json
+18-0-23 | [INFO] TraderPlus file exist ! loading...
+18-0-24 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+18-0-24 | [INFO] CheckForSpacesToRemove - Started
+18-0-24 | [INFO] CheckForSpacesToRemove - Ended
+18-0-24 | [INFO] TraderPlus file exist ! loading...
+18-0-24 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusIDsConfig.json
+18-0-24 | [INFO] TraderPlusServer - Started
+18-0-24 | [INFO] TraderPlusBankingCore - Started !
+18-0-24 | [ERROR] TraderPlusJsonLoader::LoadFromFile ERROR Parsing $profile:TraderPlus\TraderPlusConfig\TraderPlusBankingConfig.jsonJSON ERROR:
+The document is empty.
+18-0-24 | [INFO] TraderPlusBankingServer - Started
+18-0-24 | [INFO] CarLockCore - Started !
+18-0-24 | [INFO] CarLockServer - Started
+18-0-36 | [INFO] ID_count: 9
+18-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_0.json
+18-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_1.json
+18-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_2.json
+18-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_3.json
+18-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_4.json
+18-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_5.json
+18-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_6.json
+18-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_7.json
+18-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_8.json
+18-0-38 | [INFO] obj created: SurvivorM_Boris
+18-0-38 | [INFO] TraderPlayer created and added!: 
+18-0-38 | [INFO] obj created: SurvivorM_Boris
+18-0-38 | [INFO] TraderPlayer created and added!: 
+18-0-38 | [INFO] obj created: SurvivorM_Boris
+18-0-38 | [INFO] TraderPlayer created and added!: 
+18-0-38 | [INFO] obj created: SurvivorM_Boris
+18-0-38 | [INFO] TraderPlayer created and added!: 
+18-0-38 | [INFO] obj created: SurvivorM_Boris
+18-0-38 | [INFO] TraderPlayer created and added!: 
+18-0-38 | [INFO] obj created: SurvivorM_Boris
+18-0-38 | [INFO] TraderPlayer created and added!: 
+18-0-38 | [INFO] obj created: SurvivorM_Boris
+18-0-38 | [INFO] TraderPlayer created and added!: 
+18-0-38 | [INFO] obj created: SurvivorM_Boris
+18-0-38 | [INFO] TraderPlayer created and added!: 
+18-0-38 | [INFO] obj created: SurvivorM_Boris
+18-0-38 | [INFO] TraderPlayer created and added!: 
+18-10-27 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_69464245.json
+18-10-32 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_69464245.json
+18-10-38 | [INFO] TraderID: 1 - Customer: -name=bronzebeard - ClassName: MKII - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: 162 - TradeMode:Sell
+18-10-38 | [INFO] Transaction Sell Succeeded:-name=bronzebeard product:MKII quantity:0 health:0 price:160
+18-11-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_69464245.json
+18-12-57 | [INFO] TraderID: 3 - Customer: -name=bronzebeard - ClassName: MVS_Taco_Pouch_Tan - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 400 - Position: 308 - TradeMode:Buy
+18-12-57 | [INFO] Transaction Buy Succeeded:-name=bronzebeard product:MVS_Taco_Pouch_Tan quantity:0 health:0 price:400
+18-14-26 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_69464245.json
+18-14-45 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_69464245.json
+18-14-52 | [INFO] TraderID: 3 - Customer: -name=bronzebeard - ClassName: MassPlateCarrierPouches_ODG - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 240 - Position: 281 - TradeMode:Sell
+18-14-52 | [INFO] Transaction Sell Succeeded:-name=bronzebeard product:MassPlateCarrierPouches_ODG quantity:0 health:0 price:240
+18-14-59 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_69464245.json
+18-15-12 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_69464245.json
+18-15-26 | [INFO] TraderID: 0 - Customer: -name=bronzebeard - ClassName: BrisketSpread - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 10 - Position: -1 - TradeMode:Buy
+18-15-26 | [INFO] Transaction Buy Succeeded:-name=bronzebeard product:BrisketSpread quantity:0 health:0 price:10
+18-15-27 | [INFO] TraderID: 0 - Customer: -name=bronzebeard - ClassName: BrisketSpread - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 10 - Position: -1 - TradeMode:Buy
+18-15-27 | [INFO] Transaction Buy Succeeded:-name=bronzebeard product:BrisketSpread quantity:0 health:0 price:10
+18-15-40 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_69464245.json
+18-16-28 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_69464245.json
+18-16-54 | [INFO] TraderID: 1 - Customer: -name=bronzebeard - ClassName: AmmoBox_9x19_25rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 500 - Health: 0 - Price: 1 - Position: 75 - TradeMode:Buy
+18-16-54 | [INFO] Transaction Buy Succeeded:-name=bronzebeard product:AmmoBox_9x19_25rnd quantity:0 health:0 price:1
+18-16-56 | [INFO] TraderID: 1 - Customer: -name=bronzebeard - ClassName: AmmoBox_9x19_25rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 500 - Health: 0 - Price: 1 - Position: 75 - TradeMode:Buy
+18-16-56 | [INFO] Transaction Buy Succeeded:-name=bronzebeard product:AmmoBox_9x19_25rnd quantity:0 health:0 price:1
+18-16-58 | [INFO] TraderID: 1 - Customer: -name=bronzebeard - ClassName: AmmoBox_9x19_25rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 500 - Health: 0 - Price: 1 - Position: 75 - TradeMode:Buy
+18-16-58 | [INFO] Transaction Buy Succeeded:-name=bronzebeard product:AmmoBox_9x19_25rnd quantity:0 health:0 price:1
+18-17-0 | [INFO] TraderID: 1 - Customer: -name=bronzebeard - ClassName: AmmoBox_9x19_25rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 500 - Health: 0 - Price: 1 - Position: 75 - TradeMode:Buy
+18-17-0 | [INFO] Transaction Buy Succeeded:-name=bronzebeard product:AmmoBox_9x19_25rnd quantity:0 health:0 price:1
+18-17-41 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_69464245.json
+18-18-4 | [INFO] TraderID: 3 - Customer: -name=bronzebeard - ClassName: BeanieHat_Black - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 50 - Position: 304 - TradeMode:Buy
+18-18-4 | [INFO] Transaction Buy Succeeded:-name=bronzebeard product:BeanieHat_Black quantity:0 health:0 price:50
+18-27-7 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_69464245.json
+18-27-21 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_69464245.json
+18-27-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_69464245.json
+18-27-42 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_69464245.json
+18-27-55 | [INFO] TraderID: 1 - Customer: -name=bronzebeard - ClassName: FNP45_MRDSOptic - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 200 - Position: 503 - TradeMode:Buy
+18-27-55 | [INFO] Transaction Buy Succeeded:-name=bronzebeard product:FNP45_MRDSOptic quantity:0 health:0 price:200
+18-28-13 | [INFO] TraderID: 1 - Customer: -name=bronzebeard - ClassName: TLRLight - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 200 - Position: 238 - TradeMode:Buy
+18-28-13 | [INFO] Transaction Buy Succeeded:-name=bronzebeard product:TLRLight quantity:0 health:0 price:200
+18-28-39 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_69464245.json
+18-28-58 | [INFO] TraderID: 2 - Customer: -name=bronzebeard - ClassName: PetrolLighter - Quantity: 20 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 100 - Position: 0 - TradeMode:Buy
+18-28-58 | [INFO] Transaction Buy Succeeded:-name=bronzebeard product:PetrolLighter quantity:20 health:0 price:100
+18-29-41 | [INFO] TraderID: 2 - Customer: -name=bronzebeard - ClassName: PortableGasLamp - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 200 - Position: 8 - TradeMode:Buy
+18-29-41 | [INFO] Transaction Buy Succeeded:-name=bronzebeard product:PortableGasLamp quantity:0 health:0 price:200
+18-29-43 | [INFO] TraderID: 2 - Customer: -name=bronzebeard - ClassName: SmallGasCanister - Quantity: 20 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 200 - Position: 7 - TradeMode:Buy
+18-29-43 | [INFO] Transaction Buy Succeeded:-name=bronzebeard product:SmallGasCanister quantity:20 health:0 price:200
+18-36-17 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_69464245.json
+18-36-35 | [INFO] TraderID: 4 - Customer: -name=bronzebeard - ClassName: VitaminBottle - Quantity: 50 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 100 - Position: -1 - TradeMode:Buy
+18-36-35 | [INFO] Transaction Buy Succeeded:-name=bronzebeard product:VitaminBottle quantity:50 health:0 price:100
+18-36-51 | [INFO] TraderID: 4 - Customer: -name=bronzebeard - ClassName: PainkillerTablets - Quantity: 12 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 40 - Position: 15 - TradeMode:Buy
+18-36-51 | [INFO] Transaction Buy Succeeded:-name=bronzebeard product:PainkillerTablets quantity:12 health:0 price:40
+18-38-12 | [INFO] TraderID: 4 - Customer: -name=bronzebeard - ClassName: Thermometer - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 10 - Position: 3 - TradeMode:Buy
+18-38-12 | [INFO] Transaction Buy Succeeded:-name=bronzebeard product:Thermometer quantity:0 health:0 price:10
+18-40-45 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_69464245.json

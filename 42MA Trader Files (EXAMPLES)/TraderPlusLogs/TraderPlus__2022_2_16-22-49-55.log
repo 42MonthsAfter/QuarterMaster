@@ -1,0 +1,20 @@
+Creation Time: 2022_2_16-22-49-55
+22-49-55 | [INFO] SafeZoneCore - Started !
+22-49-55 | [INFO] TraderPlusCore - Started !
+22-49-55 | [INFO] TraderPlus file exist ! loading...
+22-49-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusGeneralConfig.json
+22-49-55 | [INFO] TraderPlus file exist ! loading...
+22-49-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusVehiclesConfig.json
+22-49-55 | [INFO] TraderPlus file exist ! loading...
+22-49-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+22-49-56 | [INFO] CheckForSpacesToRemove - Started
+22-49-56 | [INFO] CheckForSpacesToRemove - Ended
+22-49-56 | [INFO] TraderPlus file exist ! loading...
+22-49-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusIDsConfig.json
+22-49-56 | [INFO] TraderPlusServer - Started
+22-49-56 | [INFO] TraderPlusBankingCore - Started !
+22-49-56 | [ERROR] TraderPlusJsonLoader::LoadFromFile ERROR Parsing $profile:TraderPlus\TraderPlusConfig\TraderPlusBankingConfig.jsonJSON ERROR:
+The document is empty.
+22-49-56 | [INFO] TraderPlusBankingServer - Started
+22-49-56 | [INFO] CarLockCore - Started !
+22-49-56 | [INFO] CarLockServer - Started

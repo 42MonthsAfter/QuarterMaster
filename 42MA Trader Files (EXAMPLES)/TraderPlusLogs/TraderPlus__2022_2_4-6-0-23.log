@@ -1,0 +1,85 @@
+Creation Time: 2022_2_4-6-0-23
+6-0-23 | [INFO] SafeZoneCore - Started !
+6-0-23 | [INFO] TraderPlusCore - Started !
+6-0-23 | [INFO] TraderPlus file exist ! loading...
+6-0-23 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusGeneralConfig.json
+6-0-23 | [INFO] TraderPlus file exist ! loading...
+6-0-23 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusVehiclesConfig.json
+6-0-23 | [INFO] TraderPlus file exist ! loading...
+6-0-24 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+6-0-24 | [INFO] CheckForSpacesToRemove - Started
+6-0-24 | [INFO] CheckForSpacesToRemove - Ended
+6-0-24 | [INFO] TraderPlus file exist ! loading...
+6-0-24 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusIDsConfig.json
+6-0-24 | [INFO] TraderPlusServer - Started
+6-0-24 | [INFO] TraderPlusBankingCore - Started !
+6-0-24 | [ERROR] TraderPlusJsonLoader::LoadFromFile ERROR Parsing $profile:TraderPlus\TraderPlusConfig\TraderPlusBankingConfig.jsonJSON ERROR:
+The document is empty.
+6-0-24 | [INFO] TraderPlusBankingServer - Started
+6-0-24 | [INFO] CarLockCore - Started !
+6-0-24 | [INFO] CarLockServer - Started
+6-0-39 | [INFO] ID_count: 11
+6-0-39 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_0.json
+6-0-39 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_1.json
+6-0-39 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_2.json
+6-0-39 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_3.json
+6-0-39 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_4.json
+6-0-39 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_5.json
+6-0-39 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_6.json
+6-0-39 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_7.json
+6-0-39 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_8.json
+6-0-39 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_9.json
+6-0-39 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_10.json
+6-0-41 | [INFO] obj created: SurvivorM_Boris
+6-0-41 | [INFO] TraderPlayer created and added!: 
+6-0-41 | [INFO] obj created: SurvivorM_Boris
+6-0-41 | [INFO] TraderPlayer created and added!: 
+6-0-41 | [INFO] obj created: SurvivorM_Boris
+6-0-41 | [INFO] TraderPlayer created and added!: 
+6-0-41 | [INFO] obj created: SurvivorM_Boris
+6-0-41 | [INFO] TraderPlayer created and added!: 
+6-0-41 | [INFO] obj created: SurvivorM_Boris
+6-0-41 | [INFO] TraderPlayer created and added!: 
+6-0-41 | [INFO] obj created: SurvivorM_Boris
+6-0-41 | [INFO] TraderPlayer created and added!: 
+6-0-41 | [INFO] obj created: SurvivorM_Boris
+6-0-41 | [INFO] TraderPlayer created and added!: 
+6-0-41 | [INFO] obj created: SurvivorM_Boris
+6-0-41 | [INFO] TraderPlayer created and added!: 
+6-0-41 | [INFO] obj created: SurvivorM_Boris
+6-0-41 | [INFO] TraderPlayer created and added!: 
+6-0-41 | [INFO] obj created: SurvivorM_Boris
+6-0-41 | [INFO] TraderPlayer created and added!: 
+6-0-41 | [INFO] obj created: SurvivorM_Boris
+6-0-41 | [INFO] TraderPlayer created and added!: 
+6-52-16 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_209468752.json
+8-27-31 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_209468752.json
+8-27-39 | [INFO] TraderID: 9 - Customer: DEADGoAT - ClassName: M4_OEBttstck - Quantity: 0 - Multiplier: 1 - MaxStock: 1000 - Health: 0 - Price: 1 - Position: 56 - TradeMode:Buy
+8-27-39 | [INFO] Transaction Buy Succeeded:DEADGoAT product:M4_OEBttstck quantity:0 health:0 price:1
+8-30-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_209468752.json
+8-31-6 | [INFO] TraderID: 9 - Customer: DEADGoAT - ClassName: HDSN_C4Stick - Quantity: 1 - Multiplier: 1 - MaxStock: 1000 - Health: 0 - Price: 1 - Position: -1 - TradeMode:Sell
+8-31-6 | [INFO] Transaction Sell Succeeded:DEADGoAT product:HDSN_C4Stick quantity:1 health:0 price:1
+8-31-11 | [INFO] TraderID: 9 - Customer: DEADGoAT - ClassName: RGD5Grenade - Quantity: 0 - Multiplier: 1 - MaxStock: 1000 - Health: 0 - Price: 1 - Position: -1 - TradeMode:Sell
+8-31-11 | [INFO] Transaction Sell Succeeded:DEADGoAT product:RGD5Grenade quantity:0 health:0 price:1
+8-31-21 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_209468752.json
+8-31-29 | [INFO] TraderID: 9 - Customer: DEADGoAT - ClassName: HDSN_C4Stick - Quantity: 1 - Multiplier: 1 - MaxStock: 1000 - Health: 0 - Price: 1 - Position: 73 - TradeMode:Sell
+8-31-29 | [INFO] Transaction Sell Succeeded:DEADGoAT product:HDSN_C4Stick quantity:1 health:0 price:1
+8-31-49 | [INFO] TraderID: 9 - Customer: DEADGoAT - ClassName: SNAFU_Ammo_145Cal - Quantity: 20 - Multiplier: 20 - MaxStock: 1000 - Health: 0 - Price: 20 - Position: -1 - TradeMode:Sell
+8-31-49 | [INFO] Transaction Sell Succeeded:DEADGoAT product:SNAFU_Ammo_145Cal quantity:400 health:0 price:20
+8-31-52 | [INFO] TraderID: 9 - Customer: DEADGoAT - ClassName: GCGN_Ammo_50Cal - Quantity: 10 - Multiplier: 10 - MaxStock: 1000 - Health: 0 - Price: 10 - Position: -1 - TradeMode:Sell
+8-31-52 | [INFO] Transaction Sell Succeeded:DEADGoAT product:GCGN_Ammo_50Cal quantity:100 health:0 price:10
+8-31-56 | [INFO] TraderID: 9 - Customer: DEADGoAT - ClassName: SNAFU_Ammo_127x55mmAP - Quantity: 40 - Multiplier: 40 - MaxStock: 1000 - Health: 0 - Price: 40 - Position: -1 - TradeMode:Sell
+8-31-56 | [INFO] Transaction Sell Succeeded:DEADGoAT product:SNAFU_Ammo_127x55mmAP quantity:1600 health:0 price:40
+8-36-12 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_209468752.json
+8-36-21 | [INFO] TraderID: 9 - Customer: DEADGoAT - ClassName: MassAR15 - Quantity: 0 - Multiplier: 1 - MaxStock: 1000 - Health: 0 - Price: 1 - Position: -1 - TradeMode:Sell
+8-36-21 | [INFO] Transaction Sell Succeeded:DEADGoAT product:MassAR15 quantity:0 health:0 price:1
+8-36-24 | [INFO] TraderID: 9 - Customer: DEADGoAT - ClassName: SNAFU_M4300AC_14_GUN - Quantity: 0 - Multiplier: 1 - MaxStock: 1000 - Health: 0 - Price: 1 - Position: -1 - TradeMode:Sell
+8-36-24 | [INFO] Transaction Sell Succeeded:DEADGoAT product:SNAFU_M4300AC_14_GUN quantity:0 health:0 price:1
+8-37-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_209468752.json
+8-39-19 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_209468752.json
+8-39-29 | [INFO] TraderID: 9 - Customer: DEADGoAT - ClassName: Mass9x39Palm - Quantity: 0 - Multiplier: 1 - MaxStock: 1000 - Health: 0 - Price: 1 - Position: -1 - TradeMode:Sell
+8-39-29 | [INFO] Transaction Sell Succeeded:DEADGoAT product:Mass9x39Palm quantity:0 health:0 price:1
+8-39-45 | [INFO] TraderID: 9 - Customer: DEADGoAT - ClassName: SNAFU_Aimpoint_ACO - Quantity: 0 - Multiplier: 1 - MaxStock: 1000 - Health: 0 - Price: 1 - Position: -1 - TradeMode:Sell
+8-39-45 | [INFO] Transaction Sell Succeeded:DEADGoAT product:SNAFU_Aimpoint_ACO quantity:0 health:0 price:1
+8-39-53 | [INFO] TraderID: 9 - Customer: DEADGoAT - ClassName: M4_OEBttstck - Quantity: 0 - Multiplier: 1 - MaxStock: 1000 - Health: 0 - Price: 1 - Position: -1 - TradeMode:Sell
+8-39-53 | [INFO] Transaction Sell Succeeded:DEADGoAT product:M4_OEBttstck quantity:0 health:0 price:1

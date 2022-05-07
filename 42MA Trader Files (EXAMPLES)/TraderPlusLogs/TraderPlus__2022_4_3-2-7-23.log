@@ -1,0 +1,112 @@
+Creation Time: 2022_4_3-2-7-23
+2-7-23 | [INFO] SafeZoneCore - Started !
+2-7-23 | [INFO] TraderPlusCore - Started !
+2-7-23 | [INFO] TraderPlus file exist ! loading...
+2-7-23 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusGeneralConfig.json
+2-7-23 | [INFO] TraderPlus file exist ! loading...
+2-7-23 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusVehiclesConfig.json
+2-7-23 | [INFO] TraderPlus file exist ! loading...
+2-7-23 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+2-7-23 | [INFO] TraderPlus file exist ! loading...
+2-7-23 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusIDsConfig.json
+2-7-23 | [INFO] TraderPlus file exist ! loading...
+2-7-23 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusInsuranceConfig.json
+2-7-23 | [INFO] TraderPlus file exist ! loading...
+2-7-24 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+2-7-24 | [INFO] TraderPlusServer - Started
+2-7-24 | [INFO] TraderPlusBankingCore - Started !
+2-7-24 | [ERROR] TraderPlusJsonLoader::LoadFromFile ERROR Parsing $profile:TraderPlus\TraderPlusConfig\TraderPlusBankingConfig.jsonJSON ERROR:
+The document is empty.
+2-7-24 | [INFO] TraderPlusBankingServer - Started
+2-7-24 | [INFO] CarLockCore - Started !
+2-7-24 | [INFO] CarLockServer - Started
+2-7-43 | [INFO] ID_count: 9
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_0\Beverages.json
+2-7-43 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Packaged Food.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_0\Fruit & Veg.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_0\Meat & Fish.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_0\Fungus.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_0\Pelts.json
+2-7-43 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Money Exchange.json
+2-7-43 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Auto Parts.json
+2-7-43 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Money Exchange.json
+2-7-43 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Tools.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_2\Base Storage.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_2\Gardening.json
+2-7-43 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Base Decor.json
+2-7-43 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Money Exchange.json
+2-7-43 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\That Good Good.json
+2-7-43 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Money Exchange.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_4\Vanilla Guns.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_4\Just Mags.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_4\Gun Parts.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_4\Fox Guns.json
+2-7-43 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Melee & Blades.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_4\Weapon Care.json
+2-7-43 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Ammo.json
+2-7-43 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Money Exchange.json
+2-7-43 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Shoes.json
+2-7-43 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Gloves.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_5\Head Wear.json
+2-7-43 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Bags.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_5\Tops.json
+2-7-43 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Pants.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_5\Gear.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_5\Patches & Armbands.json
+2-7-43 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Survival.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_5\Camping.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_5\Hunting & Fishing.json
+2-7-43 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Money Exchange.json
+2-7-43 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_6\Electronics.json
+2-7-43 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_6\Money Exchange.json
+2-7-43 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_7\Medical.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_7\Protective Gear.json
+2-7-43 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_7\Money Exchange.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Melee & Blades.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Pistols.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Machine Guns.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Sniper Rifles.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Shotguns.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Assualt Rifles.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Bayonets.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Ammo.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Lights.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Suppressors.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Optics.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Attachments.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Halloween.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Covid.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Grenades.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Cosmetics.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Pants.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Tops.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Masks.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Hats.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Gear.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Vests.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Helmets.json
+2-7-43 | [INFO] TraderPlusJsonLoader::SaveToFile Complete: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Bags.json
+2-7-43 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Money Exchange.json
+2-7-43 | [INFO] SetTradersSpawner: Started
+2-7-45 | [INFO] obj created: SurvivorF_Helga
+2-7-45 | [INFO] TraderPlayer created and added!: 
+2-7-45 | [INFO] obj created: SurvivorM_Jose
+2-7-45 | [INFO] TraderPlayer created and added!: 
+2-7-45 | [INFO] obj created: SurvivorM_Taiki
+2-7-45 | [INFO] TraderPlayer created and added!: 
+2-7-45 | [INFO] obj created: SurvivorM_Cyril
+2-7-45 | [INFO] TraderPlayer created and added!: 
+2-7-45 | [INFO] obj created: SurvivorM_Seth
+2-7-45 | [INFO] TraderPlayer created and added!: 
+2-7-45 | [INFO] obj created: SurvivorM_Seth
+2-7-45 | [INFO] TraderPlayer created and added!: 
+2-7-45 | [INFO] obj created: SurvivorF_Eva
+2-7-45 | [INFO] TraderPlayer created and added!: 
+2-7-45 | [INFO] obj created: SurvivorM_Rolf
+2-7-45 | [INFO] TraderPlayer created and added!: 
+2-7-45 | [INFO] obj created: SurvivorM_Rolf
+2-7-45 | [INFO] TraderPlayer created and added!: 
+2-7-45 | [INFO] SetTradersSpawner: Ended
+2-7-45 | [INFO] SetObjectSpawner: Started
+2-7-45 | [INFO] SetObjectSpawner: Ended
+2-7-45 | [INFO] DefaultTraderStock - Started

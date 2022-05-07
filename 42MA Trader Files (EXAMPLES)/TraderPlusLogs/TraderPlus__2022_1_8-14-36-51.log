@@ -1,0 +1,53 @@
+Creation Time: 2022_1_8-14-36-51
+14-36-51 | [INFO] SafeZoneCore - Started !
+14-36-51 | [INFO] TraderPlusCore - Started !
+14-36-51 | [INFO] TraderPlus file exist ! loading...
+14-36-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusGeneralConfig.json
+14-36-51 | [INFO] TraderPlus file exist ! loading...
+14-36-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusVehiclesConfig.json
+14-36-51 | [INFO] TraderPlus file exist ! loading...
+14-36-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+14-36-51 | [INFO] CheckForSpacesToRemove - Started
+14-36-51 | [INFO] CheckForSpacesToRemove - Ended
+14-36-51 | [INFO] TraderPlus file exist ! loading...
+14-36-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusIDsConfig.json
+14-36-51 | [INFO] TraderPlusServer - Started
+14-36-51 | [INFO] TraderPlusBankingCore - Started !
+14-36-51 | [ERROR] TraderPlusJsonLoader::LoadFromFile ERROR Parsing $profile:TraderPlus\TraderPlusConfig\TraderPlusBankingConfig.jsonJSON ERROR:
+The document is empty.
+14-36-51 | [INFO] TraderPlusBankingServer - Started
+14-36-52 | [INFO] CarLockCore - Started !
+14-36-52 | [INFO] CarLockServer - Started
+14-37-4 | [INFO] ID_count: 6
+14-37-4 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_0.json
+14-37-4 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_1.json
+14-37-4 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_2.json
+14-37-4 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_3.json
+14-37-4 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_4.json
+14-37-4 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_5.json
+14-37-5 | [INFO] obj created: SurvivorM_Boris
+14-37-5 | [INFO] TraderPlayer created and added!: 
+14-37-5 | [INFO] obj created: SurvivorM_Boris
+14-37-5 | [INFO] TraderPlayer created and added!: 
+14-37-5 | [INFO] obj created: SurvivorM_Boris
+14-37-5 | [INFO] TraderPlayer created and added!: 
+14-37-5 | [INFO] obj created: SurvivorM_Boris
+14-37-5 | [INFO] TraderPlayer created and added!: 
+14-37-5 | [INFO] obj created: SurvivorM_Boris
+14-37-5 | [INFO] TraderPlayer created and added!: 
+14-37-5 | [INFO] obj created: SurvivorM_Boris
+14-37-5 | [INFO] TraderPlayer created and added!: 
+14-37-39 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_36774377.json
+14-38-1 | [INFO] TraderID: 5 - Customer: Bunker - ClassName: TWP_Colt1911Gold - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 480 - Position: -1 - TradeMode:Sell
+14-38-1 | [INFO] Transaction Sell Succeeded:Bunker product:TWP_Colt1911Gold quantity:0 health:0 price:480
+14-38-9 | [INFO] TraderID: 5 - Customer: Bunker - ClassName: TWP_GlockLight - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: -1 - TradeMode:Sell
+14-38-9 | [INFO] Transaction Sell Succeeded:Bunker product:TWP_GlockLight quantity:0 health:0 price:160
+14-38-11 | [INFO] TraderID: 5 - Customer: Bunker - ClassName: TWP_Weaponlight - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: -1 - TradeMode:Sell
+14-38-11 | [INFO] Transaction Sell Succeeded:Bunker product:TWP_Weaponlight quantity:0 health:0 price:160
+14-38-18 | [INFO] TraderID: 5 - Customer: Bunker - ClassName: TWP_MP5Silenced_mag_30Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 400 - Position: -1 - TradeMode:Sell
+14-38-18 | [INFO] Transaction Sell Succeeded:Bunker product:TWP_MP5Silenced_mag_30Rnd quantity:0 health:0 price:400
+14-38-21 | [INFO] TraderID: 5 - Customer: Bunker - ClassName: TWP_Colt1911Gold_mag_7Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 128 - Position: -1 - TradeMode:Sell
+14-38-21 | [INFO] Transaction Sell Succeeded:Bunker product:TWP_Colt1911Gold_mag_7Rnd quantity:0 health:0 price:128
+14-38-23 | [INFO] TraderID: 5 - Customer: Bunker - ClassName: TWP_MP5Silenced_mag_30Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 400 - Position: 3 - TradeMode:Sell
+14-38-23 | [INFO] Transaction Sell Succeeded:Bunker product:TWP_MP5Silenced_mag_30Rnd quantity:0 health:0 price:400
+14-38-41 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_36774377.json

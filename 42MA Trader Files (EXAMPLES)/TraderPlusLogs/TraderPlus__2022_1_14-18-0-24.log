@@ -1,0 +1,437 @@
+Creation Time: 2022_1_14-18-0-24
+18-0-24 | [INFO] SafeZoneCore - Started !
+18-0-24 | [INFO] TraderPlusCore - Started !
+18-0-24 | [INFO] TraderPlus file exist ! loading...
+18-0-24 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusGeneralConfig.json
+18-0-24 | [INFO] TraderPlus file exist ! loading...
+18-0-24 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusVehiclesConfig.json
+18-0-24 | [INFO] TraderPlus file exist ! loading...
+18-0-24 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+18-0-24 | [INFO] CheckForSpacesToRemove - Started
+18-0-24 | [INFO] CheckForSpacesToRemove - Ended
+18-0-24 | [INFO] TraderPlus file exist ! loading...
+18-0-24 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusIDsConfig.json
+18-0-24 | [INFO] TraderPlusServer - Started
+18-0-24 | [INFO] TraderPlusBankingCore - Started !
+18-0-24 | [ERROR] TraderPlusJsonLoader::LoadFromFile ERROR Parsing $profile:TraderPlus\TraderPlusConfig\TraderPlusBankingConfig.jsonJSON ERROR:
+The document is empty.
+18-0-24 | [INFO] TraderPlusBankingServer - Started
+18-0-24 | [INFO] CarLockCore - Started !
+18-0-24 | [INFO] CarLockServer - Started
+18-0-37 | [INFO] ID_count: 7
+18-0-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_0.json
+18-0-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_1.json
+18-0-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_2.json
+18-0-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_3.json
+18-0-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_4.json
+18-0-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_5.json
+18-0-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_6.json
+18-0-38 | [INFO] obj created: SurvivorM_Boris
+18-0-38 | [INFO] TraderPlayer created and added!: 
+18-0-38 | [INFO] obj created: SurvivorM_Boris
+18-0-38 | [INFO] TraderPlayer created and added!: 
+18-0-38 | [INFO] obj created: SurvivorM_Boris
+18-0-38 | [INFO] TraderPlayer created and added!: 
+18-0-38 | [INFO] obj created: SurvivorM_Boris
+18-0-38 | [INFO] TraderPlayer created and added!: 
+18-0-39 | [INFO] obj created: SurvivorM_Boris
+18-0-39 | [INFO] TraderPlayer created and added!: 
+18-0-39 | [INFO] obj created: SurvivorM_Boris
+18-0-39 | [INFO] TraderPlayer created and added!: 
+18-0-39 | [INFO] obj created: SurvivorM_Boris
+18-0-39 | [INFO] TraderPlayer created and added!: 
+20-9-30 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_987972960.json
+20-9-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_987972960.json
+20-9-45 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_987972960.json
+20-10-1 | [INFO] TraderID: 1 - Customer: Emerson - ClassName: lebedev_PL15_mung - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 320 - Position: 296 - TradeMode:Sell
+20-10-1 | [INFO] Transaction Sell Succeeded:Emerson product:lebedev_PL15_mung quantity:0 health:0 price:320
+20-10-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_987972960.json
+20-11-8 | [INFO] TraderID: 2 - Customer: Emerson - ClassName: BBP_T1_DoorKit - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 200 - Position: 2 - TradeMode:Buy
+20-11-8 | [INFO] Transaction Buy Succeeded:Emerson product:BBP_T1_DoorKit quantity:0 health:0 price:200
+21-15-17 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+21-15-47 | [INFO] TraderID: 3 - Customer: Trenton17B - ClassName: WaterproofBag_Green - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 200 - Position: 121 - TradeMode:Buy
+21-15-47 | [INFO] Transaction Buy Succeeded:Trenton17B product:WaterproofBag_Green quantity:0 health:0 price:200
+21-15-50 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+21-15-57 | [INFO] TraderID: 3 - Customer: Trenton17B - ClassName: PlateCarrierPouches - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 240 - Position: 53 - TradeMode:Sell
+21-15-57 | [INFO] Transaction Sell Succeeded:Trenton17B product:PlateCarrierPouches quantity:0 health:0 price:240
+21-16-13 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+21-16-27 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+21-16-36 | [INFO] TraderID: 3 - Customer: Trenton17B - ClassName: MassRuckBagBlack - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 1040 - Position: 219 - TradeMode:Sell
+21-16-36 | [INFO] Transaction Sell Succeeded:Trenton17B product:MassRuckBagBlack quantity:0 health:0 price:1040
+21-16-41 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+21-16-48 | [INFO] TraderID: 3 - Customer: Trenton17B - ClassName: MassLargeMollePouchGreen - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 800 - Position: -1 - TradeMode:Sell
+21-16-48 | [INFO] Transaction Sell Succeeded:Trenton17B product:MassLargeMollePouchGreen quantity:0 health:0 price:800
+21-17-5 | [INFO] TraderID: 3 - Customer: Trenton17B - ClassName: MVS_Admin_Pouch_Multicam_Tropic - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 500 - Position: 271 - TradeMode:Buy
+21-17-5 | [INFO] Transaction Buy Succeeded:Trenton17B product:MVS_Admin_Pouch_Multicam_Tropic quantity:0 health:0 price:500
+21-17-21 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+21-17-43 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: AK_PlasticHndgrd - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 240 - Position: 268 - TradeMode:Sell
+21-17-43 | [INFO] Transaction Sell Succeeded:Trenton17B product:AK_PlasticHndgrd quantity:0 health:0 price:240
+21-17-57 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Mag_Scout_5Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 240 - Position: 0 - TradeMode:Sell
+21-17-57 | [INFO] Transaction Sell Succeeded:Trenton17B product:Mag_Scout_5Rnd quantity:0 health:0 price:240
+21-18-1 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Mag_AK101_30Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 800 - Position: 22 - TradeMode:Sell
+21-18-1 | [INFO] Transaction Sell Succeeded:Trenton17B product:Mag_AK101_30Rnd quantity:0 health:0 price:800
+21-18-5 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Mag_AK101_30Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 800 - Position: 22 - TradeMode:Sell
+21-18-5 | [INFO] Transaction Sell Succeeded:Trenton17B product:Mag_AK101_30Rnd quantity:0 health:0 price:800
+21-19-17 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+21-19-51 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Ammo_308Win - Quantity: 1 - Multiplier: 1 - MaxStock: 1000 - Health: 0 - Price: 6 - Position: 541 - TradeMode:Buy
+21-19-51 | [INFO] Transaction Buy Succeeded:Trenton17B product:Ammo_308Win quantity:1 health:0 price:6
+21-19-52 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Ammo_308Win - Quantity: 1 - Multiplier: 1 - MaxStock: 1000 - Health: 0 - Price: 6 - Position: 541 - TradeMode:Buy
+21-19-52 | [INFO] Transaction Buy Succeeded:Trenton17B product:Ammo_308Win quantity:1 health:0 price:6
+21-19-54 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Ammo_308Win - Quantity: 1 - Multiplier: 1 - MaxStock: 1000 - Health: 0 - Price: 6 - Position: 541 - TradeMode:Buy
+21-19-54 | [INFO] Transaction Buy Succeeded:Trenton17B product:Ammo_308Win quantity:1 health:0 price:6
+21-30-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+21-32-16 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+21-33-14 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+21-33-40 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Snafu_ScarH_OD_GUN - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 4600 - Position: 417 - TradeMode:Buy
+21-33-40 | [INFO] Transaction Buy Succeeded:Trenton17B product:Snafu_ScarH_OD_GUN quantity:0 health:0 price:4600
+21-34-2 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+21-34-5 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+21-34-15 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+21-34-31 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+21-34-51 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: SNAFU_ScarH_100RND_Mag_Tan - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 1600 - Position: 537 - TradeMode:Buy
+21-34-51 | [INFO] Transaction Buy Succeeded:Trenton17B product:SNAFU_ScarH_100RND_Mag_Tan quantity:0 health:0 price:1600
+21-35-5 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Ammo_308Win - Quantity: 20 - Multiplier: 20 - MaxStock: 1000 - Health: 0 - Price: 120 - Position: 539 - TradeMode:Buy
+21-35-5 | [INFO] Transaction Buy Succeeded:Trenton17B product:Ammo_308Win quantity:400 health:0 price:120
+21-35-8 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Ammo_308Win - Quantity: 20 - Multiplier: 20 - MaxStock: 1000 - Health: 0 - Price: 120 - Position: 539 - TradeMode:Buy
+21-35-8 | [INFO] Transaction Buy Succeeded:Trenton17B product:Ammo_308Win quantity:400 health:0 price:120
+21-35-11 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Ammo_308Win - Quantity: 20 - Multiplier: 20 - MaxStock: 1000 - Health: 0 - Price: 120 - Position: 539 - TradeMode:Buy
+21-35-11 | [INFO] Transaction Buy Succeeded:Trenton17B product:Ammo_308Win quantity:400 health:0 price:120
+21-35-14 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Ammo_308Win - Quantity: 20 - Multiplier: 20 - MaxStock: 1000 - Health: 0 - Price: 120 - Position: 539 - TradeMode:Buy
+21-35-14 | [INFO] Transaction Buy Succeeded:Trenton17B product:Ammo_308Win quantity:400 health:0 price:120
+21-35-16 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Ammo_308Win - Quantity: 20 - Multiplier: 20 - MaxStock: 1000 - Health: 0 - Price: 120 - Position: 539 - TradeMode:Buy
+21-35-16 | [INFO] Transaction Buy Succeeded:Trenton17B product:Ammo_308Win quantity:400 health:0 price:120
+21-39-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+21-39-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+21-40-13 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Ammo_308Win - Quantity: 20 - Multiplier: 20 - MaxStock: 1000 - Health: 0 - Price: 120 - Position: 539 - TradeMode:Buy
+21-40-13 | [INFO] Transaction Buy Succeeded:Trenton17B product:Ammo_308Win quantity:400 health:0 price:120
+21-40-16 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Ammo_308Win - Quantity: 20 - Multiplier: 20 - MaxStock: 1000 - Health: 0 - Price: 120 - Position: 539 - TradeMode:Buy
+21-40-16 | [INFO] Transaction Buy Succeeded:Trenton17B product:Ammo_308Win quantity:400 health:0 price:120
+21-40-18 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Ammo_308Win - Quantity: 20 - Multiplier: 20 - MaxStock: 1000 - Health: 0 - Price: 120 - Position: 539 - TradeMode:Buy
+21-40-18 | [INFO] Transaction Buy Succeeded:Trenton17B product:Ammo_308Win quantity:400 health:0 price:120
+21-40-20 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Ammo_308Win - Quantity: 20 - Multiplier: 20 - MaxStock: 1000 - Health: 0 - Price: 120 - Position: 539 - TradeMode:Buy
+21-40-20 | [INFO] Transaction Buy Succeeded:Trenton17B product:Ammo_308Win quantity:400 health:0 price:120
+21-40-24 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Ammo_308Win - Quantity: 20 - Multiplier: 20 - MaxStock: 1000 - Health: 0 - Price: 120 - Position: 539 - TradeMode:Buy
+21-40-24 | [INFO] Transaction Buy Succeeded:Trenton17B product:Ammo_308Win quantity:400 health:0 price:120
+21-40-26 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Ammo_308Win - Quantity: 20 - Multiplier: 20 - MaxStock: 1000 - Health: 0 - Price: 120 - Position: 539 - TradeMode:Buy
+21-40-26 | [INFO] Transaction Buy Succeeded:Trenton17B product:Ammo_308Win quantity:400 health:0 price:120
+21-40-28 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Ammo_308Win - Quantity: 20 - Multiplier: 20 - MaxStock: 1000 - Health: 0 - Price: 120 - Position: 539 - TradeMode:Buy
+21-40-28 | [INFO] Transaction Buy Succeeded:Trenton17B product:Ammo_308Win quantity:400 health:0 price:120
+21-40-31 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Ammo_308Win - Quantity: 20 - Multiplier: 20 - MaxStock: 1000 - Health: 0 - Price: 120 - Position: 539 - TradeMode:Buy
+21-40-31 | [INFO] Transaction Buy Succeeded:Trenton17B product:Ammo_308Win quantity:400 health:0 price:120
+21-40-36 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Ammo_308Win - Quantity: 12 - Multiplier: 12 - MaxStock: 1000 - Health: 0 - Price: 72 - Position: 539 - TradeMode:Buy
+21-40-36 | [INFO] Transaction Buy Succeeded:Trenton17B product:Ammo_308Win quantity:144 health:0 price:72
+21-40-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+21-41-17 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Snafu_ScarH_25RND_Mag_DKMC - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 1000 - Position: 373 - TradeMode:Buy
+21-41-17 | [INFO] Transaction Buy Succeeded:Trenton17B product:Snafu_ScarH_25RND_Mag_DKMC quantity:0 health:0 price:1000
+21-41-21 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Snafu_ScarH_25RND_Mag_DKMC - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 1000 - Position: 373 - TradeMode:Buy
+21-41-21 | [INFO] Transaction Buy Succeeded:Trenton17B product:Snafu_ScarH_25RND_Mag_DKMC quantity:0 health:0 price:1000
+21-42-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+21-42-57 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Snafu_ScarH_25RND_Mag_DKMC - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 1000 - Position: 373 - TradeMode:Buy
+21-42-57 | [INFO] Transaction Buy Succeeded:Trenton17B product:Snafu_ScarH_25RND_Mag_DKMC quantity:0 health:0 price:1000
+21-44-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+21-45-7 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Mag_AKM_Drum75Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 1280 - Position: 19 - TradeMode:Sell
+21-45-7 | [INFO] Transaction Sell Succeeded:Trenton17B product:Mag_AKM_Drum75Rnd quantity:0 health:0 price:1280
+21-45-43 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+21-45-50 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: KobraOptic - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: 44 - TradeMode:Sell
+21-45-50 | [INFO] Transaction Sell Succeeded:Trenton17B product:KobraOptic quantity:0 health:0 price:160
+21-46-0 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: AK_PlasticBttstck - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 240 - Position: 310 - TradeMode:Sell
+21-46-0 | [INFO] Transaction Sell Succeeded:Trenton17B product:AK_PlasticBttstck quantity:0 health:0 price:240
+21-46-5 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: AK_RailHndgrd - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 240 - Position: 210 - TradeMode:Sell
+21-46-5 | [INFO] Transaction Sell Succeeded:Trenton17B product:AK_RailHndgrd quantity:0 health:0 price:240
+21-46-22 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+21-46-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+21-47-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+21-49-2 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+21-51-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+21-51-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+21-52-5 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+21-52-12 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_13191843.json
+21-52-15 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_13191843.json
+21-52-22 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+21-52-33 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+21-52-39 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+21-52-50 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: PSO11Optic - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 672 - Position: 297 - TradeMode:Sell
+21-52-50 | [INFO] Transaction Sell Succeeded:Trenton17B product:PSO11Optic quantity:0 health:0 price:672
+21-53-11 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+21-53-13 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+21-53-15 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+21-53-24 | [INFO] TraderID: 4 - Customer: Trenton17B - ClassName: BloodTestKit - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 40 - Position: 1 - TradeMode:Buy
+21-53-24 | [INFO] Transaction Buy Succeeded:Trenton17B product:BloodTestKit quantity:0 health:0 price:40
+21-53-28 | [INFO] TraderID: 4 - Customer: Trenton17B - ClassName: TetracyclineAntibiotics - Quantity: 12 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 40 - Position: 21 - TradeMode:Buy
+21-53-28 | [INFO] Transaction Buy Succeeded:Trenton17B product:TetracyclineAntibiotics quantity:12 health:0 price:40
+21-53-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+21-53-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_13191843.json
+21-54-2 | [INFO] TraderID: 1 - Customer: Skif - ClassName: Fal_FoldingBttstck - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 240 - Position: 266 - TradeMode:Sell
+21-54-2 | [INFO] Transaction Sell Succeeded:Skif product:Fal_FoldingBttstck quantity:0 health:0 price:240
+21-54-10 | [INFO] TraderID: 1 - Customer: Skif - ClassName: M4_T3NRDSOptic - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 640 - Position: 31 - TradeMode:Sell
+21-54-10 | [INFO] Transaction Sell Succeeded:Skif product:M4_T3NRDSOptic quantity:0 health:0 price:640
+21-54-14 | [INFO] TraderID: 1 - Customer: Skif - ClassName: Mag_FAL_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 800 - Position: 9 - TradeMode:Sell
+21-54-14 | [INFO] Transaction Sell Succeeded:Skif product:Mag_FAL_20Rnd quantity:0 health:0 price:800
+21-54-17 | [INFO] TraderID: 1 - Customer: Skif - ClassName: Ammo_308Win - Quantity: 8 - Multiplier: 8 - MaxStock: 1000 - Health: 0 - Price: 32 - Position: -1 - TradeMode:Sell
+21-54-17 | [INFO] Transaction Sell Succeeded:Skif product:Ammo_308Win quantity:64 health:0 price:32
+21-54-20 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_13191843.json
+21-54-22 | [INFO] TraderID: 2 - Customer: Skif - ClassName: Pliers - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 50 - Position: 10 - TradeMode:Buy
+21-54-22 | [INFO] Transaction Buy Succeeded:Skif product:Pliers quantity:0 health:0 price:50
+21-54-28 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_13191843.json
+21-54-30 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_13191843.json
+21-54-40 | [INFO] TraderID: 0 - Customer: Skif - ClassName: TraderPlus_Money_Euro500 - Quantity: 3 - Multiplier: 3 - MaxStock: -1 - Health: 0 - Price: 1500 - Position: -1 - TradeMode:Buy
+21-54-40 | [INFO] Transaction Buy Succeeded:Skif product:TraderPlus_Money_Euro500 quantity:9 health:0 price:1500
+21-54-44 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+21-55-5 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+21-55-25 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Ammo_12gaPellets - Quantity: 1 - Multiplier: 1 - MaxStock: 1000 - Health: 0 - Price: 6 - Position: 289 - TradeMode:Buy
+21-55-25 | [INFO] Transaction Buy Succeeded:Trenton17B product:Ammo_12gaPellets quantity:1 health:0 price:6
+21-55-26 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Ammo_12gaPellets - Quantity: 1 - Multiplier: 1 - MaxStock: 1000 - Health: 0 - Price: 6 - Position: 289 - TradeMode:Buy
+21-55-26 | [INFO] Transaction Buy Succeeded:Trenton17B product:Ammo_12gaPellets quantity:1 health:0 price:6
+21-55-27 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Ammo_12gaPellets - Quantity: 1 - Multiplier: 1 - MaxStock: 1000 - Health: 0 - Price: 6 - Position: 289 - TradeMode:Buy
+21-55-27 | [INFO] Transaction Buy Succeeded:Trenton17B product:Ammo_12gaPellets quantity:1 health:0 price:6
+21-55-29 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Ammo_12gaPellets - Quantity: 1 - Multiplier: 1 - MaxStock: 1000 - Health: 0 - Price: 6 - Position: 289 - TradeMode:Buy
+21-55-29 | [INFO] Transaction Buy Succeeded:Trenton17B product:Ammo_12gaPellets quantity:1 health:0 price:6
+21-55-30 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Ammo_12gaPellets - Quantity: 1 - Multiplier: 1 - MaxStock: 1000 - Health: 0 - Price: 6 - Position: 289 - TradeMode:Buy
+21-55-30 | [INFO] Transaction Buy Succeeded:Trenton17B product:Ammo_12gaPellets quantity:1 health:0 price:6
+21-55-31 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Ammo_12gaPellets - Quantity: 1 - Multiplier: 1 - MaxStock: 1000 - Health: 0 - Price: 6 - Position: 289 - TradeMode:Buy
+21-55-31 | [INFO] Transaction Buy Succeeded:Trenton17B product:Ammo_12gaPellets quantity:1 health:0 price:6
+21-55-32 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Ammo_12gaPellets - Quantity: 1 - Multiplier: 1 - MaxStock: 1000 - Health: 0 - Price: 6 - Position: 289 - TradeMode:Buy
+21-55-32 | [INFO] Transaction Buy Succeeded:Trenton17B product:Ammo_12gaPellets quantity:1 health:0 price:6
+21-55-33 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Ammo_12gaPellets - Quantity: 1 - Multiplier: 1 - MaxStock: 1000 - Health: 0 - Price: 6 - Position: 289 - TradeMode:Buy
+21-55-33 | [INFO] Transaction Buy Succeeded:Trenton17B product:Ammo_12gaPellets quantity:1 health:0 price:6
+21-55-34 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Ammo_12gaPellets - Quantity: 1 - Multiplier: 1 - MaxStock: 1000 - Health: 0 - Price: 6 - Position: 289 - TradeMode:Buy
+21-55-34 | [INFO] Transaction Buy Succeeded:Trenton17B product:Ammo_12gaPellets quantity:1 health:0 price:6
+22-4-29 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_60592768.json
+22-4-35 | [INFO] TraderID: 1 - Customer: Sharkparty - ClassName: MassStevens301_green - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 640 - Position: -1 - TradeMode:Sell
+22-4-35 | [INFO] Transaction Sell Succeeded:Sharkparty product:MassStevens301_green quantity:0 health:0 price:640
+22-4-48 | [INFO] TraderID: 1 - Customer: Sharkparty - ClassName: SNAFU_M200Green - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 6080 - Position: 321 - TradeMode:Sell
+22-4-48 | [INFO] Transaction Sell Succeeded:Sharkparty product:SNAFU_M200Green quantity:0 health:0 price:6080
+22-5-31 | [INFO] TraderID: 1 - Customer: Sharkparty - ClassName: Ammo_556x45 - Quantity: 20 - Multiplier: 20 - MaxStock: 1000 - Health: 0 - Price: 80 - Position: 539 - TradeMode:Buy
+22-5-31 | [INFO] Transaction Buy Succeeded:Sharkparty product:Ammo_556x45 quantity:400 health:0 price:80
+22-5-37 | [INFO] TraderID: 1 - Customer: Sharkparty - ClassName: Ammo_556x45 - Quantity: 10 - Multiplier: 10 - MaxStock: 1000 - Health: 0 - Price: 40 - Position: 539 - TradeMode:Buy
+22-5-37 | [INFO] Transaction Buy Succeeded:Sharkparty product:Ammo_556x45 quantity:100 health:0 price:40
+22-6-30 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_60592768.json
+22-6-41 | [INFO] TraderID: 3 - Customer: Sharkparty - ClassName: MassPlateCarrier_ODG - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 1600 - Position: 270 - TradeMode:Sell
+22-6-41 | [INFO] Transaction Sell Succeeded:Sharkparty product:MassPlateCarrier_ODG quantity:0 health:0 price:1600
+22-6-57 | [INFO] TraderID: 3 - Customer: Sharkparty - ClassName: MassPlateCarrierPouches_Winter - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 240 - Position: 109 - TradeMode:Sell
+22-6-57 | [INFO] Transaction Sell Succeeded:Sharkparty product:MassPlateCarrierPouches_Winter quantity:0 health:0 price:240
+22-7-30 | [INFO] TraderID: 3 - Customer: Sharkparty - ClassName: NylonKnifeSheath - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 100 - Position: 255 - TradeMode:Buy
+22-7-30 | [INFO] Transaction Buy Succeeded:Sharkparty product:NylonKnifeSheath quantity:0 health:0 price:100
+22-7-44 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_60592768.json
+22-8-1 | [INFO] TraderID: 3 - Customer: Sharkparty - ClassName: MVS_Sheath_Snow - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: -1 - TradeMode:Sell
+22-8-1 | [INFO] Transaction Sell Succeeded:Sharkparty product:MVS_Sheath_Snow quantity:0 health:0 price:160
+22-8-17 | [INFO] TraderID: 3 - Customer: Sharkparty - ClassName: MassTacticalBag - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 500 - Position: 259 - TradeMode:Buy
+22-8-17 | [INFO] Transaction Buy Succeeded:Sharkparty product:MassTacticalBag quantity:0 health:0 price:500
+22-8-21 | [INFO] TraderID: 3 - Customer: Sharkparty - ClassName: MassLargePlateCarrierPouches_Black - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 750 - Position: 266 - TradeMode:Buy
+22-8-21 | [INFO] Transaction Buy Succeeded:Sharkparty product:MassLargePlateCarrierPouches_Black quantity:0 health:0 price:750
+22-9-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_60592768.json
+22-9-55 | [INFO] TraderID: 2 - Customer: Sharkparty - ClassName: SewingKit - Quantity: 100 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 100 - Position: 8 - TradeMode:Buy
+22-9-55 | [INFO] Transaction Buy Succeeded:Sharkparty product:SewingKit quantity:100 health:0 price:100
+22-21-29 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_60592768.json
+22-27-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+22-28-15 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_13191843.json
+22-28-25 | [INFO] TraderID: 1 - Customer: Skif - ClassName: SNAFU_LStandardized_Suppressor_Black - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 640 - Position: -1 - TradeMode:Sell
+22-28-25 | [INFO] Transaction Sell Succeeded:Skif product:SNAFU_LStandardized_Suppressor_Black quantity:0 health:0 price:640
+22-28-35 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+22-29-40 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+22-29-48 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+22-29-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+22-31-3 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: SNAFU_FGCR_Grip - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 400 - Position: 490 - TradeMode:Buy
+22-31-3 | [INFO] Transaction Buy Succeeded:Trenton17B product:SNAFU_FGCR_Grip quantity:0 health:0 price:400
+22-31-18 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+22-31-51 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: AK_Suppressor - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 640 - Position: 63 - TradeMode:Sell
+22-31-51 | [INFO] Transaction Sell Succeeded:Trenton17B product:AK_Suppressor quantity:0 health:0 price:640
+22-32-23 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: SNAFU_LStandardized_Suppressor_Black - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 800 - Position: 541 - TradeMode:Buy
+22-32-23 | [INFO] Transaction Buy Succeeded:Trenton17B product:SNAFU_LStandardized_Suppressor_Black quantity:0 health:0 price:800
+22-32-30 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+22-33-36 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: ACOGOptic_6x - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 360 - Position: 428 - TradeMode:Buy
+22-33-36 | [INFO] Transaction Buy Succeeded:Trenton17B product:ACOGOptic_6x quantity:0 health:0 price:360
+22-33-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+22-34-2 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Ammo_556x45 - Quantity: 20 - Multiplier: 20 - MaxStock: 1000 - Health: 0 - Price: 60 - Position: -1 - TradeMode:Sell
+22-34-2 | [INFO] Transaction Sell Succeeded:Trenton17B product:Ammo_556x45 quantity:400 health:0 price:60
+22-34-9 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Ammo_762x39 - Quantity: 3 - Multiplier: 3 - MaxStock: 1000 - Health: 0 - Price: 9 - Position: 419 - TradeMode:Sell
+22-34-9 | [INFO] Transaction Sell Succeeded:Trenton17B product:Ammo_762x39 quantity:9 health:0 price:9
+22-34-13 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Ammo_762x54 - Quantity: 3 - Multiplier: 3 - MaxStock: 1000 - Health: 0 - Price: 9 - Position: 507 - TradeMode:Sell
+22-34-13 | [INFO] Transaction Sell Succeeded:Trenton17B product:Ammo_762x54 quantity:9 health:0 price:9
+22-34-18 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Ammo_12gaPellets - Quantity: 9 - Multiplier: 9 - MaxStock: 1000 - Health: 0 - Price: 36 - Position: 289 - TradeMode:Sell
+22-34-18 | [INFO] Transaction Sell Succeeded:Trenton17B product:Ammo_12gaPellets quantity:81 health:0 price:36
+22-34-27 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Ammo_308Win - Quantity: 8 - Multiplier: 8 - MaxStock: 1000 - Health: 0 - Price: 48 - Position: 538 - TradeMode:Buy
+22-34-27 | [INFO] Transaction Buy Succeeded:Trenton17B product:Ammo_308Win quantity:64 health:0 price:48
+22-34-39 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Ammo_12gaSlug - Quantity: 1 - Multiplier: 1 - MaxStock: 1000 - Health: 0 - Price: 4 - Position: 400 - TradeMode:Buy
+22-34-39 | [INFO] Transaction Buy Succeeded:Trenton17B product:Ammo_12gaSlug quantity:1 health:0 price:4
+22-35-1 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+22-35-14 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+22-35-21 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Ammo_12gaSlug - Quantity: 1 - Multiplier: 1 - MaxStock: 1000 - Health: 0 - Price: 4 - Position: 400 - TradeMode:Buy
+22-35-21 | [INFO] Transaction Buy Succeeded:Trenton17B product:Ammo_12gaSlug quantity:1 health:0 price:4
+22-35-23 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Ammo_12gaSlug - Quantity: 1 - Multiplier: 1 - MaxStock: 1000 - Health: 0 - Price: 4 - Position: 400 - TradeMode:Buy
+22-35-23 | [INFO] Transaction Buy Succeeded:Trenton17B product:Ammo_12gaSlug quantity:1 health:0 price:4
+22-35-25 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Ammo_12gaSlug - Quantity: 1 - Multiplier: 1 - MaxStock: 1000 - Health: 0 - Price: 4 - Position: 400 - TradeMode:Buy
+22-35-25 | [INFO] Transaction Buy Succeeded:Trenton17B product:Ammo_12gaSlug quantity:1 health:0 price:4
+22-35-27 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Ammo_12gaSlug - Quantity: 1 - Multiplier: 1 - MaxStock: 1000 - Health: 0 - Price: 4 - Position: 400 - TradeMode:Buy
+22-35-27 | [INFO] Transaction Buy Succeeded:Trenton17B product:Ammo_12gaSlug quantity:1 health:0 price:4
+22-35-28 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Ammo_12gaSlug - Quantity: 1 - Multiplier: 1 - MaxStock: 1000 - Health: 0 - Price: 4 - Position: 400 - TradeMode:Buy
+22-35-28 | [INFO] Transaction Buy Succeeded:Trenton17B product:Ammo_12gaSlug quantity:1 health:0 price:4
+22-36-20 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+23-8-29 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_218016849.json
+23-39-19 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_34611550.json
+23-39-28 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: SN_Mp443 - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 240 - Position: 158 - TradeMode:Sell
+23-39-28 | [INFO] Transaction Sell Succeeded:Sarge product:SN_Mp443 quantity:0 health:0 price:240
+23-39-31 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: Mass357M1911 - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 600 - Position: 460 - TradeMode:Sell
+23-39-31 | [INFO] Transaction Sell Succeeded:Sarge product:Mass357M1911 quantity:0 health:0 price:600
+23-39-38 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: SNAFUT5000_Dkmcc_GUN - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 5920 - Position: 440 - TradeMode:Sell
+23-39-38 | [INFO] Transaction Sell Succeeded:Sarge product:SNAFUT5000_Dkmcc_GUN quantity:0 health:0 price:5920
+23-40-1 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: SNAFUThompsonMk2 - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 1760 - Position: 474 - TradeMode:Sell
+23-40-1 | [INFO] Transaction Sell Succeeded:Sarge product:SNAFUThompsonMk2 quantity:0 health:0 price:1760
+23-40-3 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: SNAFUSR3_Vikhr - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 1600 - Position: 450 - TradeMode:Sell
+23-40-3 | [INFO] Transaction Sell Succeeded:Sarge product:SNAFUSR3_Vikhr quantity:0 health:0 price:1600
+23-40-8 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: SNAFU_M1918A2 - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 9600 - Position: 103 - TradeMode:Sell
+23-40-8 | [INFO] Transaction Sell Succeeded:Sarge product:SNAFU_M1918A2 quantity:0 health:0 price:9600
+23-40-11 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: Snafu_PKP_Black_GUN - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 9600 - Position: 307 - TradeMode:Sell
+23-40-11 | [INFO] Transaction Sell Succeeded:Sarge product:Snafu_PKP_Black_GUN quantity:0 health:0 price:9600
+23-40-16 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: AK74_Hndgrd - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 240 - Position: 73 - TradeMode:Sell
+23-40-16 | [INFO] Transaction Sell Succeeded:Sarge product:AK74_Hndgrd quantity:0 health:0 price:240
+23-40-23 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: GCGN_M1Garand_Supp - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 320 - Position: -1 - TradeMode:Sell
+23-40-23 | [INFO] Transaction Sell Succeeded:Sarge product:GCGN_M1Garand_Supp quantity:0 health:0 price:320
+23-40-28 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: KazuarOptic - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 1920 - Position: 333 - TradeMode:Sell
+23-40-28 | [INFO] Transaction Sell Succeeded:Sarge product:KazuarOptic quantity:0 health:0 price:1920
+23-40-31 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: BUISOptic - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: 57 - TradeMode:Sell
+23-40-31 | [INFO] Transaction Sell Succeeded:Sarge product:BUISOptic quantity:0 health:0 price:160
+23-40-36 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: SN_Mp443_Mag - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 48 - Position: 494 - TradeMode:Sell
+23-40-36 | [INFO] Transaction Sell Succeeded:Sarge product:SN_Mp443_Mag quantity:0 health:0 price:48
+23-40-38 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: Mag_Saiga_8Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 480 - Position: 354 - TradeMode:Sell
+23-40-38 | [INFO] Transaction Sell Succeeded:Sarge product:Mag_Saiga_8Rnd quantity:0 health:0 price:480
+23-40-40 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: SN_Springfield_Mag - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 48 - Position: 300 - TradeMode:Sell
+23-40-40 | [INFO] Transaction Sell Succeeded:Sarge product:SN_Springfield_Mag quantity:0 health:0 price:48
+23-40-47 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: SNAFUGM6Lynx_5rdMag - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 1920 - Position: 95 - TradeMode:Sell
+23-40-47 | [INFO] Transaction Sell Succeeded:Sarge product:SNAFUGM6Lynx_5rdMag quantity:0 health:0 price:1920
+23-40-51 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: SNAFUT5000_Mag - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 1600 - Position: 319 - TradeMode:Sell
+23-40-51 | [INFO] Transaction Sell Succeeded:Sarge product:SNAFUT5000_Mag quantity:0 health:0 price:1600
+23-40-54 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: Mag_IJ70_8Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 40 - Position: 6 - TradeMode:Sell
+23-40-54 | [INFO] Transaction Sell Succeeded:Sarge product:Mag_IJ70_8Rnd quantity:0 health:0 price:40
+23-40-58 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: Mag_AK74_45Rnd - Quantity: 2 - Multiplier: 2 - MaxStock: 250 - Health: 0 - Price: 1600 - Position: 23 - TradeMode:Sell
+23-40-58 | [INFO] Transaction Sell Succeeded:Sarge product:Mag_AK74_45Rnd quantity:4 health:0 price:1600
+23-41-2 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: Mag_FNX45_15Rnd - Quantity: 2 - Multiplier: 2 - MaxStock: 250 - Health: 0 - Price: 160 - Position: 8 - TradeMode:Sell
+23-41-2 | [INFO] Transaction Sell Succeeded:Sarge product:Mag_FNX45_15Rnd quantity:4 health:0 price:160
+23-41-7 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: Mag_Glock_15Rnd - Quantity: 4 - Multiplier: 4 - MaxStock: 250 - Health: 0 - Price: 192 - Position: 7 - TradeMode:Sell
+23-41-7 | [INFO] Transaction Sell Succeeded:Sarge product:Mag_Glock_15Rnd quantity:16 health:0 price:192
+23-41-11 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: GCGN_M110_Mag - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 1600 - Position: 109 - TradeMode:Sell
+23-41-11 | [INFO] Transaction Sell Succeeded:Sarge product:GCGN_M110_Mag quantity:0 health:0 price:1600
+23-41-15 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: Mag_CZ61_20Rnd - Quantity: 4 - Multiplier: 4 - MaxStock: 250 - Health: 0 - Price: 1280 - Position: 12 - TradeMode:Sell
+23-41-15 | [INFO] Transaction Sell Succeeded:Sarge product:Mag_CZ61_20Rnd quantity:16 health:0 price:1280
+23-41-18 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: Mag_Saiga_Drum20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 640 - Position: 357 - TradeMode:Sell
+23-41-18 | [INFO] Transaction Sell Succeeded:Sarge product:Mag_Saiga_Drum20Rnd quantity:0 health:0 price:640
+23-41-20 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: GCGN_Mag_FAL_50Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 800 - Position: 291 - TradeMode:Sell
+23-41-20 | [INFO] Transaction Sell Succeeded:Sarge product:GCGN_Mag_FAL_50Rnd quantity:0 health:0 price:800
+23-41-23 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: Mag_IJ70_8Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 40 - Position: 6 - TradeMode:Sell
+23-41-23 | [INFO] Transaction Sell Succeeded:Sarge product:Mag_IJ70_8Rnd quantity:0 health:0 price:40
+23-41-28 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: Mag_CMAG_40Rnd - Quantity: 2 - Multiplier: 2 - MaxStock: 250 - Health: 0 - Price: 1920 - Position: 14 - TradeMode:Sell
+23-41-28 | [INFO] Transaction Sell Succeeded:Sarge product:Mag_CMAG_40Rnd quantity:4 health:0 price:1920
+23-41-30 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: SNAFUThompsonMk2_30rdMag - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 440 - Position: 459 - TradeMode:Sell
+23-41-30 | [INFO] Transaction Sell Succeeded:Sarge product:SNAFUThompsonMk2_30rdMag quantity:0 health:0 price:440
+23-41-32 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: Mag_CZ75_15Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 48 - Position: 11 - TradeMode:Sell
+23-41-32 | [INFO] Transaction Sell Succeeded:Sarge product:Mag_CZ75_15Rnd quantity:0 health:0 price:48
+23-41-34 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: SNAFU_CMAG30556_Tan - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 800 - Position: 301 - TradeMode:Sell
+23-41-34 | [INFO] Transaction Sell Succeeded:Sarge product:SNAFU_CMAG30556_Tan quantity:0 health:0 price:800
+23-41-36 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: SN_Auto_Shotgun_Mag - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 400 - Position: 299 - TradeMode:Sell
+23-41-36 | [INFO] Transaction Sell Succeeded:Sarge product:SN_Auto_Shotgun_Mag quantity:0 health:0 price:400
+23-41-38 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: VR80_Magazine_10rd - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 960 - Position: 529 - TradeMode:Sell
+23-41-38 | [INFO] Transaction Sell Succeeded:Sarge product:VR80_Magazine_10rd quantity:0 health:0 price:960
+23-41-40 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: SNAFU_Saint_Mag - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 800 - Position: -1 - TradeMode:Sell
+23-41-40 | [INFO] Transaction Sell Succeeded:Sarge product:SNAFU_Saint_Mag quantity:0 health:0 price:800
+23-41-43 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: SG550_Mag - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 1440 - Position: 223 - TradeMode:Sell
+23-41-43 | [INFO] Transaction Sell Succeeded:Sarge product:SG550_Mag quantity:0 health:0 price:1440
+23-41-45 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: Mag_Deagle_9rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 112 - Position: 10 - TradeMode:Sell
+23-41-45 | [INFO] Transaction Sell Succeeded:Sarge product:Mag_Deagle_9rnd quantity:0 health:0 price:112
+23-41-59 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: Ammo_380 - Quantity: 50 - Multiplier: 50 - MaxStock: 1000 - Health: 0 - Price: 50 - Position: 99 - TradeMode:Sell
+23-41-59 | [INFO] Transaction Sell Succeeded:Sarge product:Ammo_380 quantity:2500 health:0 price:50
+23-42-2 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: Ammo_545x39 - Quantity: 50 - Multiplier: 50 - MaxStock: 1000 - Health: 0 - Price: 150 - Position: 146 - TradeMode:Sell
+23-42-2 | [INFO] Transaction Sell Succeeded:Sarge product:Ammo_545x39 quantity:2500 health:0 price:150
+23-42-6 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: Ammo_545x39 - Quantity: 39 - Multiplier: 39 - MaxStock: 1000 - Health: 0 - Price: 117 - Position: 146 - TradeMode:Sell
+23-42-6 | [INFO] Transaction Sell Succeeded:Sarge product:Ammo_545x39 quantity:1521 health:0 price:117
+23-42-10 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: Ammo_45ACP - Quantity: 50 - Multiplier: 50 - MaxStock: 1000 - Health: 0 - Price: 150 - Position: 121 - TradeMode:Sell
+23-42-10 | [INFO] Transaction Sell Succeeded:Sarge product:Ammo_45ACP quantity:2500 health:0 price:150
+23-42-18 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: Ammo_380 - Quantity: 48 - Multiplier: 48 - MaxStock: 1000 - Health: 0 - Price: 48 - Position: 99 - TradeMode:Sell
+23-42-18 | [INFO] Transaction Sell Succeeded:Sarge product:Ammo_380 quantity:2304 health:0 price:48
+23-42-22 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: Ammo_45ACP - Quantity: 10 - Multiplier: 10 - MaxStock: 1000 - Health: 0 - Price: 30 - Position: 121 - TradeMode:Sell
+23-42-22 | [INFO] Transaction Sell Succeeded:Sarge product:Ammo_45ACP quantity:100 health:0 price:30
+23-42-26 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: Ammo_357 - Quantity: 2 - Multiplier: 2 - MaxStock: 1000 - Health: 0 - Price: 2 - Position: 147 - TradeMode:Sell
+23-42-26 | [INFO] Transaction Sell Succeeded:Sarge product:Ammo_357 quantity:4 health:0 price:2
+23-42-31 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: SNAFU_Ammo_500_SW - Quantity: 40 - Multiplier: 40 - MaxStock: 1000 - Health: 0 - Price: 240 - Position: 382 - TradeMode:Sell
+23-42-31 | [INFO] Transaction Sell Succeeded:Sarge product:SNAFU_Ammo_500_SW quantity:1600 health:0 price:240
+23-42-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_34611550.json
+23-43-13 | [INFO] TraderID: 2 - Customer: Sarge - ClassName: CamoNetDesert - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: -1 - TradeMode:Sell
+23-43-13 | [INFO] Transaction Sell Succeeded:Sarge product:CamoNetDesert quantity:0 health:0 price:160
+23-43-20 | [INFO] TraderID: 2 - Customer: Sarge - ClassName: BaseRadio - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 600 - Position: 34 - TradeMode:Sell
+23-43-20 | [INFO] Transaction Sell Succeeded:Sarge product:BaseRadio quantity:0 health:0 price:600
+23-43-30 | [INFO] TraderID: 2 - Customer: Sarge - ClassName: HandSaw - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 100 - Position: 5 - TradeMode:Buy
+23-43-30 | [INFO] Transaction Buy Succeeded:Sarge product:HandSaw quantity:0 health:0 price:100
+23-43-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_34611550.json
+23-43-41 | [INFO] TraderID: 3 - Customer: Sarge - ClassName: MilitaryBoots_Brown - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 240 - Position: -1 - TradeMode:Sell
+23-43-41 | [INFO] Transaction Sell Succeeded:Sarge product:MilitaryBoots_Brown quantity:0 health:0 price:240
+23-43-48 | [INFO] TraderID: 3 - Customer: Sarge - ClassName: MilitaryBeret_Red - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 80 - Position: 71 - TradeMode:Sell
+23-43-48 | [INFO] Transaction Sell Succeeded:Sarge product:MilitaryBeret_Red quantity:0 health:0 price:80
+23-43-49 | [INFO] TraderID: 3 - Customer: Sarge - ClassName: CowboyHat_green - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 96 - Position: -1 - TradeMode:Sell
+23-43-49 | [INFO] Transaction Sell Succeeded:Sarge product:CowboyHat_green quantity:0 health:0 price:96
+23-43-51 | [INFO] TraderID: 3 - Customer: Sarge - ClassName: MassFedora_Black - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 80 - Position: -1 - TradeMode:Sell
+23-43-51 | [INFO] Transaction Sell Succeeded:Sarge product:MassFedora_Black quantity:0 health:0 price:80
+23-43-55 | [INFO] TraderID: 3 - Customer: Sarge - ClassName: MVS_Altyn_OD - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 4000 - Position: -1 - TradeMode:Sell
+23-43-55 | [INFO] Transaction Sell Succeeded:Sarge product:MVS_Altyn_OD quantity:0 health:0 price:4000
+23-43-58 | [INFO] TraderID: 3 - Customer: Sarge - ClassName: MVS_OpsCore_ERDL - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 1600 - Position: 269 - TradeMode:Sell
+23-43-58 | [INFO] Transaction Sell Succeeded:Sarge product:MVS_OpsCore_ERDL quantity:0 health:0 price:1600
+23-44-0 | [INFO] TraderID: 3 - Customer: Sarge - ClassName: MVS_OpsCore_Snow - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 1600 - Position: 184 - TradeMode:Sell
+23-44-0 | [INFO] Transaction Sell Succeeded:Sarge product:MVS_OpsCore_Snow quantity:0 health:0 price:1600
+23-44-3 | [INFO] TraderID: 3 - Customer: Sarge - ClassName: MVS_WarriorHelmet_OD - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 4000 - Position: -1 - TradeMode:Sell
+23-44-3 | [INFO] Transaction Sell Succeeded:Sarge product:MVS_WarriorHelmet_OD quantity:0 health:0 price:4000
+23-44-6 | [INFO] TraderID: 3 - Customer: Sarge - ClassName: MVS_WarriorHelmet_Multicam_Tropic - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 4000 - Position: 198 - TradeMode:Sell
+23-44-6 | [INFO] Transaction Sell Succeeded:Sarge product:MVS_WarriorHelmet_Multicam_Tropic quantity:0 health:0 price:4000
+23-44-9 | [INFO] TraderID: 3 - Customer: Sarge - ClassName: MassGorkaInvertWinterPants - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: -1 - TradeMode:Sell
+23-44-9 | [INFO] Transaction Sell Succeeded:Sarge product:MassGorkaInvertWinterPants quantity:0 health:0 price:160
+23-44-18 | [INFO] TraderID: 3 - Customer: Sarge - ClassName: Massurbancamom65 - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 200 - Position: 204 - TradeMode:Sell
+23-44-18 | [INFO] Transaction Sell Succeeded:Sarge product:Massurbancamom65 quantity:0 health:0 price:200
+23-44-21 | [INFO] TraderID: 3 - Customer: Sarge - ClassName: HighCapacityVest_Olive - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 240 - Position: 99 - TradeMode:Sell
+23-44-21 | [INFO] Transaction Sell Succeeded:Sarge product:HighCapacityVest_Olive quantity:0 health:0 price:240
+23-44-24 | [INFO] TraderID: 3 - Customer: Sarge - ClassName: GhillieHood_Mossy - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: 79 - TradeMode:Sell
+23-44-24 | [INFO] Transaction Sell Succeeded:Sarge product:GhillieHood_Mossy quantity:0 health:0 price:160
+23-44-27 | [INFO] TraderID: 3 - Customer: Sarge - ClassName: GhillieBushrag_Woodland - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 240 - Position: 101 - TradeMode:Sell
+23-44-27 | [INFO] Transaction Sell Succeeded:Sarge product:GhillieBushrag_Woodland quantity:0 health:0 price:240
+23-44-44 | [INFO] TraderID: 3 - Customer: Sarge - ClassName: MVS_Radio_Pack_ERDL - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 888 - Position: -1 - TradeMode:Sell
+23-44-44 | [INFO] Transaction Sell Succeeded:Sarge product:MVS_Radio_Pack_ERDL quantity:0 health:0 price:888
+23-44-52 | [INFO] TraderID: 3 - Customer: Sarge - ClassName: MVS_Holster_Snow - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: -1 - TradeMode:Sell
+23-44-52 | [INFO] Transaction Sell Succeeded:Sarge product:MVS_Holster_Snow quantity:0 health:0 price:160
+23-44-55 | [INFO] TraderID: 3 - Customer: Sarge - ClassName: MVS_Canteen_OD - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: -1 - TradeMode:Sell
+23-44-55 | [INFO] Transaction Sell Succeeded:Sarge product:MVS_Canteen_OD quantity:0 health:0 price:160
+23-45-0 | [INFO] TraderID: 3 - Customer: Sarge - ClassName: MVS_Holster_Multicam_Black - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: -1 - TradeMode:Sell
+23-45-0 | [INFO] Transaction Sell Succeeded:Sarge product:MVS_Holster_Multicam_Black quantity:0 health:0 price:160
+23-45-21 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_34611550.json
+23-45-32 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_34611550.json
+23-55-25 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_34611550.json
+23-55-30 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: SNAFUM1A_Green - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 1200 - Position: 452 - TradeMode:Sell
+23-55-30 | [INFO] Transaction Sell Succeeded:Sarge product:SNAFUM1A_Green quantity:0 health:0 price:1200
+23-55-35 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: SNAFU_M300BK - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 5920 - Position: 353 - TradeMode:Sell
+23-55-35 | [INFO] Transaction Sell Succeeded:Sarge product:SNAFU_M300BK quantity:0 health:0 price:5920
+23-55-40 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: SNAFUAUG - Quantity: 2 - Multiplier: 2 - MaxStock: 100 - Health: 0 - Price: 6080 - Position: 242 - TradeMode:Sell
+23-55-40 | [INFO] Transaction Sell Succeeded:Sarge product:SNAFUAUG quantity:4 health:0 price:6080
+23-55-44 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: SNAFUTAR21_Tan - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 3200 - Position: 279 - TradeMode:Sell
+23-55-44 | [INFO] Transaction Sell Succeeded:Sarge product:SNAFUTAR21_Tan quantity:0 health:0 price:3200
+23-55-47 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: SNAFUTAR21_Black - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 3200 - Position: 472 - TradeMode:Sell
+23-55-47 | [INFO] Transaction Sell Succeeded:Sarge product:SNAFUTAR21_Black quantity:0 health:0 price:3200
+23-55-54 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: SNAFU_SR3Grip - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 320 - Position: -1 - TradeMode:Sell
+23-55-54 | [INFO] Transaction Sell Succeeded:Sarge product:SNAFU_SR3Grip quantity:0 health:0 price:320
+23-56-4 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: Mag_AK74_45Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 800 - Position: 23 - TradeMode:Sell
+23-56-4 | [INFO] Transaction Sell Succeeded:Sarge product:Mag_AK74_45Rnd quantity:0 health:0 price:800
+23-56-7 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: SNAFUPPSh_71rdMag - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 2880 - Position: -1 - TradeMode:Sell
+23-56-7 | [INFO] Transaction Sell Succeeded:Sarge product:SNAFUPPSh_71rdMag quantity:0 health:0 price:2880
+23-56-10 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: SNAFUT5000_Mag - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 1600 - Position: 319 - TradeMode:Sell
+23-56-10 | [INFO] Transaction Sell Succeeded:Sarge product:SNAFUT5000_Mag quantity:0 health:0 price:1600
+23-56-16 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: Ammo_545x39 - Quantity: 50 - Multiplier: 50 - MaxStock: 1000 - Health: 0 - Price: 150 - Position: 146 - TradeMode:Sell
+23-56-16 | [INFO] Transaction Sell Succeeded:Sarge product:Ammo_545x39 quantity:2500 health:0 price:150
+23-56-19 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: SNAFU_Ammo_762x25 - Quantity: 50 - Multiplier: 50 - MaxStock: 1000 - Health: 0 - Price: 150 - Position: 124 - TradeMode:Sell
+23-56-20 | [INFO] Transaction Sell Succeeded:Sarge product:SNAFU_Ammo_762x25 quantity:2500 health:0 price:150
+23-56-27 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: Ammo_545x39 - Quantity: 9 - Multiplier: 9 - MaxStock: 1000 - Health: 0 - Price: 27 - Position: 146 - TradeMode:Sell
+23-56-27 | [INFO] Transaction Sell Succeeded:Sarge product:Ammo_545x39 quantity:81 health:0 price:27
+23-56-35 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_34611550.json
+23-56-41 | [INFO] TraderID: 3 - Customer: Sarge - ClassName: OMNOGloves_Brown - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: -1 - TradeMode:Sell
+23-56-41 | [INFO] Transaction Sell Succeeded:Sarge product:OMNOGloves_Brown quantity:0 health:0 price:160
+23-56-51 | [INFO] TraderID: 3 - Customer: Sarge - ClassName: MVS_Combat_Vest_OD - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 1600 - Position: -1 - TradeMode:Sell
+23-56-51 | [INFO] Transaction Sell Succeeded:Sarge product:MVS_Combat_Vest_OD quantity:0 health:0 price:1600
+23-56-55 | [INFO] TraderID: 3 - Customer: Sarge - ClassName: MVS_SlingPack_Multicam_Black - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 1384 - Position: -1 - TradeMode:Sell
+23-56-55 | [INFO] Transaction Sell Succeeded:Sarge product:MVS_SlingPack_Multicam_Black quantity:0 health:0 price:1384
+23-56-56 | [INFO] TraderID: 3 - Customer: Sarge - ClassName: MVS_Assault_Pack_Tan - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 1592 - Position: -1 - TradeMode:Sell
+23-56-56 | [INFO] Transaction Sell Succeeded:Sarge product:MVS_Assault_Pack_Tan quantity:0 health:0 price:1592
+23-57-2 | [INFO] TraderID: 3 - Customer: Sarge - ClassName: MVS_Heavy_Pouch_Multicam_Black - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 600 - Position: -1 - TradeMode:Sell
+23-57-2 | [INFO] Transaction Sell Succeeded:Sarge product:MVS_Heavy_Pouch_Multicam_Black quantity:0 health:0 price:600

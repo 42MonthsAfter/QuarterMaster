@@ -1,0 +1,253 @@
+Creation Time: 2022_1_13-0-0-15
+0-0-15 | [INFO] SafeZoneCore - Started !
+0-0-15 | [INFO] TraderPlusCore - Started !
+0-0-15 | [INFO] TraderPlus file exist ! loading...
+0-0-15 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusGeneralConfig.json
+0-0-15 | [INFO] TraderPlus file exist ! loading...
+0-0-15 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusVehiclesConfig.json
+0-0-15 | [INFO] TraderPlus file exist ! loading...
+0-0-15 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+0-0-15 | [INFO] CheckForSpacesToRemove - Started
+0-0-15 | [INFO] CheckForSpacesToRemove - Ended
+0-0-15 | [INFO] TraderPlus file exist ! loading...
+0-0-15 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusIDsConfig.json
+0-0-15 | [INFO] TraderPlusServer - Started
+0-0-15 | [INFO] TraderPlusBankingCore - Started !
+0-0-15 | [ERROR] TraderPlusJsonLoader::LoadFromFile ERROR Parsing $profile:TraderPlus\TraderPlusConfig\TraderPlusBankingConfig.jsonJSON ERROR:
+The document is empty.
+0-0-15 | [INFO] TraderPlusBankingServer - Started
+0-0-15 | [INFO] CarLockCore - Started !
+0-0-15 | [INFO] CarLockServer - Started
+0-0-27 | [INFO] ID_count: 7
+0-0-27 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_0.json
+0-0-27 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_1.json
+0-0-27 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_2.json
+0-0-27 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_3.json
+0-0-27 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_4.json
+0-0-27 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_5.json
+0-0-27 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_6.json
+0-0-29 | [INFO] obj created: SurvivorM_Boris
+0-0-29 | [INFO] TraderPlayer created and added!: 
+0-0-29 | [INFO] obj created: SurvivorM_Boris
+0-0-29 | [INFO] TraderPlayer created and added!: 
+0-0-29 | [INFO] obj created: SurvivorM_Boris
+0-0-29 | [INFO] TraderPlayer created and added!: 
+0-0-29 | [INFO] obj created: SurvivorM_Boris
+0-0-29 | [INFO] TraderPlayer created and added!: 
+0-0-29 | [INFO] obj created: SurvivorM_Boris
+0-0-29 | [INFO] TraderPlayer created and added!: 
+0-0-29 | [INFO] obj created: SurvivorM_Boris
+0-0-29 | [INFO] TraderPlayer created and added!: 
+0-0-29 | [INFO] obj created: SurvivorM_Boris
+0-0-29 | [INFO] TraderPlayer created and added!: 
+1-56-39 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+1-56-43 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+1-56-50 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+1-56-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+1-57-20 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: zenitco_pt3_buttstock_mung - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 240 - Position: 209 - TradeMode:Sell
+1-57-20 | [INFO] Transaction Sell Succeeded:Trenton17B product:zenitco_pt3_buttstock_mung quantity:0 health:0 price:240
+1-57-29 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: shotgun_Suppressor - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 800 - Position: 233 - TradeMode:Sell
+1-57-29 | [INFO] Transaction Sell Succeeded:Trenton17B product:shotgun_Suppressor quantity:0 health:0 price:800
+1-57-37 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: ReflexOptic - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: 268 - TradeMode:Sell
+1-57-37 | [INFO] Transaction Sell Succeeded:Trenton17B product:ReflexOptic quantity:0 health:0 price:160
+1-57-39 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: ReflexOptic - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: 268 - TradeMode:Sell
+1-57-39 | [INFO] Transaction Sell Succeeded:Trenton17B product:ReflexOptic quantity:0 health:0 price:160
+1-57-50 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Mag_VSS_10Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 640 - Position: 249 - TradeMode:Sell
+1-57-50 | [INFO] Transaction Sell Succeeded:Trenton17B product:Mag_VSS_10Rnd quantity:0 health:0 price:640
+1-57-53 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: SG550_Mag - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 1440 - Position: 224 - TradeMode:Sell
+1-57-53 | [INFO] Transaction Sell Succeeded:Trenton17B product:SG550_Mag quantity:0 health:0 price:1440
+1-57-56 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Mag_UMP_25Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 360 - Position: 273 - TradeMode:Sell
+1-57-56 | [INFO] Transaction Sell Succeeded:Trenton17B product:Mag_UMP_25Rnd quantity:0 health:0 price:360
+1-57-58 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Mag_UMP_25Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 360 - Position: 273 - TradeMode:Sell
+1-57-58 | [INFO] Transaction Sell Succeeded:Trenton17B product:Mag_UMP_25Rnd quantity:0 health:0 price:360
+1-58-1 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Mag_Scout_5Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 240 - Position: 0 - TradeMode:Sell
+1-58-1 | [INFO] Transaction Sell Succeeded:Trenton17B product:Mag_Scout_5Rnd quantity:0 health:0 price:240
+1-58-4 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Mag_Glock_15Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 48 - Position: 7 - TradeMode:Sell
+1-58-4 | [INFO] Transaction Sell Succeeded:Trenton17B product:Mag_Glock_15Rnd quantity:0 health:0 price:48
+1-58-6 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Mag_MKII_10Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 32 - Position: 5 - TradeMode:Sell
+1-58-6 | [INFO] Transaction Sell Succeeded:Trenton17B product:Mag_MKII_10Rnd quantity:0 health:0 price:32
+1-58-10 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: Mag_MKII_10Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 32 - Position: 5 - TradeMode:Sell
+1-58-10 | [INFO] Transaction Sell Succeeded:Trenton17B product:Mag_MKII_10Rnd quantity:0 health:0 price:32
+1-58-13 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+1-58-36 | [INFO] TraderID: 3 - Customer: Trenton17B - ClassName: MVS_Belt_Multicam_Tropic - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 500 - Position: 242 - TradeMode:Buy
+1-58-36 | [INFO] Transaction Buy Succeeded:Trenton17B product:MVS_Belt_Multicam_Tropic quantity:0 health:0 price:500
+1-59-22 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+2-0-18 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+2-0-26 | [INFO] TraderID: 3 - Customer: Trenton17B - ClassName: Mass_WW2Vest - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 400 - Position: -1 - TradeMode:Sell
+2-0-26 | [INFO] Transaction Sell Succeeded:Trenton17B product:Mass_WW2Vest quantity:0 health:0 price:400
+2-0-44 | [INFO] TraderID: 3 - Customer: Trenton17B - ClassName: MassPlateCarrierPouches_ODG - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 300 - Position: 111 - TradeMode:Buy
+2-0-44 | [INFO] Transaction Buy Succeeded:Trenton17B product:MassPlateCarrierPouches_ODG quantity:0 health:0 price:300
+2-0-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+2-0-59 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+2-1-7 | [INFO] TraderID: 3 - Customer: Trenton17B - ClassName: MassPlateCarrierPouches_ODG - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 300 - Position: 111 - TradeMode:Buy
+2-1-7 | [INFO] Transaction Buy Succeeded:Trenton17B product:MassPlateCarrierPouches_ODG quantity:0 health:0 price:300
+2-1-17 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+2-1-19 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+2-2-2 | [INFO] TraderID: 3 - Customer: Trenton17B - ClassName: MVS_Sheath_Multicam_Tropic - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 200 - Position: 210 - TradeMode:Buy
+2-2-2 | [INFO] Transaction Buy Succeeded:Trenton17B product:MVS_Sheath_Multicam_Tropic quantity:0 health:0 price:200
+2-2-6 | [INFO] TraderID: 3 - Customer: Trenton17B - ClassName: MassPlateCarrierHolster_ODG - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 200 - Position: 179 - TradeMode:Buy
+2-2-6 | [INFO] Transaction Buy Succeeded:Trenton17B product:MassPlateCarrierHolster_ODG quantity:0 health:0 price:200
+2-2-31 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+2-2-51 | [INFO] TraderID: 3 - Customer: Trenton17B - ClassName: MVS_Canteen_Multicam_Tropic - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 200 - Position: 241 - TradeMode:Buy
+2-2-51 | [INFO] Transaction Buy Succeeded:Trenton17B product:MVS_Canteen_Multicam_Tropic quantity:0 health:0 price:200
+2-3-19 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+2-3-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+2-4-29 | [INFO] TraderID: 3 - Customer: Trenton17B - ClassName: MassLargeMollePouchGreen - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 1000 - Position: 195 - TradeMode:Buy
+2-4-29 | [INFO] Transaction Buy Succeeded:Trenton17B product:MassLargeMollePouchGreen quantity:0 health:0 price:1000
+2-5-7 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+2-5-22 | [INFO] TraderID: 2 - Customer: Trenton17B - ClassName: thermos_mung - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: -1 - TradeMode:Sell
+2-5-22 | [INFO] Transaction Sell Succeeded:Trenton17B product:thermos_mung quantity:0 health:0 price:160
+2-5-26 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+2-5-42 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+2-6-13 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+2-6-16 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+2-8-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+2-9-15 | [INFO] TraderID: 3 - Customer: Trenton17B - ClassName: Hikingbagmung_camo - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 1110 - Position: 158 - TradeMode:Buy
+2-9-15 | [INFO] Transaction Buy Succeeded:Trenton17B product:Hikingbagmung_camo quantity:0 health:0 price:1110
+2-9-46 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+2-10-6 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+2-10-19 | [INFO] TraderID: 1 - Customer: Trenton17B - ClassName: RDG2SmokeGrenade_Black - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: 484 - TradeMode:Sell
+2-10-19 | [INFO] Transaction Sell Succeeded:Trenton17B product:RDG2SmokeGrenade_Black quantity:0 health:0 price:160
+2-11-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+2-11-24 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_274691972.json
+4-36-9 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_16874355.json
+4-36-13 | [INFO] TraderID: 2 - Customer: Mr Wolf - ClassName: Hacksaw - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 1600 - Position: 5 - TradeMode:Sell
+4-36-13 | [INFO] Transaction Sell Succeeded:Mr Wolf product:Hacksaw quantity:0 health:0 price:1600
+4-36-16 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_16874355.json
+4-36-20 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_16874355.json
+4-36-23 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_16874355.json
+4-36-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_16874355.json
+4-36-39 | [INFO] TraderID: 4 - Customer: Mr Wolf - ClassName: GasMask_Filter - Quantity: 150 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 80 - Position: 0 - TradeMode:Sell
+4-36-39 | [INFO] Transaction Sell Succeeded:Mr Wolf product:GasMask_Filter quantity:150 health:0 price:80
+4-36-50 | [INFO] TraderID: 4 - Customer: Mr Wolf - ClassName: BloodBagEmpty - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 40 - Position: 4 - TradeMode:Sell
+4-36-50 | [INFO] Transaction Sell Succeeded:Mr Wolf product:BloodBagEmpty quantity:0 health:0 price:40
+4-36-55 | [INFO] TraderID: 4 - Customer: Mr Wolf - ClassName: StartKitIV - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 40 - Position: 2 - TradeMode:Sell
+4-36-55 | [INFO] Transaction Sell Succeeded:Mr Wolf product:StartKitIV quantity:0 health:0 price:40
+4-37-0 | [INFO] TraderID: 4 - Customer: Mr Wolf - ClassName: Thermometer - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 8 - Position: 3 - TradeMode:Sell
+4-37-0 | [INFO] Transaction Sell Succeeded:Mr Wolf product:Thermometer quantity:0 health:0 price:8
+4-37-3 | [INFO] TraderID: 4 - Customer: Mr Wolf - ClassName: Epinephrine - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 80 - Position: 13 - TradeMode:Sell
+4-37-3 | [INFO] Transaction Sell Succeeded:Mr Wolf product:Epinephrine quantity:0 health:0 price:80
+4-37-9 | [INFO] TraderID: 4 - Customer: Mr Wolf - ClassName: Morphine - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 80 - Position: 14 - TradeMode:Sell
+4-37-9 | [INFO] Transaction Sell Succeeded:Mr Wolf product:Morphine quantity:0 health:0 price:80
+4-37-17 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_16874355.json
+4-37-48 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: Ammo_556x45 - Quantity: 20 - Multiplier: 20 - MaxStock: 1000 - Health: 0 - Price: 80 - Position: 130 - TradeMode:Buy
+4-37-48 | [INFO] Transaction Buy Succeeded:Mr Wolf product:Ammo_556x45 quantity:400 health:0 price:80
+4-37-53 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: Ammo_556x45 - Quantity: 20 - Multiplier: 20 - MaxStock: 1000 - Health: 0 - Price: 80 - Position: 130 - TradeMode:Buy
+4-37-53 | [INFO] Transaction Buy Succeeded:Mr Wolf product:Ammo_556x45 quantity:400 health:0 price:80
+4-37-56 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: Ammo_556x45 - Quantity: 20 - Multiplier: 20 - MaxStock: 1000 - Health: 0 - Price: 80 - Position: 130 - TradeMode:Buy
+4-37-56 | [INFO] Transaction Buy Succeeded:Mr Wolf product:Ammo_556x45 quantity:400 health:0 price:80
+4-37-59 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: Ammo_556x45 - Quantity: 20 - Multiplier: 20 - MaxStock: 1000 - Health: 0 - Price: 80 - Position: 130 - TradeMode:Buy
+4-37-59 | [INFO] Transaction Buy Succeeded:Mr Wolf product:Ammo_556x45 quantity:400 health:0 price:80
+4-38-2 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: Ammo_556x45 - Quantity: 20 - Multiplier: 20 - MaxStock: 1000 - Health: 0 - Price: 80 - Position: 130 - TradeMode:Buy
+4-38-2 | [INFO] Transaction Buy Succeeded:Mr Wolf product:Ammo_556x45 quantity:400 health:0 price:80
+4-38-6 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: Ammo_556x45 - Quantity: 20 - Multiplier: 20 - MaxStock: 1000 - Health: 0 - Price: 80 - Position: 130 - TradeMode:Buy
+4-38-6 | [INFO] Transaction Buy Succeeded:Mr Wolf product:Ammo_556x45 quantity:400 health:0 price:80
+4-38-14 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: Ammo_556x45 - Quantity: 10 - Multiplier: 10 - MaxStock: 1000 - Health: 0 - Price: 40 - Position: 130 - TradeMode:Buy
+4-38-14 | [INFO] Transaction Buy Succeeded:Mr Wolf product:Ammo_556x45 quantity:100 health:0 price:40
+4-38-26 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: Ammo_9x19 - Quantity: 50 - Multiplier: 50 - MaxStock: 1000 - Health: 0 - Price: 50 - Position: 229 - TradeMode:Sell
+4-38-26 | [INFO] Transaction Sell Succeeded:Mr Wolf product:Ammo_9x19 quantity:2500 health:0 price:50
+4-38-36 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: SNAFU_Ammo_127x55mm - Quantity: 50 - Multiplier: 50 - MaxStock: 1000 - Health: 0 - Price: 450 - Position: 252 - TradeMode:Sell
+4-38-36 | [INFO] Transaction Sell Succeeded:Mr Wolf product:SNAFU_Ammo_127x55mm quantity:2500 health:0 price:450
+4-38-41 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: Ammo_762x39 - Quantity: 45 - Multiplier: 45 - MaxStock: 1000 - Health: 0 - Price: 135 - Position: 422 - TradeMode:Sell
+4-38-41 | [INFO] Transaction Sell Succeeded:Mr Wolf product:Ammo_762x39 quantity:2025 health:0 price:135
+4-38-46 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: GCGN_Ammo_50Cal - Quantity: 5 - Multiplier: 5 - MaxStock: 1000 - Health: 0 - Price: 40 - Position: -1 - TradeMode:Sell
+4-38-46 | [INFO] Transaction Sell Succeeded:Mr Wolf product:GCGN_Ammo_50Cal quantity:25 health:0 price:40
+4-38-51 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: Ammo_380 - Quantity: 30 - Multiplier: 30 - MaxStock: 1000 - Health: 0 - Price: 30 - Position: 99 - TradeMode:Sell
+4-38-51 | [INFO] Transaction Sell Succeeded:Mr Wolf product:Ammo_380 quantity:900 health:0 price:30
+4-38-55 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: Ammo_762x54Tracer - Quantity: 13 - Multiplier: 13 - MaxStock: 1000 - Health: 0 - Price: 39 - Position: -1 - TradeMode:Sell
+4-38-55 | [INFO] Transaction Sell Succeeded:Mr Wolf product:Ammo_762x54Tracer quantity:169 health:0 price:39
+4-39-1 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: SNAFU_Ammo_127x55mm - Quantity: 30 - Multiplier: 30 - MaxStock: 1000 - Health: 0 - Price: 270 - Position: 252 - TradeMode:Sell
+4-39-1 | [INFO] Transaction Sell Succeeded:Mr Wolf product:SNAFU_Ammo_127x55mm quantity:900 health:0 price:270
+4-39-5 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: GCGN_Ammo_408Chey - Quantity: 7 - Multiplier: 7 - MaxStock: 1000 - Health: 0 - Price: 42 - Position: 123 - TradeMode:Sell
+4-39-5 | [INFO] Transaction Sell Succeeded:Mr Wolf product:GCGN_Ammo_408Chey quantity:49 health:0 price:42
+4-39-10 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: Ammo_762x54 - Quantity: 34 - Multiplier: 34 - MaxStock: 1000 - Health: 0 - Price: 102 - Position: -1 - TradeMode:Sell
+4-39-10 | [INFO] Transaction Sell Succeeded:Mr Wolf product:Ammo_762x54 quantity:1156 health:0 price:102
+4-39-22 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: Ammo_545x39 - Quantity: 36 - Multiplier: 36 - MaxStock: 1000 - Health: 0 - Price: 108 - Position: 146 - TradeMode:Sell
+4-39-22 | [INFO] Transaction Sell Succeeded:Mr Wolf product:Ammo_545x39 quantity:1296 health:0 price:108
+4-39-25 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: Ammo_545x39Tracer - Quantity: 9 - Multiplier: 9 - MaxStock: 1000 - Health: 0 - Price: 27 - Position: 393 - TradeMode:Sell
+4-39-25 | [INFO] Transaction Sell Succeeded:Mr Wolf product:Ammo_545x39Tracer quantity:81 health:0 price:27
+4-39-32 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: Ammo_45ACP - Quantity: 33 - Multiplier: 33 - MaxStock: 1000 - Health: 0 - Price: 99 - Position: 121 - TradeMode:Sell
+4-39-32 | [INFO] Transaction Sell Succeeded:Mr Wolf product:Ammo_45ACP quantity:1089 health:0 price:99
+4-39-36 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: AmmoBox_45ACP_25rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 500 - Health: 0 - Price: 80 - Position: 83 - TradeMode:Sell
+4-39-36 | [INFO] Transaction Sell Succeeded:Mr Wolf product:AmmoBox_45ACP_25rnd quantity:0 health:0 price:80
+4-39-42 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: Ammo_12gaPellets - Quantity: 19 - Multiplier: 19 - MaxStock: 1000 - Health: 0 - Price: 76 - Position: 289 - TradeMode:Sell
+4-39-42 | [INFO] Transaction Sell Succeeded:Mr Wolf product:Ammo_12gaPellets quantity:361 health:0 price:76
+4-39-47 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: AmmoBox_9x19_25rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 500 - Health: 0 - Price: 50 - Position: 78 - TradeMode:Sell
+4-39-47 | [INFO] Transaction Sell Succeeded:Mr Wolf product:AmmoBox_9x19_25rnd quantity:0 health:0 price:50
+4-39-51 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: SNAFU_Ammo_145Cal - Quantity: 20 - Multiplier: 20 - MaxStock: 1000 - Health: 0 - Price: 60 - Position: 293 - TradeMode:Sell
+4-39-51 | [INFO] Transaction Sell Succeeded:Mr Wolf product:SNAFU_Ammo_145Cal quantity:400 health:0 price:60
+4-40-32 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_16874355.json
+4-40-39 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: SN_M9 - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 320 - Position: 288 - TradeMode:Sell
+4-40-39 | [INFO] Transaction Sell Succeeded:Mr Wolf product:SN_M9 quantity:0 health:0 price:320
+4-40-49 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: SNAFU_SR25_Gun - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 3520 - Position: -1 - TradeMode:Sell
+4-40-49 | [INFO] Transaction Sell Succeeded:Mr Wolf product:SNAFU_SR25_Gun quantity:0 health:0 price:3520
+4-41-0 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: SNAFU_MPX_Suppressor_Black - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 480 - Position: -1 - TradeMode:Sell
+4-41-0 | [INFO] Transaction Sell Succeeded:Mr Wolf product:SNAFU_MPX_Suppressor_Black quantity:0 health:0 price:480
+4-41-4 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: SNAFU_50bmg_Suppressor_M - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 1600 - Position: -1 - TradeMode:Sell
+4-41-4 | [INFO] Transaction Sell Succeeded:Mr Wolf product:SNAFU_50bmg_Suppressor_M quantity:0 health:0 price:1600
+4-41-19 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: Mag_AK101_30Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 800 - Position: 22 - TradeMode:Sell
+4-41-19 | [INFO] Transaction Sell Succeeded:Mr Wolf product:Mag_AK101_30Rnd quantity:0 health:0 price:800
+4-41-27 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: MassG18Mag - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 80 - Position: 286 - TradeMode:Sell
+4-41-27 | [INFO] Transaction Sell Succeeded:Mr Wolf product:MassG18Mag quantity:0 health:0 price:80
+4-41-31 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: MassG18Mag - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 80 - Position: 286 - TradeMode:Sell
+4-41-31 | [INFO] Transaction Sell Succeeded:Mr Wolf product:MassG18Mag quantity:0 health:0 price:80
+4-41-35 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: Mag_MP5_15Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 360 - Position: 4 - TradeMode:Sell
+4-41-35 | [INFO] Transaction Sell Succeeded:Mr Wolf product:Mag_MP5_15Rnd quantity:0 health:0 price:360
+4-41-38 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: MassG18Mag - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 80 - Position: 286 - TradeMode:Sell
+4-41-38 | [INFO] Transaction Sell Succeeded:Mr Wolf product:MassG18Mag quantity:0 health:0 price:80
+4-41-46 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: M18SmokeGrenade_Yellow - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: 125 - TradeMode:Sell
+4-41-46 | [INFO] Transaction Sell Succeeded:Mr Wolf product:M18SmokeGrenade_Yellow quantity:0 health:0 price:160
+4-41-50 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: M18SmokeGrenade_Green - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: 126 - TradeMode:Sell
+4-41-50 | [INFO] Transaction Sell Succeeded:Mr Wolf product:M18SmokeGrenade_Green quantity:0 health:0 price:160
+4-41-53 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: FlashGrenade - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: 240 - TradeMode:Sell
+4-41-53 | [INFO] Transaction Sell Succeeded:Mr Wolf product:FlashGrenade quantity:0 health:0 price:160
+4-41-56 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: M18SmokeGrenade_Purple - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: 459 - TradeMode:Sell
+4-41-56 | [INFO] Transaction Sell Succeeded:Mr Wolf product:M18SmokeGrenade_Purple quantity:0 health:0 price:160
+4-42-5 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_16874355.json
+4-42-15 | [INFO] TraderID: 2 - Customer: Mr Wolf - ClassName: BBP_Dance_FloorKit - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 3200 - Position: 29 - TradeMode:Sell
+4-42-15 | [INFO] Transaction Sell Succeeded:Mr Wolf product:BBP_Dance_FloorKit quantity:0 health:0 price:3200
+4-42-25 | [INFO] TraderID: 2 - Customer: Mr Wolf - ClassName: EpoxyPutty - Quantity: 100 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 80 - Position: 34 - TradeMode:Sell
+4-42-25 | [INFO] Transaction Sell Succeeded:Mr Wolf product:EpoxyPutty quantity:100 health:0 price:80
+4-42-41 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_16874355.json
+4-42-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_16874355.json
+4-42-59 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_16874355.json
+4-43-4 | [INFO] TraderID: 3 - Customer: Mr Wolf - ClassName: Lennon_glasses_galaxy_mung - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 240 - Position: -1 - TradeMode:Sell
+4-43-4 | [INFO] Transaction Sell Succeeded:Mr Wolf product:Lennon_glasses_galaxy_mung quantity:0 health:0 price:240
+4-43-41 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_16874355.json
+4-44-22 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_16874355.json
+4-44-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_16874355.json
+4-50-35 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_16874355.json
+4-50-44 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: SNAFU_MAR10_Black_GUN - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 3840 - Position: 329 - TradeMode:Sell
+4-50-44 | [INFO] Transaction Sell Succeeded:Mr Wolf product:SNAFU_MAR10_Black_GUN quantity:0 health:0 price:3840
+4-50-58 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_16874355.json
+4-51-3 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: SCAR_Gun - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 1600 - Position: -1 - TradeMode:Sell
+4-51-3 | [INFO] Transaction Sell Succeeded:Mr Wolf product:SCAR_Gun quantity:0 health:0 price:1600
+4-59-8 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_16874355.json
+4-59-51 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: SNAFURSASS_Mag - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 2000 - Position: 501 - TradeMode:Buy
+4-59-51 | [INFO] Transaction Buy Succeeded:Mr Wolf product:SNAFURSASS_Mag quantity:0 health:0 price:2000
+5-0-3 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: SNAFURSASS_dkmc_GUN - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 6000 - Position: 347 - TradeMode:Buy
+5-0-3 | [INFO] Transaction Buy Succeeded:Mr Wolf product:SNAFURSASS_dkmc_GUN quantity:0 health:0 price:6000
+5-2-14 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_16874355.json
+5-3-24 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: SNAFUGevar_Suppressor_Green - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 600 - Position: 364 - TradeMode:Buy
+5-3-24 | [INFO] Transaction Buy Succeeded:Mr Wolf product:SNAFUGevar_Suppressor_Green quantity:0 health:0 price:600
+5-3-26 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: SNAFUGevar_Suppressor_Green - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 600 - Position: 364 - TradeMode:Buy
+5-3-26 | [INFO] Transaction Buy Succeeded:Mr Wolf product:SNAFUGevar_Suppressor_Green quantity:0 health:0 price:600
+5-3-46 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_16874355.json
+5-4-14 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: ACOGOptic - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 240 - Position: 270 - TradeMode:Sell
+5-4-14 | [INFO] Transaction Sell Succeeded:Mr Wolf product:ACOGOptic quantity:0 health:0 price:240
+5-4-17 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: M68Optic - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: 30 - TradeMode:Sell
+5-4-17 | [INFO] Transaction Sell Succeeded:Mr Wolf product:M68Optic quantity:0 health:0 price:160
+5-4-29 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: SNAFU_CMAG60300_Black - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 1280 - Position: 172 - TradeMode:Sell
+5-4-29 | [INFO] Transaction Sell Succeeded:Mr Wolf product:SNAFU_CMAG60300_Black quantity:0 health:0 price:1280
+5-4-32 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: Mag_STANAG_30Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 480 - Position: -1 - TradeMode:Sell
+5-4-32 | [INFO] Transaction Sell Succeeded:Mr Wolf product:Mag_STANAG_30Rnd quantity:0 health:0 price:480
+5-4-59 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: SNAFU_Ammo_338 - Quantity: 25 - Multiplier: 25 - MaxStock: 1000 - Health: 0 - Price: 150 - Position: -1 - TradeMode:Sell
+5-4-59 | [INFO] Transaction Sell Succeeded:Mr Wolf product:SNAFU_Ammo_338 quantity:625 health:0 price:150
+5-5-6 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_16874355.json
+5-5-42 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_16874355.json
+5-12-49 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_16874355.json
+5-13-51 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: MassHolo2 - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 1800 - Position: 176 - TradeMode:Buy
+5-13-51 | [INFO] Transaction Buy Succeeded:Mr Wolf product:MassHolo2 quantity:0 health:0 price:1800
+5-14-16 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_16874355.json
+5-14-23 | [INFO] TraderID: 1 - Customer: Mr Wolf - ClassName: SNAFU_Tango6T_Snow - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 640 - Position: 347 - TradeMode:Sell
+5-14-23 | [INFO] Transaction Sell Succeeded:Mr Wolf product:SNAFU_Tango6T_Snow quantity:0 health:0 price:640

@@ -1,0 +1,60 @@
+Creation Time: 2022_1_18-18-38-48
+18-38-48 | [INFO] SafeZoneCore - Started !
+18-38-48 | [INFO] TraderPlusCore - Started !
+18-38-48 | [INFO] TraderPlus file exist ! loading...
+18-38-48 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusGeneralConfig.json
+18-38-48 | [INFO] TraderPlus file exist ! loading...
+18-38-48 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusVehiclesConfig.json
+18-38-48 | [INFO] TraderPlus file exist ! loading...
+18-38-49 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+18-38-49 | [INFO] CheckForSpacesToRemove - Started
+18-38-49 | [INFO] CheckForSpacesToRemove - Ended
+18-38-49 | [INFO] TraderPlus file exist ! loading...
+18-38-49 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusIDsConfig.json
+18-38-49 | [INFO] TraderPlusServer - Started
+18-38-49 | [INFO] TraderPlusBankingCore - Started !
+18-38-49 | [ERROR] TraderPlusJsonLoader::LoadFromFile ERROR Parsing $profile:TraderPlus\TraderPlusConfig\TraderPlusBankingConfig.jsonJSON ERROR:
+The document is empty.
+18-38-49 | [INFO] TraderPlusBankingServer - Started
+18-38-49 | [INFO] CarLockCore - Started !
+18-38-49 | [INFO] CarLockServer - Started
+18-39-2 | [INFO] ID_count: 9
+18-39-2 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_0.json
+18-39-2 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_1.json
+18-39-2 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_2.json
+18-39-2 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_3.json
+18-39-2 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_4.json
+18-39-2 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_5.json
+18-39-2 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_6.json
+18-39-2 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_7.json
+18-39-2 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_8.json
+18-39-3 | [INFO] obj created: SurvivorM_Boris
+18-39-3 | [INFO] TraderPlayer created and added!: 
+18-39-3 | [INFO] obj created: SurvivorM_Boris
+18-39-3 | [INFO] TraderPlayer created and added!: 
+18-39-3 | [INFO] obj created: SurvivorM_Boris
+18-39-3 | [INFO] TraderPlayer created and added!: 
+18-39-3 | [INFO] obj created: SurvivorM_Boris
+18-39-3 | [INFO] TraderPlayer created and added!: 
+18-39-3 | [INFO] obj created: SurvivorM_Boris
+18-39-3 | [INFO] TraderPlayer created and added!: 
+18-39-3 | [INFO] obj created: SurvivorM_Boris
+18-39-3 | [INFO] TraderPlayer created and added!: 
+18-39-3 | [INFO] obj created: SurvivorM_Boris
+18-39-3 | [INFO] TraderPlayer created and added!: 
+18-39-3 | [INFO] obj created: SurvivorM_Boris
+18-39-3 | [INFO] TraderPlayer created and added!: 
+18-39-3 | [INFO] obj created: SurvivorM_Boris
+18-39-3 | [INFO] TraderPlayer created and added!: 
+19-3-5 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_105471341.json
+19-3-41 | [INFO] TraderID: 3 - Customer: Viper - ClassName: MassTropicamPants - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 200 - Position: 56 - TradeMode:Buy
+19-3-41 | [INFO] Transaction Buy Succeeded:Viper product:MassTropicamPants quantity:0 health:0 price:200
+19-4-21 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_105471341.json
+19-4-30 | [INFO] TraderID: 3 - Customer: Viper - ClassName: MVS_Medical_Pouch_Black - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 240 - Position: -1 - TradeMode:Sell
+19-4-30 | [INFO] Transaction Sell Succeeded:Viper product:MVS_Medical_Pouch_Black quantity:0 health:0 price:240
+19-6-32 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_105471341.json
+19-6-36 | [INFO] TraderID: 1 - Customer: Viper - ClassName: CombatKnife - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 100 - Position: 477 - TradeMode:Buy
+19-6-36 | [INFO] Transaction Buy Succeeded:Viper product:CombatKnife quantity:0 health:0 price:100
+19-7-9 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_105471341.json
+19-7-36 | [INFO] TraderID: 1 - Customer: Viper - ClassName: GCGN_M84_Optic - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 1200 - Position: 439 - TradeMode:Buy
+19-7-36 | [INFO] Transaction Buy Succeeded:Viper product:GCGN_M84_Optic quantity:0 health:0 price:1200

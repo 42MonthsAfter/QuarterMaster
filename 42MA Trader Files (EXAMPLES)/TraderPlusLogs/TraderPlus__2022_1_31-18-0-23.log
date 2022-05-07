@@ -1,0 +1,204 @@
+Creation Time: 2022_1_31-18-0-23
+18-0-23 | [INFO] SafeZoneCore - Started !
+18-0-23 | [INFO] TraderPlusCore - Started !
+18-0-23 | [INFO] TraderPlus file exist ! loading...
+18-0-23 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusGeneralConfig.json
+18-0-23 | [INFO] TraderPlus file exist ! loading...
+18-0-23 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusVehiclesConfig.json
+18-0-23 | [INFO] TraderPlus file exist ! loading...
+18-0-24 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+18-0-24 | [INFO] CheckForSpacesToRemove - Started
+18-0-24 | [INFO] CheckForSpacesToRemove - Ended
+18-0-24 | [INFO] TraderPlus file exist ! loading...
+18-0-24 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusIDsConfig.json
+18-0-24 | [INFO] TraderPlusServer - Started
+18-0-24 | [INFO] TraderPlusBankingCore - Started !
+18-0-24 | [ERROR] TraderPlusJsonLoader::LoadFromFile ERROR Parsing $profile:TraderPlus\TraderPlusConfig\TraderPlusBankingConfig.jsonJSON ERROR:
+The document is empty.
+18-0-24 | [INFO] TraderPlusBankingServer - Started
+18-0-24 | [INFO] CarLockCore - Started !
+18-0-24 | [INFO] CarLockServer - Started
+18-0-36 | [INFO] ID_count: 11
+18-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_0.json
+18-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_1.json
+18-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_2.json
+18-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_3.json
+18-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_4.json
+18-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_5.json
+18-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_6.json
+18-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_7.json
+18-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_8.json
+18-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_9.json
+18-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_10.json
+18-0-37 | [INFO] obj created: SurvivorM_Boris
+18-0-37 | [INFO] TraderPlayer created and added!: 
+18-0-37 | [INFO] obj created: SurvivorM_Boris
+18-0-37 | [INFO] TraderPlayer created and added!: 
+18-0-37 | [INFO] obj created: SurvivorM_Boris
+18-0-37 | [INFO] TraderPlayer created and added!: 
+18-0-37 | [INFO] obj created: SurvivorM_Boris
+18-0-37 | [INFO] TraderPlayer created and added!: 
+18-0-37 | [INFO] obj created: SurvivorM_Boris
+18-0-37 | [INFO] TraderPlayer created and added!: 
+18-0-37 | [INFO] obj created: SurvivorM_Boris
+18-0-37 | [INFO] TraderPlayer created and added!: 
+18-0-37 | [INFO] obj created: SurvivorM_Boris
+18-0-37 | [INFO] TraderPlayer created and added!: 
+18-0-37 | [INFO] obj created: SurvivorM_Boris
+18-0-37 | [INFO] TraderPlayer created and added!: 
+18-0-37 | [INFO] obj created: SurvivorM_Boris
+18-0-37 | [INFO] TraderPlayer created and added!: 
+18-0-37 | [INFO] obj created: SurvivorM_Boris
+18-0-37 | [INFO] TraderPlayer created and added!: 
+18-0-37 | [INFO] obj created: SurvivorM_Boris
+18-0-37 | [INFO] TraderPlayer created and added!: 
+21-56-13 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_276325536.json
+21-57-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_276325536.json
+21-57-25 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_276325536.json
+21-57-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_276325536.json
+21-58-6 | [INFO] TraderID: 3 - Customer: ShadowMan - ClassName: Hikingbagmung_yellow - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 888 - Position: -1 - TradeMode:Sell
+21-58-6 | [INFO] Transaction Sell Succeeded:ShadowMan product:Hikingbagmung_yellow quantity:0 health:0 price:888
+21-58-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_276325536.json
+21-59-1 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_276325536.json
+21-59-11 | [INFO] TraderID: 1 - Customer: ShadowMan - ClassName: MassM110 - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 2800 - Position: 253 - TradeMode:Sell
+21-59-11 | [INFO] Transaction Sell Succeeded:ShadowMan product:MassM110 quantity:0 health:0 price:2800
+21-59-22 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_276325536.json
+21-59-28 | [INFO] TraderID: 1 - Customer: ShadowMan - ClassName: Magnum - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 640 - Position: 188 - TradeMode:Sell
+21-59-28 | [INFO] Transaction Sell Succeeded:ShadowMan product:Magnum quantity:0 health:0 price:640
+21-59-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_276325536.json
+22-0-13 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_276325536.json
+22-0-57 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_276325536.json
+22-1-15 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_276325536.json
+22-1-29 | [INFO] TraderID: 1 - Customer: ShadowMan - ClassName: shotgun_Suppressor - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 800 - Position: 210 - TradeMode:Sell
+22-1-29 | [INFO] Transaction Sell Succeeded:ShadowMan product:shotgun_Suppressor quantity:0 health:0 price:800
+22-1-44 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_276325536.json
+22-2-4 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_276325536.json
+22-2-30 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_276325536.json
+22-2-40 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_276325536.json
+22-2-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_276325536.json
+22-6-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_276325536.json
+22-7-1 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_276325536.json
+22-8-24 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_276325536.json
+22-8-42 | [INFO] TraderID: 3 - Customer: Emerson - ClassName: MassGhillieTopSnow - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 320 - Position: 252 - TradeMode:Sell
+22-8-42 | [INFO] Transaction Sell Succeeded:Emerson product:MassGhillieTopSnow quantity:0 health:0 price:320
+22-8-43 | [INFO] TraderID: 1 - Customer: ShadowMan - ClassName: Ammo_357 - Quantity: 20 - Multiplier: 20 - MaxStock: 1000 - Health: 0 - Price: 40 - Position: 508 - TradeMode:Buy
+22-8-43 | [INFO] Transaction Buy Succeeded:ShadowMan product:Ammo_357 quantity:400 health:0 price:40
+22-8-45 | [INFO] TraderID: 3 - Customer: Emerson - ClassName: GhillieAtt_Woodland - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: 507 - TradeMode:Sell
+22-8-45 | [INFO] Transaction Sell Succeeded:Emerson product:GhillieAtt_Woodland quantity:0 health:0 price:160
+22-8-49 | [INFO] TraderID: 1 - Customer: ShadowMan - ClassName: Ammo_357 - Quantity: 6 - Multiplier: 6 - MaxStock: 1000 - Health: 0 - Price: 12 - Position: 508 - TradeMode:Buy
+22-8-49 | [INFO] Transaction Buy Succeeded:ShadowMan product:Ammo_357 quantity:36 health:0 price:12
+22-8-50 | [INFO] TraderID: 3 - Customer: Emerson - ClassName: GhillieTop_Woodland - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 320 - Position: 288 - TradeMode:Sell
+22-8-50 | [INFO] Transaction Sell Succeeded:Emerson product:GhillieTop_Woodland quantity:0 health:0 price:320
+22-8-54 | [INFO] TraderID: 3 - Customer: Emerson - ClassName: GhillieBushrag_Mossy - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 240 - Position: 81 - TradeMode:Sell
+22-8-54 | [INFO] Transaction Sell Succeeded:Emerson product:GhillieBushrag_Mossy quantity:0 health:0 price:240
+22-8-56 | [INFO] TraderID: 3 - Customer: Emerson - ClassName: MassGhillieHood_Snowy - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: 106 - TradeMode:Sell
+22-8-56 | [INFO] Transaction Sell Succeeded:Emerson product:MassGhillieHood_Snowy quantity:0 health:0 price:160
+22-8-57 | [INFO] TraderID: 1 - Customer: ShadowMan - ClassName: Ammo_556x45 - Quantity: 20 - Multiplier: 20 - MaxStock: 1000 - Health: 0 - Price: 80 - Position: 545 - TradeMode:Buy
+22-8-57 | [INFO] Transaction Buy Succeeded:ShadowMan product:Ammo_556x45 quantity:400 health:0 price:80
+22-9-1 | [INFO] TraderID: 1 - Customer: ShadowMan - ClassName: Ammo_556x45 - Quantity: 20 - Multiplier: 20 - MaxStock: 1000 - Health: 0 - Price: 80 - Position: 545 - TradeMode:Buy
+22-9-1 | [INFO] Transaction Buy Succeeded:ShadowMan product:Ammo_556x45 quantity:400 health:0 price:80
+22-9-2 | [INFO] TraderID: 3 - Customer: Emerson - ClassName: UKAssVest_Olive - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 200 - Position: 263 - TradeMode:Sell
+22-9-2 | [INFO] Transaction Sell Succeeded:Emerson product:UKAssVest_Olive quantity:0 health:0 price:200
+22-9-6 | [INFO] TraderID: 1 - Customer: ShadowMan - ClassName: Ammo_556x45 - Quantity: 20 - Multiplier: 20 - MaxStock: 1000 - Health: 0 - Price: 80 - Position: 545 - TradeMode:Buy
+22-9-6 | [INFO] Transaction Buy Succeeded:ShadowMan product:Ammo_556x45 quantity:400 health:0 price:80
+22-9-6 | [INFO] TraderID: 3 - Customer: Emerson - ClassName: MassWinterBDUJacket - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 200 - Position: 24 - TradeMode:Sell
+22-9-6 | [INFO] Transaction Sell Succeeded:Emerson product:MassWinterBDUJacket quantity:0 health:0 price:200
+22-9-10 | [INFO] TraderID: 1 - Customer: ShadowMan - ClassName: Ammo_556x45 - Quantity: 20 - Multiplier: 20 - MaxStock: 1000 - Health: 0 - Price: 80 - Position: 545 - TradeMode:Buy
+22-9-10 | [INFO] Transaction Buy Succeeded:ShadowMan product:Ammo_556x45 quantity:400 health:0 price:80
+22-9-10 | [INFO] TraderID: 3 - Customer: Emerson - ClassName: MassWinterBDUJacket - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 200 - Position: 24 - TradeMode:Sell
+22-9-10 | [INFO] Transaction Sell Succeeded:Emerson product:MassWinterBDUJacket quantity:0 health:0 price:200
+22-9-16 | [INFO] TraderID: 1 - Customer: ShadowMan - ClassName: Ammo_556x45 - Quantity: 9 - Multiplier: 9 - MaxStock: 1000 - Health: 0 - Price: 36 - Position: 545 - TradeMode:Buy
+22-9-16 | [INFO] Transaction Buy Succeeded:ShadowMan product:Ammo_556x45 quantity:81 health:0 price:36
+22-9-17 | [INFO] TraderID: 3 - Customer: Emerson - ClassName: MassMandraketop - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 200 - Position: 293 - TradeMode:Sell
+22-9-17 | [INFO] Transaction Sell Succeeded:Emerson product:MassMandraketop quantity:0 health:0 price:200
+22-9-23 | [INFO] TraderID: 3 - Customer: Emerson - ClassName: JumpsuitPants_Blue - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 40 - Position: -1 - TradeMode:Sell
+22-9-23 | [INFO] Transaction Sell Succeeded:Emerson product:JumpsuitPants_Blue quantity:0 health:0 price:40
+22-9-28 | [INFO] TraderID: 3 - Customer: Emerson - ClassName: BallisticHelmet_UN - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 1600 - Position: 137 - TradeMode:Sell
+22-9-28 | [INFO] Transaction Sell Succeeded:Emerson product:BallisticHelmet_UN quantity:0 health:0 price:1600
+22-9-33 | [INFO] TraderID: 3 - Customer: Emerson - ClassName: ZSh3PilotHelmet - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 96 - Position: 38 - TradeMode:Sell
+22-9-33 | [INFO] Transaction Sell Succeeded:Emerson product:ZSh3PilotHelmet quantity:0 health:0 price:96
+22-9-40 | [INFO] TraderID: 3 - Customer: Emerson - ClassName: BoonieHat_DPM - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 120 - Position: 63 - TradeMode:Sell
+22-9-40 | [INFO] Transaction Sell Succeeded:Emerson product:BoonieHat_DPM quantity:0 health:0 price:120
+22-9-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_987972960.json
+22-9-55 | [INFO] TraderID: 2 - Customer: Emerson - ClassName: HandSaw - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 100 - Position: 38 - TradeMode:Buy
+22-9-55 | [INFO] Transaction Buy Succeeded:Emerson product:HandSaw quantity:0 health:0 price:100
+22-9-57 | [INFO] TraderID: 2 - Customer: Emerson - ClassName: HandSaw - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 100 - Position: 38 - TradeMode:Buy
+22-9-57 | [INFO] Transaction Buy Succeeded:Emerson product:HandSaw quantity:0 health:0 price:100
+22-10-0 | [INFO] TraderID: 2 - Customer: Emerson - ClassName: HandSaw - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 100 - Position: 38 - TradeMode:Buy
+22-10-0 | [INFO] Transaction Buy Succeeded:Emerson product:HandSaw quantity:0 health:0 price:100
+22-10-14 | [INFO] TraderID: 2 - Customer: Emerson - ClassName: BBP_T1_DoorKit - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 200 - Position: 42 - TradeMode:Buy
+22-10-14 | [INFO] Transaction Buy Succeeded:Emerson product:BBP_T1_DoorKit quantity:0 health:0 price:200
+22-10-20 | [INFO] TraderID: 2 - Customer: Emerson - ClassName: BBP_T1_DoorKit - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 200 - Position: 42 - TradeMode:Buy
+22-10-20 | [INFO] Transaction Buy Succeeded:Emerson product:BBP_T1_DoorKit quantity:0 health:0 price:200
+22-10-23 | [INFO] TraderID: 2 - Customer: Emerson - ClassName: BBP_T1_DoorKit - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 200 - Position: 42 - TradeMode:Buy
+22-10-23 | [INFO] Transaction Buy Succeeded:Emerson product:BBP_T1_DoorKit quantity:0 health:0 price:200
+22-10-32 | [INFO] TraderID: 2 - Customer: Emerson - ClassName: BBP_Land_Claim_FlagKit - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1000 - Position: -1 - TradeMode:Buy
+22-10-32 | [INFO] Transaction Buy Succeeded:Emerson product:BBP_Land_Claim_FlagKit quantity:0 health:0 price:1000
+22-10-46 | [INFO] TraderID: 2 - Customer: Emerson - ClassName: NailBox - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 50 - Position: 36 - TradeMode:Buy
+22-10-46 | [INFO] Transaction Buy Succeeded:Emerson product:NailBox quantity:0 health:0 price:50
+22-10-47 | [INFO] TraderID: 2 - Customer: Emerson - ClassName: NailBox - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 50 - Position: 36 - TradeMode:Buy
+22-10-47 | [INFO] Transaction Buy Succeeded:Emerson product:NailBox quantity:0 health:0 price:50
+22-10-51 | [INFO] TraderID: 2 - Customer: Emerson - ClassName: NailBox - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 50 - Position: 36 - TradeMode:Buy
+22-10-51 | [INFO] Transaction Buy Succeeded:Emerson product:NailBox quantity:0 health:0 price:50
+22-10-52 | [INFO] TraderID: 2 - Customer: Emerson - ClassName: NailBox - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 50 - Position: 36 - TradeMode:Buy
+22-10-52 | [INFO] Transaction Buy Succeeded:Emerson product:NailBox quantity:0 health:0 price:50
+22-10-54 | [INFO] TraderID: 2 - Customer: Emerson - ClassName: NailBox - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 50 - Position: 36 - TradeMode:Buy
+22-10-54 | [INFO] Transaction Buy Succeeded:Emerson product:NailBox quantity:0 health:0 price:50
+22-10-55 | [INFO] TraderID: 2 - Customer: Emerson - ClassName: NailBox - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 50 - Position: 36 - TradeMode:Buy
+22-10-55 | [INFO] Transaction Buy Succeeded:Emerson product:NailBox quantity:0 health:0 price:50
+22-10-57 | [INFO] TraderID: 2 - Customer: Emerson - ClassName: NailBox - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 50 - Position: 36 - TradeMode:Buy
+22-10-57 | [INFO] Transaction Buy Succeeded:Emerson product:NailBox quantity:0 health:0 price:50
+22-10-58 | [INFO] TraderID: 2 - Customer: Emerson - ClassName: NailBox - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 50 - Position: 36 - TradeMode:Buy
+22-10-58 | [INFO] Transaction Buy Succeeded:Emerson product:NailBox quantity:0 health:0 price:50
+22-10-59 | [INFO] TraderID: 2 - Customer: Emerson - ClassName: NailBox - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 50 - Position: 36 - TradeMode:Buy
+22-10-59 | [INFO] Transaction Buy Succeeded:Emerson product:NailBox quantity:0 health:0 price:50
+22-11-0 | [INFO] TraderID: 2 - Customer: Emerson - ClassName: NailBox - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 50 - Position: 36 - TradeMode:Buy
+22-11-0 | [INFO] Transaction Buy Succeeded:Emerson product:NailBox quantity:0 health:0 price:50
+22-11-9 | [INFO] TraderID: 2 - Customer: Emerson - ClassName: BBP_BedKit - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 300 - Position: 63 - TradeMode:Buy
+22-11-9 | [INFO] Transaction Buy Succeeded:Emerson product:BBP_BedKit quantity:0 health:0 price:300
+22-11-30 | [INFO] TraderID: 2 - Customer: Emerson - ClassName: Tripod - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 240 - Position: -1 - TradeMode:Sell
+22-11-30 | [INFO] Transaction Sell Succeeded:Emerson product:Tripod quantity:0 health:0 price:240
+22-12-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_987972960.json
+22-12-12 | [INFO] TraderID: 1 - Customer: Emerson - ClassName: M18SmokeGrenade_Purple - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: 399 - TradeMode:Sell
+22-12-12 | [INFO] Transaction Sell Succeeded:Emerson product:M18SmokeGrenade_Purple quantity:0 health:0 price:160
+22-12-16 | [INFO] TraderID: 1 - Customer: Emerson - ClassName: M67Grenade - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 240 - Position: 463 - TradeMode:Sell
+22-12-16 | [INFO] Transaction Sell Succeeded:Emerson product:M67Grenade quantity:0 health:0 price:240
+22-12-19 | [INFO] TraderID: 1 - Customer: Emerson - ClassName: M18SmokeGrenade_Purple - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: 399 - TradeMode:Sell
+22-12-19 | [INFO] Transaction Sell Succeeded:Emerson product:M18SmokeGrenade_Purple quantity:0 health:0 price:160
+22-12-23 | [INFO] TraderID: 1 - Customer: Emerson - ClassName: M18SmokeGrenade_White - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: 323 - TradeMode:Sell
+22-12-23 | [INFO] Transaction Sell Succeeded:Emerson product:M18SmokeGrenade_White quantity:0 health:0 price:160
+22-12-40 | [INFO] TraderID: 1 - Customer: Emerson - ClassName: Snafu_ScarH_25RND_Mag_Snow - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 800 - Position: 322 - TradeMode:Sell
+22-12-40 | [INFO] Transaction Sell Succeeded:Emerson product:Snafu_ScarH_25RND_Mag_Snow quantity:0 health:0 price:800
+22-12-46 | [INFO] TraderID: 1 - Customer: Emerson - ClassName: SNAFU_PDW_45ACP_Mag - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 440 - Position: 483 - TradeMode:Sell
+22-12-46 | [INFO] Transaction Sell Succeeded:Emerson product:SNAFU_PDW_45ACP_Mag quantity:0 health:0 price:440
+22-13-1 | [INFO] TraderID: 1 - Customer: Emerson - ClassName: SNAFUHoneyBadger_30rdMag_Black - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 800 - Position: 508 - TradeMode:Sell
+22-13-1 | [INFO] Transaction Sell Succeeded:Emerson product:SNAFUHoneyBadger_30rdMag_Black quantity:0 health:0 price:800
+22-13-6 | [INFO] TraderID: 1 - Customer: Emerson - ClassName: SNAFU_CMAG40300_Tan - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 1120 - Position: 337 - TradeMode:Sell
+22-13-6 | [INFO] Transaction Sell Succeeded:Emerson product:SNAFU_CMAG40300_Tan quantity:0 health:0 price:1120
+22-13-9 | [INFO] TraderID: 1 - Customer: Emerson - ClassName: SNAFUHoneyBadger_30rdMag_Tan - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 960 - Position: -1 - TradeMode:Sell
+22-13-9 | [INFO] Transaction Sell Succeeded:Emerson product:SNAFUHoneyBadger_30rdMag_Tan quantity:0 health:0 price:960
+22-13-15 | [INFO] TraderID: 1 - Customer: Emerson - ClassName: Mag_VSS_10Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 640 - Position: 502 - TradeMode:Sell
+22-13-15 | [INFO] Transaction Sell Succeeded:Emerson product:Mag_VSS_10Rnd quantity:0 health:0 price:640
+22-13-25 | [INFO] TraderID: 1 - Customer: Emerson - ClassName: Snafu_ScarH_25RND_Mag_Tan - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 800 - Position: 403 - TradeMode:Sell
+22-13-25 | [INFO] Transaction Sell Succeeded:Emerson product:Snafu_ScarH_25RND_Mag_Tan quantity:0 health:0 price:800
+22-13-35 | [INFO] TraderID: 1 - Customer: Emerson - ClassName: SNAFU_KAC_Mag - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 960 - Position: 86 - TradeMode:Sell
+22-13-35 | [INFO] Transaction Sell Succeeded:Emerson product:SNAFU_KAC_Mag quantity:0 health:0 price:960
+22-14-21 | [INFO] TraderID: 1 - Customer: Emerson - ClassName: MassG18_Green - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 400 - Position: 536 - TradeMode:Sell
+22-14-21 | [INFO] Transaction Sell Succeeded:Emerson product:MassG18_Green quantity:0 health:0 price:400
+22-14-28 | [INFO] TraderID: 1 - Customer: Emerson - ClassName: SN_Mp443 - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 240 - Position: 142 - TradeMode:Sell
+22-14-28 | [INFO] Transaction Sell Succeeded:Emerson product:SN_Mp443 quantity:0 health:0 price:240
+22-14-39 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_987972960.json
+22-14-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_987972960.json
+22-15-14 | [INFO] TraderID: 2 - Customer: Emerson - ClassName: CarLock - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 2000 - Position: 49 - TradeMode:Buy
+22-15-14 | [INFO] Transaction Buy Succeeded:Emerson product:CarLock quantity:0 health:0 price:2000
+22-15-17 | [INFO] TraderID: 2 - Customer: Emerson - ClassName: CarLock - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 2000 - Position: 49 - TradeMode:Buy
+22-15-17 | [INFO] Transaction Buy Succeeded:Emerson product:CarLock quantity:0 health:0 price:2000
+22-15-28 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_987972960.json
+22-16-7 | [INFO] TraderID: 1 - Customer: Emerson - ClassName: Snafu_ScarH_Black_GUN - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 4400 - Position: 452 - TradeMode:Buy
+22-16-7 | [INFO] Transaction Buy Succeeded:Emerson product:Snafu_ScarH_Black_GUN quantity:0 health:0 price:4400
+22-16-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_987972960.json
+22-16-59 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_276325536.json
+22-17-2 | [INFO] TraderID: 2 - Customer: ShadowMan - ClassName: Lockpick - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 400 - Position: 45 - TradeMode:Buy
+22-17-2 | [INFO] Transaction Buy Succeeded:ShadowMan product:Lockpick quantity:0 health:0 price:400
+22-17-5 | [INFO] TraderID: 2 - Customer: ShadowMan - ClassName: Lockpick - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 400 - Position: 45 - TradeMode:Buy
+22-17-5 | [INFO] Transaction Buy Succeeded:ShadowMan product:Lockpick quantity:0 health:0 price:400

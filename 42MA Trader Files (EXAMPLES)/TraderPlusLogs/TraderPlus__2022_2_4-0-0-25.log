@@ -1,0 +1,108 @@
+Creation Time: 2022_2_4-0-0-25
+0-0-25 | [INFO] SafeZoneCore - Started !
+0-0-25 | [INFO] TraderPlusCore - Started !
+0-0-25 | [INFO] TraderPlus file exist ! loading...
+0-0-25 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusGeneralConfig.json
+0-0-25 | [INFO] TraderPlus file exist ! loading...
+0-0-25 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusVehiclesConfig.json
+0-0-25 | [INFO] TraderPlus file exist ! loading...
+0-0-25 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+0-0-25 | [INFO] CheckForSpacesToRemove - Started
+0-0-25 | [INFO] CheckForSpacesToRemove - Ended
+0-0-25 | [INFO] TraderPlus file exist ! loading...
+0-0-25 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusIDsConfig.json
+0-0-25 | [INFO] TraderPlusServer - Started
+0-0-25 | [INFO] TraderPlusBankingCore - Started !
+0-0-25 | [ERROR] TraderPlusJsonLoader::LoadFromFile ERROR Parsing $profile:TraderPlus\TraderPlusConfig\TraderPlusBankingConfig.jsonJSON ERROR:
+The document is empty.
+0-0-25 | [INFO] TraderPlusBankingServer - Started
+0-0-25 | [INFO] CarLockCore - Started !
+0-0-25 | [INFO] CarLockServer - Started
+0-0-37 | [INFO] ID_count: 11
+0-0-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_0.json
+0-0-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_1.json
+0-0-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_2.json
+0-0-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_3.json
+0-0-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_4.json
+0-0-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_5.json
+0-0-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_6.json
+0-0-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_7.json
+0-0-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_8.json
+0-0-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_9.json
+0-0-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_10.json
+0-0-39 | [INFO] obj created: SurvivorM_Boris
+0-0-39 | [INFO] TraderPlayer created and added!: 
+0-0-39 | [INFO] obj created: SurvivorM_Boris
+0-0-39 | [INFO] TraderPlayer created and added!: 
+0-0-39 | [INFO] obj created: SurvivorM_Boris
+0-0-39 | [INFO] TraderPlayer created and added!: 
+0-0-39 | [INFO] obj created: SurvivorM_Boris
+0-0-39 | [INFO] TraderPlayer created and added!: 
+0-0-39 | [INFO] obj created: SurvivorM_Boris
+0-0-39 | [INFO] TraderPlayer created and added!: 
+0-0-39 | [INFO] obj created: SurvivorM_Boris
+0-0-39 | [INFO] TraderPlayer created and added!: 
+0-0-39 | [INFO] obj created: SurvivorM_Boris
+0-0-39 | [INFO] TraderPlayer created and added!: 
+0-0-39 | [INFO] obj created: SurvivorM_Boris
+0-0-39 | [INFO] TraderPlayer created and added!: 
+0-0-39 | [INFO] obj created: SurvivorM_Boris
+0-0-39 | [INFO] TraderPlayer created and added!: 
+0-0-39 | [INFO] obj created: SurvivorM_Boris
+0-0-39 | [INFO] TraderPlayer created and added!: 
+0-0-39 | [INFO] obj created: SurvivorM_Boris
+0-0-39 | [INFO] TraderPlayer created and added!: 
+0-14-18 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_209468752.json
+0-23-28 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_209468752.json
+0-23-47 | [INFO] TraderID: 9 - Customer: DEADGoAT - ClassName: Ammo_45ACP - Quantity: 1 - Multiplier: 1 - MaxStock: 1000 - Health: 0 - Price: 1 - Position: 33 - TradeMode:Sell
+0-23-47 | [INFO] Transaction Sell Succeeded:DEADGoAT product:Ammo_45ACP quantity:1 health:0 price:1
+0-23-48 | [INFO] TraderID: 9 - Customer: DEADGoAT - ClassName: Ammo_45ACP - Quantity: 1 - Multiplier: 1 - MaxStock: 1000 - Health: 0 - Price: 1 - Position: 33 - TradeMode:Sell
+0-23-48 | [INFO] Transaction Sell Succeeded:DEADGoAT product:Ammo_45ACP quantity:1 health:0 price:1
+0-23-50 | [INFO] TraderID: 9 - Customer: DEADGoAT - ClassName: Ammo_45ACP - Quantity: 1 - Multiplier: 1 - MaxStock: 1000 - Health: 0 - Price: 1 - Position: 33 - TradeMode:Sell
+0-23-50 | [INFO] Transaction Sell Succeeded:DEADGoAT product:Ammo_45ACP quantity:1 health:0 price:1
+0-23-55 | [INFO] TraderID: 9 - Customer: DEADGoAT - ClassName: NailBox - Quantity: 0 - Multiplier: 1 - MaxStock: 1000 - Health: 0 - Price: 1 - Position: 1 - TradeMode:Buy
+0-23-55 | [INFO] Transaction Buy Succeeded:DEADGoAT product:NailBox quantity:0 health:0 price:1
+0-23-58 | [INFO] TraderID: 9 - Customer: DEADGoAT - ClassName: NailBox - Quantity: 0 - Multiplier: 1 - MaxStock: 1000 - Health: 0 - Price: 1 - Position: 1 - TradeMode:Buy
+0-23-58 | [INFO] Transaction Buy Succeeded:DEADGoAT product:NailBox quantity:0 health:0 price:1
+0-52-8 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_209468752.json
+0-52-23 | [INFO] TraderID: 9 - Customer: DEADGoAT - ClassName: Matchbox - Quantity: 100 - Multiplier: 1 - MaxStock: 1000 - Health: 0 - Price: 1 - Position: -1 - TradeMode:Sell
+0-52-23 | [INFO] Transaction Sell Succeeded:DEADGoAT product:Matchbox quantity:100 health:0 price:1
+0-52-27 | [INFO] TraderID: 9 - Customer: DEADGoAT - ClassName: Matchbox - Quantity: 100 - Multiplier: 1 - MaxStock: 1000 - Health: 0 - Price: 1 - Position: 74 - TradeMode:Buy
+0-52-27 | [INFO] Transaction Buy Succeeded:DEADGoAT product:Matchbox quantity:100 health:0 price:1
+4-7-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_209468752.json
+4-7-58 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_209468752.json
+4-8-14 | [INFO] TraderID: 3 - Customer: DEADGoAT - ClassName: MassGhillieHood_Woodland - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: 120 - TradeMode:Sell
+4-8-14 | [INFO] Transaction Sell Succeeded:DEADGoAT product:MassGhillieHood_Woodland quantity:0 health:0 price:160
+4-8-21 | [INFO] TraderID: 3 - Customer: DEADGoAT - ClassName: BoonieHat_Blue - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 120 - Position: 314 - TradeMode:Sell
+4-8-21 | [INFO] Transaction Sell Succeeded:DEADGoAT product:BoonieHat_Blue quantity:0 health:0 price:120
+4-8-33 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_209468752.json
+4-8-38 | [INFO] TraderID: 1 - Customer: DEADGoAT - ClassName: Mag_CZ61_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 320 - Position: 12 - TradeMode:Sell
+4-8-38 | [INFO] Transaction Sell Succeeded:DEADGoAT product:Mag_CZ61_20Rnd quantity:0 health:0 price:320
+4-8-41 | [INFO] TraderID: 1 - Customer: DEADGoAT - ClassName: Mag_CZ75_15Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 48 - Position: 11 - TradeMode:Sell
+4-8-41 | [INFO] Transaction Sell Succeeded:DEADGoAT product:Mag_CZ75_15Rnd quantity:0 health:0 price:48
+4-8-44 | [INFO] TraderID: 1 - Customer: DEADGoAT - ClassName: Mag_UMP_25Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 360 - Position: 239 - TradeMode:Sell
+4-8-44 | [INFO] Transaction Sell Succeeded:DEADGoAT product:Mag_UMP_25Rnd quantity:0 health:0 price:360
+4-8-48 | [INFO] TraderID: 1 - Customer: DEADGoAT - ClassName: M68Optic - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: 30 - TradeMode:Sell
+4-8-48 | [INFO] Transaction Sell Succeeded:DEADGoAT product:M68Optic quantity:0 health:0 price:160
+4-9-1 | [INFO] TraderID: 1 - Customer: DEADGoAT - ClassName: Fal_FoldingBttstck - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 240 - Position: 234 - TradeMode:Sell
+4-9-1 | [INFO] Transaction Sell Succeeded:DEADGoAT product:Fal_FoldingBttstck quantity:0 health:0 price:240
+4-9-14 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_209468752.json
+4-9-20 | [INFO] TraderID: 2 - Customer: DEADGoAT - ClassName: BBP_T1_GateKit - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: -1 - TradeMode:Sell
+4-9-20 | [INFO] Transaction Sell Succeeded:DEADGoAT product:BBP_T1_GateKit quantity:0 health:0 price:160
+4-9-21 | [INFO] TraderID: 2 - Customer: DEADGoAT - ClassName: BBP_T1_GateKit - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: 66 - TradeMode:Sell
+4-9-21 | [INFO] Transaction Sell Succeeded:DEADGoAT product:BBP_T1_GateKit quantity:0 health:0 price:160
+4-9-23 | [INFO] TraderID: 2 - Customer: DEADGoAT - ClassName: BBP_T1_GateKit - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: 66 - TradeMode:Sell
+4-9-23 | [INFO] Transaction Sell Succeeded:DEADGoAT product:BBP_T1_GateKit quantity:0 health:0 price:160
+4-9-24 | [INFO] TraderID: 2 - Customer: DEADGoAT - ClassName: BBP_T1_GateKit - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: 66 - TradeMode:Sell
+4-9-24 | [INFO] Transaction Sell Succeeded:DEADGoAT product:BBP_T1_GateKit quantity:0 health:0 price:160
+4-9-25 | [INFO] TraderID: 2 - Customer: DEADGoAT - ClassName: BBP_T1_DoorKit - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: 39 - TradeMode:Sell
+4-9-25 | [INFO] Transaction Sell Succeeded:DEADGoAT product:BBP_T1_DoorKit quantity:0 health:0 price:160
+4-9-26 | [INFO] TraderID: 2 - Customer: DEADGoAT - ClassName: BBP_T1_WallKit - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: 40 - TradeMode:Sell
+4-9-26 | [INFO] Transaction Sell Succeeded:DEADGoAT product:BBP_T1_WallKit quantity:0 health:0 price:160
+4-9-48 | [INFO] TraderID: 2 - Customer: DEADGoAT - ClassName: BBP_T2_GateKit - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 350 - Position: 9 - TradeMode:Buy
+4-9-48 | [INFO] Transaction Buy Succeeded:DEADGoAT product:BBP_T2_GateKit quantity:0 health:0 price:350
+4-9-49 | [INFO] TraderID: 2 - Customer: DEADGoAT - ClassName: BBP_T2_GateKit - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 350 - Position: 9 - TradeMode:Buy
+4-9-49 | [INFO] Transaction Buy Succeeded:DEADGoAT product:BBP_T2_GateKit quantity:0 health:0 price:350
+4-10-11 | [INFO] TraderID: 2 - Customer: DEADGoAT - ClassName: BBP_T2_WallKit - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 350 - Position: 10 - TradeMode:Buy
+4-10-11 | [INFO] Transaction Buy Succeeded:DEADGoAT product:BBP_T2_WallKit quantity:0 health:0 price:350
+4-10-24 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_209468752.json

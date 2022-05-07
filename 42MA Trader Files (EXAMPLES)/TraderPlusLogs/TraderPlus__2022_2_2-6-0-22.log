@@ -1,0 +1,91 @@
+Creation Time: 2022_2_2-6-0-22
+6-0-22 | [INFO] SafeZoneCore - Started !
+6-0-22 | [INFO] TraderPlusCore - Started !
+6-0-22 | [INFO] TraderPlus file exist ! loading...
+6-0-22 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusGeneralConfig.json
+6-0-22 | [INFO] TraderPlus file exist ! loading...
+6-0-22 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusVehiclesConfig.json
+6-0-22 | [INFO] TraderPlus file exist ! loading...
+6-0-22 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+6-0-22 | [INFO] CheckForSpacesToRemove - Started
+6-0-22 | [INFO] CheckForSpacesToRemove - Ended
+6-0-22 | [INFO] TraderPlus file exist ! loading...
+6-0-22 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusIDsConfig.json
+6-0-22 | [INFO] TraderPlusServer - Started
+6-0-22 | [INFO] TraderPlusBankingCore - Started !
+6-0-22 | [ERROR] TraderPlusJsonLoader::LoadFromFile ERROR Parsing $profile:TraderPlus\TraderPlusConfig\TraderPlusBankingConfig.jsonJSON ERROR:
+The document is empty.
+6-0-22 | [INFO] TraderPlusBankingServer - Started
+6-0-22 | [INFO] CarLockCore - Started !
+6-0-22 | [INFO] CarLockServer - Started
+6-0-35 | [INFO] ID_count: 11
+6-0-35 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_0.json
+6-0-35 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_1.json
+6-0-35 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_2.json
+6-0-35 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_3.json
+6-0-35 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_4.json
+6-0-35 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_5.json
+6-0-35 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_6.json
+6-0-35 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_7.json
+6-0-35 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_8.json
+6-0-35 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_9.json
+6-0-35 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_10.json
+6-0-38 | [INFO] obj created: SurvivorM_Boris
+6-0-38 | [INFO] TraderPlayer created and added!: 
+6-0-38 | [INFO] obj created: SurvivorM_Boris
+6-0-38 | [INFO] TraderPlayer created and added!: 
+6-0-38 | [INFO] obj created: SurvivorM_Boris
+6-0-38 | [INFO] TraderPlayer created and added!: 
+6-0-38 | [INFO] obj created: SurvivorM_Boris
+6-0-38 | [INFO] TraderPlayer created and added!: 
+6-0-38 | [INFO] obj created: SurvivorM_Boris
+6-0-38 | [INFO] TraderPlayer created and added!: 
+6-0-38 | [INFO] obj created: SurvivorM_Boris
+6-0-38 | [INFO] TraderPlayer created and added!: 
+6-0-38 | [INFO] obj created: SurvivorM_Boris
+6-0-38 | [INFO] TraderPlayer created and added!: 
+6-0-38 | [INFO] obj created: SurvivorM_Boris
+6-0-38 | [INFO] TraderPlayer created and added!: 
+6-0-38 | [INFO] obj created: SurvivorM_Boris
+6-0-38 | [INFO] TraderPlayer created and added!: 
+6-0-38 | [INFO] obj created: SurvivorM_Boris
+6-0-38 | [INFO] TraderPlayer created and added!: 
+6-0-38 | [INFO] obj created: SurvivorM_Boris
+6-0-38 | [INFO] TraderPlayer created and added!: 
+8-42-31 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_209468752.json
+8-42-55 | [INFO] TraderID: 5 - Customer: DEADGoAT - ClassName: TWP_Covid19Head_Red - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 1680 - Position: 112 - TradeMode:Sell
+8-42-55 | [INFO] Transaction Sell Succeeded:DEADGoAT product:TWP_Covid19Head_Red quantity:0 health:0 price:1680
+8-43-32 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_209468752.json
+8-44-23 | [INFO] TraderID: 5 - Customer: DEADGoAT - ClassName: TWP_Optic_Steyr - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 600 - Position: 26 - TradeMode:Buy
+8-44-23 | [INFO] Transaction Buy Succeeded:DEADGoAT product:TWP_Optic_Steyr quantity:0 health:0 price:600
+8-44-24 | [INFO] TraderID: 5 - Customer: DEADGoAT - ClassName: TWP_Optic_Steyr - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 600 - Position: 26 - TradeMode:Buy
+8-44-24 | [INFO] Transaction Buy Succeeded:DEADGoAT product:TWP_Optic_Steyr quantity:0 health:0 price:600
+8-44-32 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_209468752.json
+8-58-11 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_209468752.json
+8-58-33 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_209468752.json
+8-58-41 | [INFO] TraderID: 3 - Customer: DEADGoAT - ClassName: stalker_gasmask_white_mung - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 120 - Position: 111 - TradeMode:Sell
+8-58-41 | [INFO] Transaction Sell Succeeded:DEADGoAT product:stalker_gasmask_white_mung quantity:0 health:0 price:120
+8-58-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_209468752.json
+8-59-3 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_209468752.json
+8-59-12 | [INFO] TraderID: 3 - Customer: DEADGoAT - ClassName: Hikingbagmung_green - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 888 - Position: 143 - TradeMode:Sell
+8-59-12 | [INFO] Transaction Sell Succeeded:DEADGoAT product:Hikingbagmung_green quantity:0 health:0 price:888
+8-59-17 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_209468752.json
+8-59-25 | [INFO] TraderID: 1 - Customer: DEADGoAT - ClassName: Mag_UMP_25Rnd - Quantity: 2 - Multiplier: 2 - MaxStock: 250 - Health: 0 - Price: 720 - Position: 241 - TradeMode:Sell
+8-59-25 | [INFO] Transaction Sell Succeeded:DEADGoAT product:Mag_UMP_25Rnd quantity:4 health:0 price:720
+8-59-29 | [INFO] TraderID: 1 - Customer: DEADGoAT - ClassName: Mag_Scout_5Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 240 - Position: 0 - TradeMode:Sell
+8-59-29 | [INFO] Transaction Sell Succeeded:DEADGoAT product:Mag_Scout_5Rnd quantity:0 health:0 price:240
+8-59-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_209468752.json
+9-0-0 | [INFO] TraderID: 1 - Customer: DEADGoAT - ClassName: Ammo_545x39Tracer - Quantity: 20 - Multiplier: 20 - MaxStock: 1000 - Health: 0 - Price: 80 - Position: 347 - TradeMode:Buy
+9-0-0 | [INFO] Transaction Buy Succeeded:DEADGoAT product:Ammo_545x39Tracer quantity:400 health:0 price:80
+9-0-2 | [INFO] TraderID: 1 - Customer: DEADGoAT - ClassName: Ammo_545x39Tracer - Quantity: 20 - Multiplier: 20 - MaxStock: 1000 - Health: 0 - Price: 80 - Position: 347 - TradeMode:Buy
+9-0-2 | [INFO] Transaction Buy Succeeded:DEADGoAT product:Ammo_545x39Tracer quantity:400 health:0 price:80
+9-0-9 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_209468752.json
+9-0-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_209468752.json
+9-1-4 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_209468752.json
+9-1-44 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_209468752.json
+9-1-49 | [INFO] TraderID: 1 - Customer: DEADGoAT - ClassName: KashtanOptic - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 400 - Position: 46 - TradeMode:Sell
+9-1-49 | [INFO] Transaction Sell Succeeded:DEADGoAT product:KashtanOptic quantity:0 health:0 price:400
+9-1-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_209468752.json
+9-1-59 | [INFO] TraderID: 2 - Customer: DEADGoAT - ClassName: DuctTape - Quantity: 100 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 200 - Position: 53 - TradeMode:Buy
+9-1-59 | [INFO] Transaction Buy Succeeded:DEADGoAT product:DuctTape quantity:100 health:0 price:200
+9-14-49 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_209468752.json

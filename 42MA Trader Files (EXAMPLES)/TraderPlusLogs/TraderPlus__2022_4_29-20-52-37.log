@@ -1,0 +1,128 @@
+Creation Time: 2022_4_29-20-52-37
+20-52-37 | [INFO] SafeZoneCore - Started !
+20-52-37 | [INFO] TraderPlusCore - Started !
+20-52-37 | [INFO] TraderPlus file exist ! loading...
+20-52-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusGeneralConfig.json
+20-52-37 | [INFO] TraderPlus file exist ! loading...
+20-52-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusVehiclesConfig.json
+20-52-37 | [INFO] TraderPlus file exist ! loading...
+20-52-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+20-52-38 | [INFO] TraderPlus file exist ! loading...
+20-52-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusIDsConfig.json
+20-52-38 | [INFO] TraderPlus file exist ! loading...
+20-52-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusInsuranceConfig.json
+20-52-38 | [INFO] TraderPlus file exist ! loading...
+20-52-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+20-52-38 | [INFO] TraderPlusServer - Started
+20-52-38 | [INFO] TraderPlusBankingCore - Started !
+20-52-38 | [ERROR] TraderPlusJsonLoader::LoadFromFile ERROR Parsing $profile:TraderPlus\TraderPlusConfig\TraderPlusBankingConfig.jsonJSON ERROR:
+The document is empty.
+20-52-38 | [INFO] TraderPlusBankingServer - Started
+20-52-38 | [INFO] CarLockCore - Started !
+20-52-38 | [INFO] CarLockServer - Started
+20-52-53 | [INFO] ID_count: 9
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Beverages.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Packaged Food.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Fruit & Veg.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Meat & Fish.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Fungus.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Pelts.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Money Exchange.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Auto Parts.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Money Exchange.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Tools.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Base Storage.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Gardening.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Base Decor.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Money Exchange.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\That Good Good.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Money Exchange.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Vanilla Guns.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Just Mags.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Gun Parts.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Fox Guns.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Melee & Blades.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Weapon Care.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Ammo.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Money Exchange.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Shoes.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Gloves.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Head Wear.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Bags.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Tops.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Pants.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Gear.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Patches & Armbands.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Survival.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Camping.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Hunting & Fishing.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Money Exchange.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_6\Electronics.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_6\Money Exchange.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_7\Medical.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_7\Protective Gear.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_7\Money Exchange.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Melee & Blades.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Pistols.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Machine Guns.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Sniper Rifles.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Shotguns.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Assualt Rifles.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Bayonets.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Ammo.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Lights.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Suppressors.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Optics.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Attachments.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Halloween.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Covid.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Grenades.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Teddy's Cosmetics.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Pants.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Tops.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Masks.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Hats.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Gear.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Vests.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Helmets.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\MVS Bags.json
+20-52-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Money Exchange.json
+20-52-53 | [INFO] SetTradersSpawner: Started
+20-52-55 | [INFO] obj created: SurvivorF_Helga
+20-52-55 | [INFO] TraderPlayer created and added!: 
+20-52-55 | [INFO] obj created: SurvivorM_Jose
+20-52-55 | [INFO] TraderPlayer created and added!: 
+20-52-55 | [INFO] obj created: SurvivorM_Taiki
+20-52-55 | [INFO] TraderPlayer created and added!: 
+20-52-55 | [INFO] obj created: SurvivorF_Eva
+20-52-55 | [INFO] TraderPlayer created and added!: 
+20-52-55 | [INFO] obj created: SurvivorM_Seth
+20-52-55 | [INFO] TraderPlayer created and added!: 
+20-52-55 | [INFO] obj created: SurvivorM_Seth
+20-52-55 | [INFO] TraderPlayer created and added!: 
+20-52-55 | [INFO] obj created: SurvivorF_Eva
+20-52-55 | [INFO] TraderPlayer created and added!: 
+20-52-55 | [INFO] obj created: SurvivorM_Rolf
+20-52-55 | [INFO] TraderPlayer created and added!: 
+20-52-55 | [INFO] obj created: SurvivorM_Rolf
+20-52-55 | [INFO] TraderPlayer created and added!: 
+20-52-55 | [INFO] SetTradersSpawner: Ended
+20-52-55 | [INFO] SetObjectSpawner: Started
+20-52-55 | [INFO] SetObjectSpawner: Ended
+20-52-55 | [INFO] DefaultTraderStock - Started
+21-7-31 | [INFO] InsuranceRequestHandler
+21-7-31 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_36774377.json
+21-8-6 | [INFO] TraderID: 8 - Customer: Bunker - Category: Teddy's Pistols - ClassName: TWP_FN57Pink - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 900 - CollateralMoney: 0 - TradeMode:Sell
+21-8-6 | [INFO] Transaction Sell Succeeded:Bunker product:TWP_FN57Pink quantity:0 health:0 price:900
+21-8-8 | [INFO] TraderID: 8 - Customer: Bunker - Category: Teddy's Assualt Rifles - ClassName: TWP_SG556_mag_30Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 140 - CollateralMoney: 0 - TradeMode:Sell
+21-8-8 | [INFO] Transaction Sell Succeeded:Bunker product:TWP_SG556_mag_30Rnd quantity:0 health:0 price:140
+21-8-12 | [INFO] TraderID: 8 - Customer: Bunker - Category: Teddy's Assualt Rifles - ClassName: TWP_AK12_mag_30Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 140 - CollateralMoney: 0 - TradeMode:Sell
+21-8-12 | [INFO] Transaction Sell Succeeded:Bunker product:TWP_AK12_mag_30Rnd quantity:0 health:0 price:140
+21-8-15 | [INFO] TraderID: 8 - Customer: Bunker - Category: Teddy's Assualt Rifles - ClassName: TWP_MAB38_mag_40Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 140 - CollateralMoney: 0 - TradeMode:Sell
+21-8-15 | [INFO] Transaction Sell Succeeded:Bunker product:TWP_MAB38_mag_40Rnd quantity:0 health:0 price:140
+21-8-17 | [INFO] TraderID: 8 - Customer: Bunker - Category: Teddy's Assualt Rifles - ClassName: TWP_RK62_mag_30Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 140 - CollateralMoney: 0 - TradeMode:Sell
+21-8-17 | [INFO] Transaction Sell Succeeded:Bunker product:TWP_RK62_mag_30Rnd quantity:0 health:0 price:140
+21-8-19 | [INFO] TraderID: 8 - Customer: Bunker - Category: MVS Gear - ClassName: MVS_Sheath_Tan - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 50 - CollateralMoney: 0 - TradeMode:Sell
+21-8-19 | [INFO] Transaction Sell Succeeded:Bunker product:MVS_Sheath_Tan quantity:0 health:0 price:50
+21-8-23 | [INFO] TraderID: 8 - Customer: Bunker - Category: Teddy's Shotguns - ClassName: TWP_Fabarm_ST12 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 7 - CollateralMoney: 0 - TradeMode:Sell
+21-8-23 | [INFO] Transaction Sell Succeeded:Bunker product:TWP_Fabarm_ST12 quantity:0 health:0 price:7

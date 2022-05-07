@@ -1,0 +1,140 @@
+Creation Time: 2022_1_29-12-0-23
+12-0-23 | [INFO] SafeZoneCore - Started !
+12-0-23 | [INFO] TraderPlusCore - Started !
+12-0-23 | [INFO] TraderPlus file exist ! loading...
+12-0-23 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusGeneralConfig.json
+12-0-23 | [INFO] TraderPlus file exist ! loading...
+12-0-23 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusVehiclesConfig.json
+12-0-23 | [INFO] TraderPlus file exist ! loading...
+12-0-24 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+12-0-24 | [INFO] CheckForSpacesToRemove - Started
+12-0-24 | [INFO] CheckForSpacesToRemove - Ended
+12-0-24 | [INFO] TraderPlus file exist ! loading...
+12-0-24 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusIDsConfig.json
+12-0-24 | [INFO] TraderPlusServer - Started
+12-0-24 | [INFO] TraderPlusBankingCore - Started !
+12-0-24 | [ERROR] TraderPlusJsonLoader::LoadFromFile ERROR Parsing $profile:TraderPlus\TraderPlusConfig\TraderPlusBankingConfig.jsonJSON ERROR:
+The document is empty.
+12-0-24 | [INFO] TraderPlusBankingServer - Started
+12-0-24 | [INFO] CarLockCore - Started !
+12-0-24 | [INFO] CarLockServer - Started
+12-0-52 | [INFO] ID_count: 11
+12-0-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_0.json
+12-0-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_1.json
+12-0-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_2.json
+12-0-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_3.json
+12-0-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_4.json
+12-0-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_5.json
+12-0-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_6.json
+12-0-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_7.json
+12-0-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_8.json
+12-0-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_9.json
+12-0-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_10.json
+12-0-53 | [INFO] obj created: SurvivorM_Boris
+12-0-53 | [INFO] TraderPlayer created and added!: 
+12-0-53 | [INFO] obj created: SurvivorM_Boris
+12-0-53 | [INFO] TraderPlayer created and added!: 
+12-0-53 | [INFO] obj created: SurvivorM_Boris
+12-0-53 | [INFO] TraderPlayer created and added!: 
+12-0-53 | [INFO] obj created: SurvivorM_Boris
+12-0-53 | [INFO] TraderPlayer created and added!: 
+12-0-53 | [INFO] obj created: SurvivorM_Boris
+12-0-53 | [INFO] TraderPlayer created and added!: 
+12-0-53 | [INFO] obj created: SurvivorM_Boris
+12-0-53 | [INFO] TraderPlayer created and added!: 
+12-0-53 | [INFO] obj created: SurvivorM_Boris
+12-0-53 | [INFO] TraderPlayer created and added!: 
+12-0-53 | [INFO] obj created: SurvivorM_Boris
+12-0-53 | [INFO] TraderPlayer created and added!: 
+12-0-53 | [INFO] obj created: SurvivorM_Boris
+12-0-53 | [INFO] TraderPlayer created and added!: 
+12-0-53 | [INFO] obj created: SurvivorM_Boris
+12-0-53 | [INFO] TraderPlayer created and added!: 
+12-0-53 | [INFO] obj created: SurvivorM_Boris
+12-0-53 | [INFO] TraderPlayer created and added!: 
+12-28-48 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_122592510.json
+12-29-5 | [INFO] TraderID: 1 - Customer: MaToS - ClassName: AK74_WoodBttstck - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 240 - Position: 228 - TradeMode:Sell
+12-29-5 | [INFO] Transaction Sell Succeeded:MaToS product:AK74_WoodBttstck quantity:0 health:0 price:240
+12-29-10 | [INFO] TraderID: 1 - Customer: MaToS - ClassName: AK_RailHndgrd - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 240 - Position: 193 - TradeMode:Sell
+12-29-10 | [INFO] Transaction Sell Succeeded:MaToS product:AK_RailHndgrd quantity:0 health:0 price:240
+12-29-20 | [INFO] TraderID: 1 - Customer: MaToS - ClassName: M4_CarryHandleOptic - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 80 - Position: 39 - TradeMode:Sell
+12-29-20 | [INFO] Transaction Sell Succeeded:MaToS product:M4_CarryHandleOptic quantity:0 health:0 price:80
+12-29-27 | [INFO] TraderID: 1 - Customer: MaToS - ClassName: Mag_gewehr43_10Rnd_mung - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 240 - Position: 462 - TradeMode:Sell
+12-29-27 | [INFO] Transaction Sell Succeeded:MaToS product:Mag_gewehr43_10Rnd_mung quantity:0 health:0 price:240
+12-29-38 | [INFO] TraderID: 1 - Customer: MaToS - ClassName: M18SmokeGrenade_White - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: 325 - TradeMode:Sell
+12-29-38 | [INFO] Transaction Sell Succeeded:MaToS product:M18SmokeGrenade_White quantity:0 health:0 price:160
+12-29-41 | [INFO] TraderID: 1 - Customer: MaToS - ClassName: M18SmokeGrenade_Yellow - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: 115 - TradeMode:Sell
+12-29-41 | [INFO] Transaction Sell Succeeded:MaToS product:M18SmokeGrenade_Yellow quantity:0 health:0 price:160
+12-30-12 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_122592510.json
+12-30-17 | [INFO] TraderID: 3 - Customer: MaToS - ClassName: Round_Glasses_Black - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 240 - Position: -1 - TradeMode:Sell
+12-30-17 | [INFO] Transaction Sell Succeeded:MaToS product:Round_Glasses_Black quantity:0 health:0 price:240
+12-30-20 | [INFO] TraderID: 3 - Customer: MaToS - ClassName: stalker_gasmask_black_mung - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 120 - Position: 6 - TradeMode:Sell
+12-30-20 | [INFO] Transaction Sell Succeeded:MaToS product:stalker_gasmask_black_mung quantity:0 health:0 price:120
+12-30-40 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_122592510.json
+12-31-25 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_122592510.json
+12-31-48 | [INFO] TraderID: 1 - Customer: MaToS - ClassName: Mag_FAL_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 1000 - Position: 9 - TradeMode:Buy
+12-31-48 | [INFO] Transaction Buy Succeeded:MaToS product:Mag_FAL_20Rnd quantity:0 health:0 price:1000
+12-31-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_122592510.json
+12-32-1 | [INFO] TraderID: 1 - Customer: MaToS - ClassName: AmmoBox_308Win_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 500 - Health: 0 - Price: 120 - Position: 544 - TradeMode:Buy
+12-32-1 | [INFO] Transaction Buy Succeeded:MaToS product:AmmoBox_308Win_20Rnd quantity:0 health:0 price:120
+12-32-3 | [INFO] TraderID: 1 - Customer: MaToS - ClassName: AmmoBox_308WinTracer_20Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: 500 - Health: 0 - Price: 120 - Position: 535 - TradeMode:Buy
+12-32-3 | [INFO] Transaction Buy Succeeded:MaToS product:AmmoBox_308WinTracer_20Rnd quantity:0 health:0 price:120
+12-34-43 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_122592510.json
+12-34-58 | [INFO] TraderID: 1 - Customer: MaToS - ClassName: Fal_OeBttstck - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 300 - Position: 51 - TradeMode:Buy
+12-34-58 | [INFO] Transaction Buy Succeeded:MaToS product:Fal_OeBttstck quantity:0 health:0 price:300
+12-35-33 | [INFO] TraderID: 1 - Customer: MaToS - ClassName: SNAFUGevar_Suppressor_Green - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 600 - Position: 328 - TradeMode:Buy
+12-35-33 | [INFO] Transaction Buy Succeeded:MaToS product:SNAFUGevar_Suppressor_Green quantity:0 health:0 price:600
+12-36-20 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_122592510.json
+12-36-33 | [INFO] TraderID: 1 - Customer: MaToS - ClassName: Fal_FoldingBttstck - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 240 - Position: 238 - TradeMode:Sell
+12-36-33 | [INFO] Transaction Sell Succeeded:MaToS product:Fal_FoldingBttstck quantity:0 health:0 price:240
+12-37-29 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_122592510.json
+12-38-11 | [INFO] TraderID: 1 - Customer: MaToS - ClassName: M4_T3NRDSOptic - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 800 - Position: 31 - TradeMode:Buy
+12-38-11 | [INFO] Transaction Buy Succeeded:MaToS product:M4_T3NRDSOptic quantity:0 health:0 price:800
+14-13-10 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_122592510.json
+14-13-25 | [INFO] TraderID: 3 - Customer: MaToS - ClassName: PoliceVest - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 120 - Position: 86 - TradeMode:Sell
+14-13-25 | [INFO] Transaction Sell Succeeded:MaToS product:PoliceVest quantity:0 health:0 price:120
+14-13-32 | [INFO] TraderID: 3 - Customer: MaToS - ClassName: rifleholster_camo_ucp_mung - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 136 - Position: 453 - TradeMode:Sell
+14-13-32 | [INFO] Transaction Sell Succeeded:MaToS product:rifleholster_camo_ucp_mung quantity:0 health:0 price:136
+14-13-46 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_122592510.json
+14-13-53 | [INFO] TraderID: 1 - Customer: MaToS - ClassName: Massarmsan - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 800 - Position: 264 - TradeMode:Sell
+14-13-53 | [INFO] Transaction Sell Succeeded:MaToS product:Massarmsan quantity:0 health:0 price:800
+14-14-33 | [INFO] TraderID: 1 - Customer: MaToS - ClassName: Mass357M1911Mag - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 256 - Position: 506 - TradeMode:Sell
+14-14-33 | [INFO] Transaction Sell Succeeded:MaToS product:Mass357M1911Mag quantity:0 health:0 price:256
+14-15-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_122592510.json
+14-15-56 | [INFO] TraderID: 2 - Customer: MaToS - ClassName: CarBattery - Quantity: 50 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 400 - Position: 30 - TradeMode:Buy
+14-15-56 | [INFO] Transaction Buy Succeeded:MaToS product:CarBattery quantity:50 health:0 price:400
+14-15-59 | [INFO] TraderID: 2 - Customer: MaToS - ClassName: SparkPlug - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 10 - Position: 45 - TradeMode:Buy
+14-15-59 | [INFO] Transaction Buy Succeeded:MaToS product:SparkPlug quantity:0 health:0 price:10
+14-16-1 | [INFO] TraderID: 2 - Customer: MaToS - ClassName: CarRadiator - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 400 - Position: 45 - TradeMode:Buy
+14-16-1 | [INFO] Transaction Buy Succeeded:MaToS product:CarRadiator quantity:0 health:0 price:400
+14-16-8 | [INFO] TraderID: 2 - Customer: MaToS - ClassName: CarLock - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 2000 - Position: 50 - TradeMode:Buy
+14-16-8 | [INFO] Transaction Buy Succeeded:MaToS product:CarLock quantity:0 health:0 price:2000
+14-16-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_122592510.json
+14-16-45 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_122592510.json
+14-16-56 | [INFO] TraderID: 2 - Customer: MaToS - ClassName: CamoNet - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 200 - Position: 66 - TradeMode:Buy
+14-16-56 | [INFO] Transaction Buy Succeeded:MaToS product:CamoNet quantity:0 health:0 price:200
+14-17-10 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_122592510.json
+14-17-13 | [INFO] TraderID: 2 - Customer: MaToS - ClassName: Rope - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 40 - Position: 57 - TradeMode:Sell
+14-17-13 | [INFO] Transaction Sell Succeeded:MaToS product:Rope quantity:0 health:0 price:40
+14-18-4 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_122592510.json
+14-18-11 | [INFO] TraderID: 2 - Customer: MaToS - ClassName: LugWrench - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 50 - Position: 59 - TradeMode:Buy
+14-18-11 | [INFO] Transaction Buy Succeeded:MaToS product:LugWrench quantity:0 health:0 price:50
+14-27-35 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_33001900.json
+14-27-47 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_33001900.json
+14-27-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_33001900.json
+14-28-30 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_33001900.json
+14-28-37 | [INFO] TraderID: 2 - Customer: Serpz - ClassName: SAK_Mung - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 40 - Position: 6 - TradeMode:Sell
+14-28-37 | [INFO] Transaction Sell Succeeded:Serpz product:SAK_Mung quantity:0 health:0 price:40
+15-18-15 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_122592510.json
+15-18-19 | [INFO] TraderID: 5 - Customer: MaToS - ClassName: CP_CannabisSeedsPackBlue - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 288 - Position: -1 - TradeMode:Sell
+15-18-19 | [INFO] Transaction Sell Succeeded:MaToS product:CP_CannabisSeedsPackBlue quantity:0 health:0 price:288
+15-18-23 | [INFO] TraderID: 5 - Customer: MaToS - ClassName: CP_CannabisSeedsPackStardawg - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 576 - Position: -1 - TradeMode:Sell
+15-18-23 | [INFO] Transaction Sell Succeeded:MaToS product:CP_CannabisSeedsPackStardawg quantity:0 health:0 price:576
+15-18-26 | [INFO] TraderID: 5 - Customer: MaToS - ClassName: CigarettePack_Merkur - Quantity: 5 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 16 - Position: -1 - TradeMode:Sell
+15-18-26 | [INFO] Transaction Sell Succeeded:MaToS product:CigarettePack_Merkur quantity:5 health:0 price:16
+15-18-28 | [INFO] TraderID: 5 - Customer: MaToS - ClassName: sherlockpipe_mung - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 32 - Position: 131 - TradeMode:Sell
+15-18-28 | [INFO] Transaction Sell Succeeded:MaToS product:sherlockpipe_mung quantity:0 health:0 price:32
+15-19-0 | [INFO] TraderID: 5 - Customer: MaToS - ClassName: Sheriff_Badge - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 400 - Position: -1 - TradeMode:Sell
+15-19-0 | [INFO] Transaction Sell Succeeded:MaToS product:Sheriff_Badge quantity:0 health:0 price:400
+15-19-4 | [INFO] TraderID: 5 - Customer: MaToS - ClassName: Button_Pin_Radioactive - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 400 - Position: -1 - TradeMode:Sell
+15-19-4 | [INFO] Transaction Sell Succeeded:MaToS product:Button_Pin_Radioactive quantity:0 health:0 price:400

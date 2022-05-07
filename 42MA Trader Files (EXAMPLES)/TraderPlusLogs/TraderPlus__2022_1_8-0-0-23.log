@@ -1,0 +1,87 @@
+Creation Time: 2022_1_8-0-0-23
+0-0-23 | [INFO] SafeZoneCore - Started !
+0-0-23 | [INFO] TraderPlusCore - Started !
+0-0-23 | [INFO] TraderPlus file exist ! loading...
+0-0-23 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusGeneralConfig.json
+0-0-23 | [INFO] TraderPlus file exist ! loading...
+0-0-23 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusVehiclesConfig.json
+0-0-23 | [INFO] TraderPlus file exist ! loading...
+0-0-23 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+0-0-23 | [INFO] CheckForSpacesToRemove - Started
+0-0-23 | [INFO] CheckForSpacesToRemove - Ended
+0-0-23 | [INFO] TraderPlus file exist ! loading...
+0-0-23 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusIDsConfig.json
+0-0-23 | [INFO] TraderPlusServer - Started
+0-0-23 | [INFO] TraderPlusBankingCore - Started !
+0-0-23 | [ERROR] TraderPlusJsonLoader::LoadFromFile ERROR Parsing $profile:TraderPlus\TraderPlusConfig\TraderPlusBankingConfig.jsonJSON ERROR:
+The document is empty.
+0-0-23 | [INFO] TraderPlusBankingServer - Started
+0-0-23 | [INFO] CarLockCore - Started !
+0-0-23 | [INFO] CarLockServer - Started
+0-0-36 | [INFO] ID_count: 11
+0-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_0.json
+0-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_1.json
+0-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_2.json
+0-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_3.json
+0-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_4.json
+0-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_5.json
+0-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_6.json
+0-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_7.json
+0-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_8.json
+0-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_9.json
+0-0-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_10.json
+0-0-37 | [INFO] obj created: SurvivorM_Boris
+0-0-37 | [INFO] TraderPlayer created and added!: 
+0-0-37 | [INFO] obj created: SurvivorM_Boris
+0-0-37 | [INFO] TraderPlayer created and added!: 
+0-0-37 | [INFO] obj created: SurvivorM_Boris
+0-0-37 | [INFO] TraderPlayer created and added!: 
+0-0-37 | [INFO] obj created: SurvivorM_Boris
+0-0-37 | [INFO] TraderPlayer created and added!: 
+0-0-37 | [INFO] obj created: SurvivorM_Boris
+0-0-37 | [INFO] TraderPlayer created and added!: 
+0-2-44 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_34611550.json
+0-2-58 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_34611550.json
+0-3-6 | [INFO] TraderID: 0 - Customer: Sarge - ClassName: TraderPlus_Money_Euro500 - Quantity: 50 - Multiplier: 50 - MaxStock: -1 - Health: 0 - Price: 25000 - Position: -1 - TradeMode:Buy
+0-3-6 | [INFO] Transaction Buy Succeeded:Sarge product:TraderPlus_Money_Euro500 quantity:2500 health:0 price:25000
+0-3-8 | [INFO] TraderID: 0 - Customer: Sarge - ClassName: TraderPlus_Money_Euro500 - Quantity: 50 - Multiplier: 50 - MaxStock: -1 - Health: 0 - Price: 25000 - Position: -1 - TradeMode:Buy
+0-3-8 | [INFO] Transaction Buy Succeeded:Sarge product:TraderPlus_Money_Euro500 quantity:2500 health:0 price:25000
+0-3-18 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_34611550.json
+0-3-25 | [INFO] TraderID: 3 - Customer: Sarge - ClassName: MVS_BoonieHat_Multicam_Black - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 200 - Position: -1 - TradeMode:Sell
+0-3-25 | [INFO] Transaction Sell Succeeded:Sarge product:MVS_BoonieHat_Multicam_Black quantity:0 health:0 price:200
+0-3-28 | [INFO] TraderID: 3 - Customer: Sarge - ClassName: MVS_Cap_OD - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: -1 - TradeMode:Sell
+0-3-28 | [INFO] Transaction Sell Succeeded:Sarge product:MVS_Cap_OD quantity:0 health:0 price:160
+0-4-18 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_34611550.json
+0-4-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_34611550.json
+0-4-39 | [INFO] TraderID: 4 - Customer: Sarge - ClassName: IodineTincture - Quantity: 250 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 100 - Position: -1 - TradeMode:Buy
+0-4-39 | [INFO] Transaction Buy Succeeded:Sarge product:IodineTincture quantity:250 health:0 price:100
+0-4-41 | [INFO] TraderID: 4 - Customer: Sarge - ClassName: VitaminBottle - Quantity: 50 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 100 - Position: -1 - TradeMode:Buy
+0-4-41 | [INFO] Transaction Buy Succeeded:Sarge product:VitaminBottle quantity:50 health:0 price:100
+0-4-45 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_34611550.json
+0-4-56 | [INFO] TraderID: 0 - Customer: Sarge - ClassName: ZagorkyPeanuts - Quantity: 100 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 10 - Position: -1 - TradeMode:Buy
+0-4-56 | [INFO] Transaction Buy Succeeded:Sarge product:ZagorkyPeanuts quantity:100 health:0 price:10
+0-4-57 | [INFO] TraderID: 0 - Customer: Sarge - ClassName: ZagorkyPeanuts - Quantity: 100 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 10 - Position: -1 - TradeMode:Buy
+0-4-57 | [INFO] Transaction Buy Succeeded:Sarge product:ZagorkyPeanuts quantity:100 health:0 price:10
+0-4-58 | [INFO] TraderID: 0 - Customer: Sarge - ClassName: ZagorkyPeanuts - Quantity: 100 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 10 - Position: -1 - TradeMode:Buy
+0-4-58 | [INFO] Transaction Buy Succeeded:Sarge product:ZagorkyPeanuts quantity:100 health:0 price:10
+0-4-59 | [INFO] TraderID: 0 - Customer: Sarge - ClassName: ZagorkyPeanuts - Quantity: 100 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 10 - Position: -1 - TradeMode:Buy
+0-4-59 | [INFO] Transaction Buy Succeeded:Sarge product:ZagorkyPeanuts quantity:100 health:0 price:10
+0-5-7 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_34611550.json
+0-5-52 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: Ammo_308Win - Quantity: 20 - Multiplier: 20 - MaxStock: 1000 - Health: 0 - Price: 120 - Position: 41 - TradeMode:Buy
+0-5-52 | [INFO] Transaction Buy Succeeded:Sarge product:Ammo_308Win quantity:400 health:0 price:120
+0-7-29 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_34611550.json
+0-8-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_34611550.json
+0-9-4 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: SNAFU_CMAG60300_Black - Quantity: 0 - Multiplier: 1 - MaxStock: 250 - Health: 0 - Price: 1280 - Position: 40 - TradeMode:Sell
+0-9-4 | [INFO] Transaction Sell Succeeded:Sarge product:SNAFU_CMAG60300_Black quantity:0 health:0 price:1280
+0-9-14 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: SNAFU_Ammo_300ACC - Quantity: 50 - Multiplier: 50 - MaxStock: 1000 - Health: 0 - Price: 200 - Position: 11 - TradeMode:Sell
+0-9-14 | [INFO] Transaction Sell Succeeded:Sarge product:SNAFU_Ammo_300ACC quantity:2500 health:0 price:200
+0-9-17 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: Ammo_556x45 - Quantity: 50 - Multiplier: 50 - MaxStock: 1000 - Health: 0 - Price: 150 - Position: 68 - TradeMode:Sell
+0-9-17 | [INFO] Transaction Sell Succeeded:Sarge product:Ammo_556x45 quantity:2500 health:0 price:150
+0-9-19 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: Ammo_556x45 - Quantity: 50 - Multiplier: 50 - MaxStock: 1000 - Health: 0 - Price: 150 - Position: 68 - TradeMode:Sell
+0-9-19 | [INFO] Transaction Sell Succeeded:Sarge product:Ammo_556x45 quantity:2500 health:0 price:150
+0-9-21 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: SNAFU_Ammo_300ACC - Quantity: 50 - Multiplier: 50 - MaxStock: 1000 - Health: 0 - Price: 200 - Position: 11 - TradeMode:Sell
+0-9-21 | [INFO] Transaction Sell Succeeded:Sarge product:SNAFU_Ammo_300ACC quantity:2500 health:0 price:200
+0-9-26 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: Ammo_556x45 - Quantity: 50 - Multiplier: 50 - MaxStock: 1000 - Health: 0 - Price: 150 - Position: 68 - TradeMode:Sell
+0-9-26 | [INFO] Transaction Sell Succeeded:Sarge product:Ammo_556x45 quantity:2500 health:0 price:150
+0-9-29 | [INFO] TraderID: 1 - Customer: Sarge - ClassName: SNAFU_Ammo_300ACC - Quantity: 20 - Multiplier: 20 - MaxStock: 1000 - Health: 0 - Price: 80 - Position: 11 - TradeMode:Sell
+0-9-29 | [INFO] Transaction Sell Succeeded:Sarge product:SNAFU_Ammo_300ACC quantity:400 health:0 price:80

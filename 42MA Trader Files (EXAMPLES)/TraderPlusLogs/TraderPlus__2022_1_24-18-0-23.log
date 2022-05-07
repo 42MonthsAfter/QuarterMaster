@@ -1,0 +1,94 @@
+Creation Time: 2022_1_24-18-0-23
+18-0-23 | [INFO] SafeZoneCore - Started !
+18-0-23 | [INFO] TraderPlusCore - Started !
+18-0-23 | [INFO] TraderPlus file exist ! loading...
+18-0-23 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusGeneralConfig.json
+18-0-23 | [INFO] TraderPlus file exist ! loading...
+18-0-23 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusVehiclesConfig.json
+18-0-23 | [INFO] TraderPlus file exist ! loading...
+18-0-23 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+18-0-23 | [INFO] CheckForSpacesToRemove - Started
+18-0-23 | [INFO] CheckForSpacesToRemove - Ended
+18-0-23 | [INFO] TraderPlus file exist ! loading...
+18-0-23 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusIDsConfig.json
+18-0-23 | [INFO] TraderPlusServer - Started
+18-0-23 | [INFO] TraderPlusBankingCore - Started !
+18-0-23 | [ERROR] TraderPlusJsonLoader::LoadFromFile ERROR Parsing $profile:TraderPlus\TraderPlusConfig\TraderPlusBankingConfig.jsonJSON ERROR:
+The document is empty.
+18-0-23 | [INFO] TraderPlusBankingServer - Started
+18-0-23 | [INFO] CarLockCore - Started !
+18-0-23 | [INFO] CarLockServer - Started
+18-0-38 | [INFO] ID_count: 11
+18-0-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_0.json
+18-0-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_1.json
+18-0-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_2.json
+18-0-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_3.json
+18-0-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_4.json
+18-0-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_5.json
+18-0-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_6.json
+18-0-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_7.json
+18-0-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_8.json
+18-0-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_9.json
+18-0-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_10.json
+18-0-40 | [INFO] obj created: SurvivorM_Boris
+18-0-40 | [INFO] TraderPlayer created and added!: 
+18-0-40 | [INFO] obj created: SurvivorM_Boris
+18-0-40 | [INFO] TraderPlayer created and added!: 
+18-0-40 | [INFO] obj created: SurvivorM_Boris
+18-0-40 | [INFO] TraderPlayer created and added!: 
+18-0-40 | [INFO] obj created: SurvivorM_Boris
+18-0-40 | [INFO] TraderPlayer created and added!: 
+18-0-40 | [INFO] obj created: SurvivorM_Boris
+18-0-40 | [INFO] TraderPlayer created and added!: 
+18-0-40 | [INFO] obj created: SurvivorM_Boris
+18-0-40 | [INFO] TraderPlayer created and added!: 
+18-0-40 | [INFO] obj created: SurvivorM_Boris
+18-0-40 | [INFO] TraderPlayer created and added!: 
+18-0-40 | [INFO] obj created: SurvivorM_Boris
+18-0-40 | [INFO] TraderPlayer created and added!: 
+18-0-40 | [INFO] obj created: SurvivorM_Boris
+18-0-40 | [INFO] TraderPlayer created and added!: 
+18-0-40 | [INFO] obj created: SurvivorM_Boris
+18-0-40 | [INFO] TraderPlayer created and added!: 
+18-0-40 | [INFO] obj created: SurvivorM_Boris
+18-0-40 | [INFO] TraderPlayer created and added!: 
+21-37-25 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_88929178.json
+21-38-48 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_88929178.json
+21-40-11 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_88929178.json
+21-40-18 | [INFO] TraderID: 4 - Customer: MaxCaliber - ClassName: Morphine - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 80 - Position: 9 - TradeMode:Sell
+21-40-18 | [INFO] Transaction Sell Succeeded:MaxCaliber product:Morphine quantity:0 health:0 price:80
+21-48-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_88929178.json
+21-48-49 | [INFO] TraderID: 3 - Customer: MaxCaliber - ClassName: MassStockPouch - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 40 - Position: -1 - TradeMode:Sell
+21-48-49 | [INFO] Transaction Sell Succeeded:MaxCaliber product:MassStockPouch quantity:0 health:0 price:40
+21-49-2 | [INFO] TraderID: 3 - Customer: MaxCaliber - ClassName: WaterproofBag_Yellow - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: 454 - TradeMode:Sell
+21-49-2 | [INFO] Transaction Sell Succeeded:MaxCaliber product:WaterproofBag_Yellow quantity:0 health:0 price:160
+21-49-11 | [INFO] TraderID: 3 - Customer: MaxCaliber - ClassName: bag_6B38_LETO_mung - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 792 - Position: 82 - TradeMode:Sell
+21-49-11 | [INFO] Transaction Sell Succeeded:MaxCaliber product:bag_6B38_LETO_mung quantity:0 health:0 price:792
+21-49-14 | [INFO] TraderID: 3 - Customer: MaxCaliber - ClassName: rifleholster_TTsKO_mung - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 136 - Position: 116 - TradeMode:Sell
+21-49-14 | [INFO] Transaction Sell Succeeded:MaxCaliber product:rifleholster_TTsKO_mung quantity:0 health:0 price:136
+21-49-18 | [INFO] TraderID: 3 - Customer: MaxCaliber - ClassName: jaakari_simple_tan_mung - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 400 - Position: 57 - TradeMode:Sell
+21-49-18 | [INFO] Transaction Sell Succeeded:MaxCaliber product:jaakari_simple_tan_mung quantity:0 health:0 price:400
+21-49-34 | [INFO] TraderID: 3 - Customer: MaxCaliber - ClassName: PoliceVest - Quantity: 2 - Multiplier: 2 - MaxStock: 100 - Health: 0 - Price: 240 - Position: 86 - TradeMode:Sell
+21-49-34 | [INFO] Transaction Sell Succeeded:MaxCaliber product:PoliceVest quantity:4 health:0 price:240
+21-49-58 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_88929178.json
+21-50-6 | [INFO] TraderID: 1 - Customer: MaxCaliber - ClassName: Ammo_762x39Tracer - Quantity: 2 - Multiplier: 2 - MaxStock: 1000 - Health: 0 - Price: 6 - Position: 538 - TradeMode:Sell
+21-50-6 | [INFO] Transaction Sell Succeeded:MaxCaliber product:Ammo_762x39Tracer quantity:4 health:0 price:6
+21-50-9 | [INFO] TraderID: 1 - Customer: MaxCaliber - ClassName: Ammo_762x39 - Quantity: 8 - Multiplier: 8 - MaxStock: 1000 - Health: 0 - Price: 24 - Position: 531 - TradeMode:Sell
+21-50-9 | [INFO] Transaction Sell Succeeded:MaxCaliber product:Ammo_762x39 quantity:64 health:0 price:24
+21-50-20 | [INFO] TraderID: 1 - Customer: MaxCaliber - ClassName: PUScopeOptic - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 480 - Position: 226 - TradeMode:Sell
+21-50-20 | [INFO] Transaction Sell Succeeded:MaxCaliber product:PUScopeOptic quantity:0 health:0 price:480
+21-52-45 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_88929178.json
+21-52-52 | [INFO] TraderID: 2 - Customer: MaxCaliber - ClassName: Hatchet - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 160 - Position: 46 - TradeMode:Sell
+21-52-52 | [INFO] Transaction Sell Succeeded:MaxCaliber product:Hatchet quantity:0 health:0 price:160
+21-53-13 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_88929178.json
+21-53-18 | [INFO] TraderID: 2 - Customer: MaxCaliber - ClassName: Lockpick - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 400 - Position: 49 - TradeMode:Buy
+21-53-18 | [INFO] Transaction Buy Succeeded:MaxCaliber product:Lockpick quantity:0 health:0 price:400
+21-53-20 | [INFO] TraderID: 2 - Customer: MaxCaliber - ClassName: Screwdriver - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 50 - Position: 51 - TradeMode:Buy
+21-53-20 | [INFO] Transaction Buy Succeeded:MaxCaliber product:Screwdriver quantity:0 health:0 price:50
+21-53-23 | [INFO] TraderID: 2 - Customer: MaxCaliber - ClassName: Pliers - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 50 - Position: 50 - TradeMode:Buy
+21-53-23 | [INFO] Transaction Buy Succeeded:MaxCaliber product:Pliers quantity:0 health:0 price:50
+21-53-58 | [INFO] TraderID: 2 - Customer: MaxCaliber - ClassName: Compass - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 20 - Position: 31 - TradeMode:Buy
+21-53-58 | [INFO] Transaction Buy Succeeded:MaxCaliber product:Compass quantity:0 health:0 price:20
+21-55-22 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_88929178.json
+21-55-31 | [INFO] TraderID: 2 - Customer: MaxCaliber - ClassName: FishingRod - Quantity: 0 - Multiplier: 1 - MaxStock: 100 - Health: 0 - Price: 240 - Position: -1 - TradeMode:Sell
+21-55-31 | [INFO] Transaction Sell Succeeded:MaxCaliber product:FishingRod quantity:0 health:0 price:240

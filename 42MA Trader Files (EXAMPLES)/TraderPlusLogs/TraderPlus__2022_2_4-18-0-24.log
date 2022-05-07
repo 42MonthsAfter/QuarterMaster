@@ -1,0 +1,54 @@
+Creation Time: 2022_2_4-18-0-24
+18-0-24 | [INFO] SafeZoneCore - Started !
+18-0-24 | [INFO] TraderPlusCore - Started !
+18-0-24 | [INFO] TraderPlus file exist ! loading...
+18-0-24 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusGeneralConfig.json
+18-0-24 | [INFO] TraderPlus file exist ! loading...
+18-0-24 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusVehiclesConfig.json
+18-0-24 | [INFO] TraderPlus file exist ! loading...
+18-0-25 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+18-0-25 | [INFO] CheckForSpacesToRemove - Started
+18-0-25 | [INFO] CheckForSpacesToRemove - Ended
+18-0-25 | [INFO] TraderPlus file exist ! loading...
+18-0-25 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusIDsConfig.json
+18-0-25 | [INFO] TraderPlusServer - Started
+18-0-25 | [INFO] TraderPlusBankingCore - Started !
+18-0-25 | [ERROR] TraderPlusJsonLoader::LoadFromFile ERROR Parsing $profile:TraderPlus\TraderPlusConfig\TraderPlusBankingConfig.jsonJSON ERROR:
+The document is empty.
+18-0-25 | [INFO] TraderPlusBankingServer - Started
+18-0-25 | [INFO] CarLockCore - Started !
+18-0-25 | [INFO] CarLockServer - Started
+18-0-38 | [INFO] ID_count: 11
+18-0-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_0.json
+18-0-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_1.json
+18-0-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_2.json
+18-0-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_3.json
+18-0-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_4.json
+18-0-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_5.json
+18-0-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_6.json
+18-0-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_7.json
+18-0-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_8.json
+18-0-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_9.json
+18-0-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\TraderPlusStock_ID_10.json
+18-0-39 | [INFO] obj created: SurvivorM_Boris
+18-0-39 | [INFO] TraderPlayer created and added!: 
+18-0-39 | [INFO] obj created: SurvivorM_Boris
+18-0-39 | [INFO] TraderPlayer created and added!: 
+18-0-39 | [INFO] obj created: SurvivorM_Boris
+18-0-39 | [INFO] TraderPlayer created and added!: 
+18-0-39 | [INFO] obj created: SurvivorM_Boris
+18-0-39 | [INFO] TraderPlayer created and added!: 
+18-0-39 | [INFO] obj created: SurvivorM_Boris
+18-0-39 | [INFO] TraderPlayer created and added!: 
+18-0-39 | [INFO] obj created: SurvivorM_Boris
+18-0-39 | [INFO] TraderPlayer created and added!: 
+18-0-39 | [INFO] obj created: SurvivorM_Boris
+18-0-39 | [INFO] TraderPlayer created and added!: 
+18-0-39 | [INFO] obj created: SurvivorM_Boris
+18-0-39 | [INFO] TraderPlayer created and added!: 
+18-0-39 | [INFO] obj created: SurvivorM_Boris
+18-0-39 | [INFO] TraderPlayer created and added!: 
+18-0-39 | [INFO] obj created: SurvivorM_Boris
+18-0-39 | [INFO] TraderPlayer created and added!: 
+18-0-39 | [INFO] obj created: SurvivorM_Boris
+18-0-39 | [INFO] TraderPlayer created and added!: 

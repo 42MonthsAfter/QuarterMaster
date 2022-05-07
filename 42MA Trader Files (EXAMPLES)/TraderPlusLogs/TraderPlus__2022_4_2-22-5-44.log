@@ -1,0 +1,50 @@
+Creation Time: 2022_4_2-22-5-44
+22-5-44 | [INFO] SafeZoneCore - Started !
+22-5-44 | [INFO] TraderPlusCore - Started !
+22-5-44 | [INFO] TraderPlus file exist ! loading...
+22-5-44 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusGeneralConfig.json
+22-5-44 | [INFO] TraderPlus file exist ! loading...
+22-5-44 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusVehiclesConfig.json
+22-5-44 | [INFO] TraderPlus file exist ! loading...
+22-5-45 | [ERROR] TraderPlusJsonLoader::LoadFromFile ERROR Parsing $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.jsonJSON ERROR:
+Invalid encoding in string.
+22-5-45 | [INFO] TraderPlus file exist ! loading...
+22-5-45 | [ERROR] TraderPlusJsonLoader::LoadFromFile ERROR Parsing $profile:TraderPlus\TraderPlusConfig\TraderPlusIDsConfig.jsonJSON ERROR:
+Missing a comma or ']' after an array element.
+22-5-45 | [ERROR] TraderPlusJsonLoader::SaveToFile File could not be created at $profile:TraderPlus\TraderPlusConfig\TraderPlusIDsConfig.json
+22-5-45 | [INFO] TraderPlus file exist ! loading...
+22-5-45 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusInsuranceConfig.json
+22-5-45 | [INFO] TraderPlus file exist ! loading...
+22-5-45 | [ERROR] TraderPlusJsonLoader::LoadFromFile ERROR Parsing $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.jsonJSON ERROR:
+Invalid encoding in string.
+22-5-45 | [INFO] TraderPlusServer - Started
+22-5-45 | [INFO] TraderPlusBankingCore - Started !
+22-5-45 | [ERROR] TraderPlusJsonLoader::LoadFromFile ERROR Parsing $profile:TraderPlus\TraderPlusConfig\TraderPlusBankingConfig.jsonJSON ERROR:
+The document is empty.
+22-5-45 | [INFO] TraderPlusBankingServer - Started
+22-5-45 | [INFO] CarLockCore - Started !
+22-5-45 | [INFO] CarLockServer - Started
+22-6-4 | [INFO] ID_count: 0
+22-6-4 | [INFO] SetTradersSpawner: Started
+22-6-6 | [INFO] obj created: SurvivorF_Helga
+22-6-6 | [INFO] TraderPlayer created and added!: 
+22-6-6 | [INFO] obj created: SurvivorM_Jose
+22-6-6 | [INFO] TraderPlayer created and added!: 
+22-6-6 | [INFO] obj created: SurvivorM_Taiki
+22-6-6 | [INFO] TraderPlayer created and added!: 
+22-6-6 | [INFO] obj created: SurvivorM_Cyril
+22-6-6 | [INFO] TraderPlayer created and added!: 
+22-6-6 | [INFO] obj created: SurvivorM_Seth
+22-6-6 | [INFO] TraderPlayer created and added!: 
+22-6-6 | [INFO] obj created: SurvivorM_Seth
+22-6-6 | [INFO] TraderPlayer created and added!: 
+22-6-6 | [INFO] obj created: SurvivorF_Eva
+22-6-6 | [INFO] TraderPlayer created and added!: 
+22-6-6 | [INFO] obj created: SurvivorM_Rolf
+22-6-6 | [INFO] TraderPlayer created and added!: 
+22-6-6 | [INFO] obj created: SurvivorM_Rolf
+22-6-6 | [INFO] TraderPlayer created and added!: 
+22-6-6 | [INFO] SetTradersSpawner: Ended
+22-6-6 | [INFO] SetObjectSpawner: Started
+22-6-6 | [INFO] SetObjectSpawner: Ended
+22-6-6 | [INFO] DefaultTraderStock - Started

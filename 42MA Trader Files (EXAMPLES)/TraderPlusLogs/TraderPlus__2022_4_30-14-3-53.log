@@ -1,0 +1,22 @@
+Creation Time: 2022_4_30-14-3-53
+14-3-53 | [INFO] SafeZoneCore - Started !
+14-3-53 | [INFO] TraderPlusCore - Started !
+14-3-53 | [INFO] TraderPlus file exist ! loading...
+14-3-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusGeneralConfig.json
+14-3-53 | [INFO] TraderPlus file exist ! loading...
+14-3-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusVehiclesConfig.json
+14-3-53 | [INFO] TraderPlus file exist ! loading...
+14-3-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+14-3-53 | [INFO] TraderPlus file exist ! loading...
+14-3-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusIDsConfig.json
+14-3-53 | [INFO] TraderPlus file exist ! loading...
+14-3-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusInsuranceConfig.json
+14-3-53 | [INFO] TraderPlus file exist ! loading...
+14-3-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+14-3-54 | [INFO] TraderPlusServer - Started
+14-3-54 | [INFO] TraderPlusBankingCore - Started !
+14-3-54 | [ERROR] TraderPlusJsonLoader::LoadFromFile ERROR Parsing $profile:TraderPlus\TraderPlusConfig\TraderPlusBankingConfig.jsonJSON ERROR:
+The document is empty.
+14-3-54 | [INFO] TraderPlusBankingServer - Started
+14-3-54 | [INFO] CarLockCore - Started !
+14-3-54 | [INFO] CarLockServer - Started
